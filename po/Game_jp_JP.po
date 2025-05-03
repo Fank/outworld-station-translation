@@ -3,15 +3,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
-"PO-Revision-Date: 2025-05-03 20:45+0900\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: ja\n"
+"PO-Revision-Date: 2025-05-03 12:21+0000\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
+"Language-Team: Japanese <http://weblate.example.com/projects/"
+"outworld-station/game/jp_JP/>\n"
+"Language: jp_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.11.1\n"
 
 #. Key:	D55687164B6B8C311B44319F2050C356
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid.Default__BP_Asteroid_C.Description
@@ -51,6 +52,7 @@ msgstr "瓦礫"
 #. Key:	D18A6BE34475041721B95D810F9172A3
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_ExoticMatter.Default__BP_Asteroid_ExoticMatter_C.Description
 #: /Game/Asteroids/BP_Asteroid_ExoticMatter.Default__BP_Asteroid_ExoticMatter_C.Description
+#, fuzzy
 msgctxt ",D18A6BE34475041721B95D810F9172A3"
 msgid "Feed into a Containment Chamber to extract resources"
 msgstr "コンテインメント・チャンバーに投入して資源を取り出す"
@@ -58,6 +60,7 @@ msgstr "コンテインメント・チャンバーに投入して資源を取り
 #. Key:	BD32744447A9B876A964DBA4BF1E9865
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_ExoticMatter.Default__BP_Asteroid_ExoticMatter_C.Name
 #: /Game/Asteroids/BP_Asteroid_ExoticMatter.Default__BP_Asteroid_ExoticMatter_C.Name
+#, fuzzy
 msgctxt ",BD32744447A9B876A964DBA4BF1E9865"
 msgid "Exotic Matter"
 msgstr "エキゾチック・マター"
@@ -242,7 +245,7 @@ msgstr "<Bold>{Amount} x {Name}{plural}</>{Fuelled}{Armed}"
 #: Bytecode]
 msgctxt ",F6ED51B9424960E84465FC8A14A3EE27"
 msgid " and "
-msgstr "と"
+msgstr " と "
 
 #. Key:	5C0C1B14441F9AC29C039185C0B3F930
 #. SourceLocation:	/Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(0 - Value).DisplayNameMap
