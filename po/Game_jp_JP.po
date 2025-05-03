@@ -4,7 +4,8 @@ msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
 "PO-Revision-Date: 2025-05-03 12:27+0000\n"
-"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/jp_JP/>\n"
 "Language: jp_JP\n"
@@ -171,7 +172,7 @@ msgstr "{Current}{ThisShip}{End}"
 #: Bytecode]
 msgctxt ",32AAFA4140805A103A8C83BB97A04A40"
 msgid " and "
-msgstr ""
+msgstr " と "
 
 #. Key:	3CC1C5364D9D772DB6881C82EF7CF886
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
@@ -845,7 +846,7 @@ msgstr ""
 #: /Game/Data/DT_Materials.DT_Materials.EXOTIC_MATTER.Name
 msgctxt ",543048D649703D6C9D43DD9D87ADE9F5"
 msgid "Exotic Matter"
-msgstr ""
+msgstr "エキゾチック・マター"
 
 #. Key:	2A56A1DA4AB963515829D587D2751655
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.FIBRE_OPTICS.Description
@@ -6559,7 +6560,7 @@ msgstr ""
 #: /Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_GFX_AA_Mode.Options(0).Options
 msgctxt ",9B8E947746663AA060CDB691192187C8"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #. Key:	642BAE5C4DAB809F11F0648AC1205CAA
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_GFX_AA_Mode.Options(1).Options
@@ -6664,7 +6665,7 @@ msgstr ""
 #: /Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_GFX_LimitFrameRate.Options(0).Options
 msgctxt ",0777C3CE4199530D2B9A5491FB69D8DC"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #. Key:	3CFF13684231F92600F60B809B93726A
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_GFX_LimitFrameRate.Options(1).Options
@@ -8319,7 +8320,7 @@ msgstr ""
 #: Value).DisplayNameMap
 msgctxt ",F314F4A943BFCB5A5F8DBC956966BA1F"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #. Key:	5B80EBBC415349660D08C1898C754B04
 #. SourceLocation:	/Game/Save/E_AntiAliasingMethod.E_AntiAliasingMethod.DisplayNameMap(1 - Value).DisplayNameMap
@@ -9024,7 +9025,7 @@ msgstr ""
 #: /Game/Station/Modules/BP_Module_CloudMinerStation.Default__BP_Module_CloudMinerStation_C.Name
 msgctxt ",C77C79944575ACA7744DDA8D64068027"
 msgid "Cloud Miner"
-msgstr ""
+msgstr "クラウドマイナー"
 
 #. Key:	7BCC32524994D911A8BD0097D0F42504
 #. SourceLocation:	/Game/Station/Modules/BP_Module_Connector.Default__BP_Module_Connector_C.Description
@@ -11202,14 +11203,14 @@ msgstr ""
 #: /Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
 msgctxt ",30FBCF7448406EA275181DB143CD9CA0"
 msgid "+{Amount}"
-msgstr ""
+msgstr "+{Amount}"
 
 #. Key:	6E1423AA42A886A88EB8C5A88CE3A0FC
 #. SourceLocation:	/Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
 msgctxt ",6E1423AA42A886A88EB8C5A88CE3A0FC"
 msgid "-{Amount}"
-msgstr ""
+msgstr "-{Amount}"
 
 #. Key:	9F26260F4D8DB3440CD4A08B0BD5A29E
 #. SourceLocation:	/Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
@@ -11244,7 +11245,7 @@ msgstr ""
 #: /Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
 msgctxt ",D1CCF6414AF90B6CCC6509A5DC71A2E6"
 msgid "{Stored}/{Total}"
-msgstr ""
+msgstr "{Stored}/{Total}"
 
 #. Key:	D55E33A5470A80D8286F67AD29BC0F45
 #. SourceLocation:	/Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
@@ -13241,7 +13242,7 @@ msgstr ""
 #: Bytecode]
 msgctxt ",89E50E7E48376D4B8E19BC901586024A"
 msgid "{Amount}%"
-msgstr ""
+msgstr "{Amount}%"
 
 #. Key:	190B6A4946575C5C754D009B962853BB
 #. SourceLocation:	/Game/UI/UI_Panel_SolarGenerator.UI_Panel_SolarGenerator_C:WidgetTree.Text_Hitpoints.Text
@@ -13390,7 +13391,7 @@ msgstr ""
 #: /Game/UI/UI_Process_Recipe.UI_Process_Recipe_C:WidgetTree.Text_RecipeName_3.Text
 msgctxt ",5A809CA4470F933023232CAF38C25396"
 msgid "s"
-msgstr ""
+msgstr "秒"
 
 #. Key:	6DEBBD244DB1165338799B9743E9E42E
 #. SourceLocation:	/Game/UI/UI_Process_Recipe.UI_Process_Recipe_C:WidgetTree.UI_Tab.Text
@@ -13879,21 +13880,21 @@ msgstr ""
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 msgctxt ",1FC9786D4BA63DD3090CA6ADB27DDA9D"
 msgid "-{Amount}"
-msgstr ""
+msgstr "-{Amount}"
 
 #. Key:	293B2E9040963B96C937B2858A98164A
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 msgctxt ",293B2E9040963B96C937B2858A98164A"
 msgid "+{Amount}"
-msgstr ""
+msgstr "+{Amount}"
 
 #. Key:	39620E1A4B989FD1B4CB81B56E74B75F
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 msgctxt ",39620E1A4B989FD1B4CB81B56E74B75F"
 msgid "{Stored}/{Total}"
-msgstr ""
+msgstr "{Stored}/{Total}"
 
 #. Key:	493298B1437D14E1A0C70DA9DC213C93
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
@@ -13907,14 +13908,14 @@ msgstr ""
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 msgctxt ",E7AB8DF14FACB11CE2CDDB93F3753BB9"
 msgid "-{Amount}"
-msgstr ""
+msgstr "-{Amount}"
 
 #. Key:	F09BAE064B9040822BF32E94DF138243
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 msgctxt ",F09BAE064B9040822BF32E94DF138243"
 msgid "+{Amount}"
-msgstr ""
+msgstr "+{Amount}"
 
 #. Key:	3E1D90E742C9ABCB62023981F561B886
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:WidgetTree.Edit_Advanced_Label.HintText
@@ -14868,7 +14869,7 @@ msgstr ""
 #: /Game/UI/UI_Tooltip_Recipe.UI_Tooltip_Recipe_C:WidgetTree.Text_Time_1.Text
 msgctxt ",43B619D0448CD2E82D558D93791C7007"
 msgid "s"
-msgstr ""
+msgstr "秒"
 
 #. Key:	FF1D50B14F76E29F3AD73AA64282A19F
 #. SourceLocation:	/Game/UI/UI_Tooltip_Recipe.UI_Tooltip_Recipe_C:WidgetTree.UI_Tab.Text
