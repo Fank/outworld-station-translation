@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
-"PO-Revision-Date: 2025-05-03 12:21+0000\n"
+"PO-Revision-Date: 2025-05-03 12:27+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/jp_JP/>\n"
@@ -52,7 +52,6 @@ msgstr "瓦礫"
 #. Key:	D18A6BE34475041721B95D810F9172A3
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_ExoticMatter.Default__BP_Asteroid_ExoticMatter_C.Description
 #: /Game/Asteroids/BP_Asteroid_ExoticMatter.Default__BP_Asteroid_ExoticMatter_C.Description
-#, fuzzy
 msgctxt ",D18A6BE34475041721B95D810F9172A3"
 msgid "Feed into a Containment Chamber to extract resources"
 msgstr "コンテインメント・チャンバーに投入して資源を取り出す"
@@ -60,7 +59,6 @@ msgstr "コンテインメント・チャンバーに投入して資源を取り
 #. Key:	BD32744447A9B876A964DBA4BF1E9865
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_ExoticMatter.Default__BP_Asteroid_ExoticMatter_C.Name
 #: /Game/Asteroids/BP_Asteroid_ExoticMatter.Default__BP_Asteroid_ExoticMatter_C.Name
-#, fuzzy
 msgctxt ",BD32744447A9B876A964DBA4BF1E9865"
 msgid "Exotic Matter"
 msgstr "エキゾチック・マター"
