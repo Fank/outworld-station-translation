@@ -3,16 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
-"PO-Revision-Date: 2025-05-04 12:33+0000\n"
+"PO-Revision-Date: 2025-05-04 21:35+0900\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
-"Language-Team: Japanese <http://weblate.example.com/projects/"
-"outworld-station/game/ja/>\n"
-"Language: JA\n"
+"Language-Team: Japanese <http://weblate.example.com/projects/outworld-station/game/ja/>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Key:	D55687164B6B8C311B44319F2050C356
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid.Default__BP_Asteroid_C.Description
@@ -173,7 +172,7 @@ msgstr " と "
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 msgctxt ",3CC1C5364D9D772DB6881C82EF7CF886"
 msgid "To start your station off,"
-msgstr "ステーションのスタートが"
+msgstr "ステーションをスタートさせる、"
 
 #. Key:	62050C0B46F53F77AB8BD3886254DC53
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
@@ -321,8 +320,7 @@ msgid ""
 msgstr ""
 "指揮官、あなたはこの分野で本当に素晴らしい仕事をした。\n"
 "\n"
-"<Bold>ステーション司令部</>はそれに注目し、あなたを<Bold>キャプテン</>に昇格"
-"させることにした！\n"
+"<Bold>ステーション司令部</>はそれに注目し、あなたを<Bold>キャプテン</>に昇格させることにした！\n"
 "\n"
 "誇りに思うべきだ..."
 
@@ -401,7 +399,7 @@ msgstr "ステーションを発展させ続けるために"
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",440CAAD94AC751E07E17F9806AC35C2C"
 msgid "To reach the next Station Level,"
-msgstr "次のステーションレベルに到達するには"
+msgstr "次のステーション・レベルに到達する、"
 
 #. Key:	49A4369A48ECA0989D667DB070A853F0
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
@@ -579,11 +577,9 @@ msgid ""
 "\r\n"
 "As one of our newest <Bold>Station Commanders</>, we expect <Bold>big things</> from you - but <Bold>don't worry</>, I'll be here to guide you along the way..."
 msgstr ""
-"既知の銀河系の端に位置するこの星系は、<Bold>ノヴァ・コーポレーション</>が<太"
-"字>搾取と拡張のために選んだ星系である。\n"
+"既知の銀河系の端に位置するこの星系は、<Bold>ノヴァ・コーポレーション</>が<太字>搾取と拡張のために選んだ星系である。\n"
 "\n"
-"最も新しい<Bold>ステーション・コマンダーの一人</>として、私たちはあなたに<Bol"
-"d>大きな</>ことを期待している。"
+"最も新しい<Bold>ステーション・コマンダーの一人</>として、私たちはあなたに<Bold>大きな</>ことを期待している。"
 
 #. Key:	4B430BEC41CD101DA6032BB8CE57D159
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.INTRO_LEVEL_12.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
@@ -659,8 +655,7 @@ msgstr "<Bold>センサービュー</>を使い、<Bold>[ ︙ ]</>または<Bold
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",3C003F514AB38F8866432D9B825E47DB"
 msgid "Pressing <Bold>X</> while in <Bold>Connect Mode</> will clear all connections from the selected module"
-msgstr "<Bold>接続モード</>で<Bold>X</>を押すと、選択したモジュールの接続がすべて解除"
-"されます"
+msgstr "<Bold>接続モード</>で<Bold>X</>を押すと、選択したモジュールの接続がすべて解除されます"
 
 #. Key:	D453014B4D008E81429FEE938B62E197
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(4).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
@@ -688,9 +683,7 @@ msgstr "<Bold>B</> と <Bold>V</> ホットキーを使用して、ドローン�
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(7).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",1C3E27D64C6A9CBD430CAC8752C46CA1"
 msgid "The <Bold>Station Overview</> lets you quickly see how your station is performing (Hold <Bold>LEFT CTRL</>)"
-msgstr ""
-"<Bold>ステーションの概要</>では、自分のステーションのパフォーマンスを素早く確"
-"認することができます（<Bold>左Ctrlを押したまま</>）"
+msgstr "<Bold>ステーションの概要</>では、自分のステーションのパフォーマンスを素早く確認することができます（<Bold>左Ctrlを押したまま</>）"
 
 #. Key:	00CDD15F4C75C188338574965539D6CD
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(8).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
@@ -1798,12 +1791,9 @@ msgid ""
 "\r\n"
 "Antimatter is extremely unstable and must be stored in a powered <Bold>Containment Chamber</> - or it will <bold>explode</> after a short time."
 msgstr ""
-"あなたは今、<太字>反物質</太字>の生産にアクセスできる。これは信じられないほど"
-"強力な力であり、莫大なエネルギーを生み出したり、大量破壊兵器を作ったりするの"
-"に使うことができる。\r\n"
+"あなたは今、<太字>反物質</太字>の生産にアクセスできる。これは信じられないほど強力な力であり、莫大なエネルギーを生み出したり、大量破壊兵器を作ったりするのに使うことができる。\r\n"
 "\r\n"
-"反物質は非常に不安定で、動力のある<bold>封じ込め室</bold>に保管しなければなら"
-"ない。"
+"反物質は非常に不安定で、動力のある<bold>封じ込め室</bold>に保管しなければならない。"
 
 #. Key:	57F0B54D4276452746C16EA0F30B8595
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.11.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(2).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
@@ -1823,13 +1813,7 @@ msgstr ""
 #: /Game/Data/DT_StationLevel.DT_StationLevel.12.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
 msgctxt ",B08040CD485FB93D2FA957B43B3EEEA0"
 msgid "The <Bold>Servitor Station</> deploys a helpful <Bold>AI-powered robot</> that can be set to automatically perform tasks around your station such as <Bold>repairing damaged modules</>, aligning <Bold>solar panels</> and <Bold>collecting resources</> when <Bold>linked</> to a suitable destination module."
-msgstr ""
-"<Bold>Servitor "
-"Station</Bold>は、役に立つ<Bold>AI搭載ロボット</Bold>を配置します。"
-"適切な目的地モジュールに "
-"<Bold>リンク</Bold>されると、破損したモジュールの修理</Bold>、<Bold>ソーラー"
-"・パネルの整列</Bold>、<Bold>資源の収集</Bold>などのタスクを自動的に実行する"
-"ように設定できます。"
+msgstr "<Bold>Servitor Station</Bold>は、役に立つ<Bold>AI搭載ロボット</Bold>を配置します。適切な目的地モジュールに <Bold>リンク</Bold>されると、破損したモジュールの修理</Bold>、<Bold>ソーラー・パネルの整列</Bold>、<Bold>資源の収集</Bold>などのタスクを自動的に実行するように設定できます。"
 
 #. Key:	62BE112749005608608D8BA6DE5995A7
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.2.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
@@ -1840,11 +1824,9 @@ msgid ""
 "\r\n"
 "Use the <Bold>connect</> function to automatically feed the output of your <Bold>smelters</> into matter printers to speed up production."
 msgstr ""
-"<太>マター・プリンター</太>は、原材料をより複雑なアイテムに変換し、さらなる生"
-"産チェーンで使用できるようにします。\r\n"
+"<太>マター・プリンター</太>は、原材料をより複雑なアイテムに変換し、さらなる生産チェーンで使用できるようにします。\r\n"
 "\r\n"
-"<bold>コネクト</bold>機能を使って、<bold>製錬業者</bold>の出力を自動的にマタ"
-"ー・プリンターに送り込み、生産を加速させましょう。"
+"<bold>コネクト</bold>機能を使って、<bold>製錬業者</bold>の出力を自動的にマター・プリンターに送り込み、生産を加速させましょう。"
 
 #. Key:	E442FBB849FF5808E61A979731C83AB8
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.3.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
@@ -1857,8 +1839,7 @@ msgid ""
 msgstr ""
 "<ボールド>アーティファクト・アナライザー</>が登場。\r\n"
 "\r\n"
-"このユニットに<太字>エイリアンのアーティファクト</太字>を投入すると、重要な新"
-"技術やアップグレードがアンロックされます。"
+"このユニットに<太字>エイリアンのアーティファクト</太字>を投入すると、重要な新技術やアップグレードがアンロックされます。"
 
 #. Key:	6D5705504A4AF8D589674B92405B06FE
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.3.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(1).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
@@ -3040,11 +3021,11 @@ msgid ""
 "\r\n"
 "We see great things in your future, Commander - <Bold>good luck!</>"
 msgstr ""
-"おめでとうステーションコマンダー、あなたは<太字>ノヴァコーポレーションの入社手続き</>を完了しました。\r\n"
+"おめでとうございます、ステーション司令官。<Bold>ノヴァ社入社手続き</>を完了しました。\r\n"
 "\r\n"
-"これであなたは、TAU星系に<太字>産業帝国を建設し、探検し、拡大する準備が整いました。\r\n"
+"これで、<Bold>、TAUシステム全体で産業帝国を建設、探検、拡大</>する準備が整いました。\r\n"
 "\r\n"
-"司令官、私たちはあなたの未来に素晴らしいものを見ています。"
+"<Bold>グッドラック！</>"
 
 #. Key:	28FB127D4F7DF8FE070E36BB5E1E0D73
 #. SourceLocation:	/Game/Data/DT_Tutorials.DT_Tutorials.END_PREVIEW.Title_6_801546C2420332EC11E924A11921447D
