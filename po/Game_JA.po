@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
-"PO-Revision-Date: 2025-05-04 11:02+0000\n"
+"PO-Revision-Date: 2025-05-04 11:48+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/ja/>\n"
@@ -6796,7 +6796,7 @@ msgstr "精製所"
 #: /Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_Gameplay_DefaultFactoryMaxInput_Smelters.Name
 msgctxt ",5FEAEA19442E81D92E644C8BA2493166"
 msgid "SMELTERS"
-msgstr "スメルターズ"
+msgstr "製錬業者"
 
 #. Key:	E726E0D54F7D80963683FCA22FE2F8B9
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_Gameplay_DefaultFactoryMaxInput_Smelters.Options(0).Options
@@ -10658,7 +10658,7 @@ msgstr "<太>連結解除</>モジュール"
 #: /Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(8).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(0).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
 msgctxt ",EF2B372048CBA26FE8A729A7D8EAD0BC"
 msgid "Construct <Bold>2 additional Smelters</>"
-msgstr "<太>2つの追加製錬所を建設する。"
+msgstr "<Bold>２つの追加製錬業者</>を建設する"
 
 #. Key:	AE1DFBC446CDE16315428D8A0D36E020
 #. SourceLocation:	/Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(8).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(1).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
@@ -10694,7 +10694,7 @@ msgstr "続<太>ステーション拡張</太>1/2"
 #: /Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(9).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(0).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
 msgctxt ",177D581F4FB7600442D4A38AB464E00F"
 msgid "<Bold>Link</> the <Bold>Atomizer</> to the new <Bold>Smelters</>"
-msgstr "<ボールド>アトマイザー</>を新しい<ボールド>スメルター</>にリンク</>します。"
+msgstr "<Bold>アトマイザー</>を新しい<Bold>製錬業者</>にリンク</>します"
 
 #. Key:	D311575C4B300F8A09679B978D38AA05
 #. SourceLocation:	/Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(9).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(1).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
