@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
-"PO-Revision-Date: 2025-05-04 12:24+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"PO-Revision-Date: 2025-05-04 12:33+0000\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/ja/>\n"
 "Language: JA\n"
@@ -319,10 +319,11 @@ msgid ""
 "\r\n"
 "You should feel extremely proud of yourself..."
 msgstr ""
-"指揮官、あなたはこの分野で本当に素晴らしい仕事をした。\r\n"
-"\r\n"
-"<太字>ステーション司令部はそれに注目し、あなたを<太字>キャプテンに昇格させることにした！\r\n"
-"\r\n"
+"指揮官、あなたはこの分野で本当に素晴らしい仕事をした。\n"
+"\n"
+"<Bold>ステーション司令部</>はそれに注目し、あなたを<Bold>キャプテン</>に昇格"
+"させることにした！\n"
+"\n"
 "誇りに思うべきだ..."
 
 #. Key:	CEC8928A425930E61BAC76B0C7EB23E4
@@ -571,15 +572,18 @@ msgstr "<Bold>TAU</> システム、<Bold>Station Commander</> へようこそ..
 #. Key:	1EF90A4F406A0E2123FE0EAF6DB251A2
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.INTRO.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.INTRO.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
+#, fuzzy
 msgctxt ",1EF90A4F406A0E2123FE0EAF6DB251A2"
 msgid ""
 "Located on the fringes of the known galaxy, <Bold>Nova Corp</> has singled out this system for <Bold>exploitation and expansion</>.\r\n"
 "\r\n"
 "As one of our newest <Bold>Station Commanders</>, we expect <Bold>big things</> from you - but <Bold>don't worry</>, I'll be here to guide you along the way..."
 msgstr ""
-"既知の銀河系の端に位置するこの星系は、<太字>ノヴァ・コーポレーション</太字>が<太字>搾取と拡張のために選んだ星系である。\n"
+"既知の銀河系の端に位置するこの星系は、<Bold>ノヴァ・コーポレーション</>が<太"
+"字>搾取と拡張のために選んだ星系である。\n"
 "\n"
-"最も新しい<Bold>ステーション・コマンダーの一人</>として、私たちはあなたに<Bold>大きな</>ことを期待している。"
+"最も新しい<Bold>ステーション・コマンダーの一人</>として、私たちはあなたに<Bol"
+"d>大きな</>ことを期待している。"
 
 #. Key:	4B430BEC41CD101DA6032BB8CE57D159
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.INTRO_LEVEL_12.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
@@ -655,7 +659,8 @@ msgstr "<Bold>センサービュー</>を使い、<Bold>[ ︙ ]</>または<Bold
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",3C003F514AB38F8866432D9B825E47DB"
 msgid "Pressing <Bold>X</> while in <Bold>Connect Mode</> will clear all connections from the selected module"
-msgstr "<Bold>接続モード</>で<太字>X</>を押すと、選択したモジュールの接続がすべて解除されます。"
+msgstr "<Bold>接続モード</>で<Bold>X</>を押すと、選択したモジュールの接続がすべて解除"
+"されます"
 
 #. Key:	D453014B4D008E81429FEE938B62E197
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(4).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
@@ -683,7 +688,9 @@ msgstr "<Bold>B</> と <Bold>V</> ホットキーを使用して、ドローン�
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(7).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",1C3E27D64C6A9CBD430CAC8752C46CA1"
 msgid "The <Bold>Station Overview</> lets you quickly see how your station is performing (Hold <Bold>LEFT CTRL</>)"
-msgstr "<Bold>ステーションの概要</>では、自分のステーションのパフォーマンスを素早く確認することができます（<太字>左Ctrlを押したまま</>）。"
+msgstr ""
+"<Bold>ステーションの概要</>では、自分のステーションのパフォーマンスを素早く確"
+"認することができます（<Bold>左Ctrlを押したまま</>）"
 
 #. Key:	00CDD15F4C75C188338574965539D6CD
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(8).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
