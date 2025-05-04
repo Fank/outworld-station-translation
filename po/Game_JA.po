@@ -3,15 +3,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
-"PO-Revision-Date: 2025-05-04 21:23+0900\n"
-"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
-"Language-Team: Japanese <http://weblate.example.com/projects/outworld-station/game/ja/>\n"
-"Language: ja\n"
+"PO-Revision-Date: 2025-05-04 12:24+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: Japanese <http://weblate.example.com/projects/"
+"outworld-station/game/ja/>\n"
+"Language: JA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.11.1\n"
 
 #. Key:	D55687164B6B8C311B44319F2050C356
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid.Default__BP_Asteroid_C.Description
@@ -563,7 +564,6 @@ msgstr ""
 #. Key:	56B7DF3C4ADC43372AFB76A02AE7A5ED
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.INTRO.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.INTRO.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",56B7DF3C4ADC43372AFB76A02AE7A5ED"
 msgid "Welcome to the <Bold>TAU</> system, <Bold>Station Commander</>..."
 msgstr "<Bold>TAU</> システム、<Bold>Station Commander</> へようこそ..."
@@ -1785,16 +1785,18 @@ msgstr ""
 #. Key:	CA7C6F37402E2A4EE9E218996EB11DE7
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.11.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(1).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
 #: /Game/Data/DT_StationLevel.DT_StationLevel.11.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(1).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
-#, fuzzy
 msgctxt ",CA7C6F37402E2A4EE9E218996EB11DE7"
 msgid ""
 "You now have access to <Bold>antimatter</> production - an incredibly powerful force which can be used to generate huge amounts of energy - or to create weapons of mass destruction.\r\n"
 "\r\n"
 "Antimatter is extremely unstable and must be stored in a powered <Bold>Containment Chamber</> - or it will <bold>explode</> after a short time."
 msgstr ""
-"あなたは今、<Bold>反物質</>の生産にアクセスできる。これは信じられないほど強力な力であり、莫大なエネルギーを生み出したり、大量破壊兵器を作ったりするのに使うことができる。\n"
-"\n"
-"反物質は非常に不安定で、動力のある<Bold>封じ込め室</>に保管しなければならない。"
+"あなたは今、<太字>反物質</太字>の生産にアクセスできる。これは信じられないほど"
+"強力な力であり、莫大なエネルギーを生み出したり、大量破壊兵器を作ったりするの"
+"に使うことができる。\r\n"
+"\r\n"
+"反物質は非常に不安定で、動力のある<bold>封じ込め室</bold>に保管しなければなら"
+"ない。"
 
 #. Key:	57F0B54D4276452746C16EA0F30B8595
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.11.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(2).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
@@ -1812,38 +1814,44 @@ msgstr ""
 #. Key:	B08040CD485FB93D2FA957B43B3EEEA0
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.12.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
 #: /Game/Data/DT_StationLevel.DT_StationLevel.12.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
-#, fuzzy
 msgctxt ",B08040CD485FB93D2FA957B43B3EEEA0"
 msgid "The <Bold>Servitor Station</> deploys a helpful <Bold>AI-powered robot</> that can be set to automatically perform tasks around your station such as <Bold>repairing damaged modules</>, aligning <Bold>solar panels</> and <Bold>collecting resources</> when <Bold>linked</> to a suitable destination module."
-msgstr "<Bold>Servitor Station</Bold>は、役に立つ<Bold>AI搭載ロボット</Bold>を配置します。適切な目的地モジュールに <Bold>リンク</Bold>されると、破損したモジュールの修理</Bold>、<Bold>ソーラー・パネルの整列</Bold>、<Bold>資源の収集</Bold>などのタスクを自動的に実行するように設定できます。"
+msgstr ""
+"<Bold>Servitor "
+"Station</Bold>は、役に立つ<Bold>AI搭載ロボット</Bold>を配置します。"
+"適切な目的地モジュールに "
+"<Bold>リンク</Bold>されると、破損したモジュールの修理</Bold>、<Bold>ソーラー"
+"・パネルの整列</Bold>、<Bold>資源の収集</Bold>などのタスクを自動的に実行する"
+"ように設定できます。"
 
 #. Key:	62BE112749005608608D8BA6DE5995A7
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.2.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
 #: /Game/Data/DT_StationLevel.DT_StationLevel.2.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
-#, fuzzy
 msgctxt ",62BE112749005608608D8BA6DE5995A7"
 msgid ""
 "<Bold>Matter Printers</> can convert raw materials into more complex items ready to be used in further production chains.\r\n"
 "\r\n"
 "Use the <Bold>connect</> function to automatically feed the output of your <Bold>smelters</> into matter printers to speed up production."
 msgstr ""
-"<太>マター・プリンター</太>は、原材料をより複雑なアイテムに変換し、さらなる生産チェーンで使用できるようにします。\n"
-"\n"
-"<bold>コネクト</bold>機能を使って、<bold>溶鉱炉</bold>の出力を自動的にマター・プリンターに送り込み、生産を加速させましょう。"
+"<太>マター・プリンター</太>は、原材料をより複雑なアイテムに変換し、さらなる生"
+"産チェーンで使用できるようにします。\r\n"
+"\r\n"
+"<bold>コネクト</bold>機能を使って、<bold>製錬業者</bold>の出力を自動的にマタ"
+"ー・プリンターに送り込み、生産を加速させましょう。"
 
 #. Key:	E442FBB849FF5808E61A979731C83AB8
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.3.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
 #: /Game/Data/DT_StationLevel.DT_StationLevel.3.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
-#, fuzzy
 msgctxt ",E442FBB849FF5808E61A979731C83AB8"
 msgid ""
 "The <Bold>Artifact Analyzer</> is now available.\r\n"
 "\r\n"
 "Feed any <Bold>Alien Artifacts</> you may find into this unit to unlock important new technologies and upgrades."
 msgstr ""
-"<ボールド>アーティファクト・アナライザー</>が登場。\n"
-"\n"
-"このユニットに<太字>エイリアンのアーティファクト</太字>を投入すると、重要な新技術やアップグレードがアンロックされます。"
+"<ボールド>アーティファクト・アナライザー</>が登場。\r\n"
+"\r\n"
+"このユニットに<太字>エイリアンのアーティファクト</太字>を投入すると、重要な新"
+"技術やアップグレードがアンロックされます。"
 
 #. Key:	6D5705504A4AF8D589674B92405B06FE
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.3.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(1).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
