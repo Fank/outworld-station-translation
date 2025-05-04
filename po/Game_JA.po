@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
 "PO-Revision-Date: 2025-05-04 10:47+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/ja/>\n"
 "Language: JP\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: /Game/Asteroids/BP_Asteroid.Default__BP_Asteroid_C.Description
 msgctxt ",D55687164B6B8C311B44319F2050C356"
 msgid "Feed into an Atomizer to extract resources"
-msgstr ""
+msgstr "アトマイザーに投入して資源を抽出"
 
 #. Key:	1B56D42C4340EA73926458B5C23F521C
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid.Default__BP_Asteroid_C.Name
@@ -33,7 +33,8 @@ msgstr "小惑星"
 #: /Game/Asteroids/BP_Asteroid_Artifact.Default__BP_Asteroid_Artifact_C.Description
 msgctxt ",D3BEE3EE451C2F49DCB8CEACE0955E68"
 msgid "Place into an Artifact Analyzer to gain vital Tech Upgrades"
-msgstr ""
+msgstr "アーティファクト・アナライザーに設置して、重要な技術アップグレードを獲得しよ"
+"う"
 
 #. Key:	E5CFDDBE4A1C190E71FCE581652E9796
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_Artifact.Default__BP_Asteroid_Artifact_C.Name
@@ -75,14 +76,14 @@ msgstr "ガス袋工場"
 #: /Game/Asteroids/BP_Asteroid_Gold.Default__BP_Asteroid_Gold_C.Name
 msgctxt ",9F676ECC4CC38A0D2A48768EA20C9B66"
 msgid "Gold Asteroid"
-msgstr ""
+msgstr "ゴールド小惑星"
 
 #. Key:	3CFAF4C649566D0AB19B2F895A928831
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_Ice.Default__BP_Asteroid_Ice_C.Name
 #: /Game/Asteroids/BP_Asteroid_Ice.Default__BP_Asteroid_Ice_C.Name
 msgctxt ",3CFAF4C649566D0AB19B2F895A928831"
 msgid "Ice Asteroid"
-msgstr ""
+msgstr "氷の小惑星"
 
 #. Key:	9F4F35FC432921E4E74AD5A036ED0FE3
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_Junkyard_Wreck.Default__BP_Asteroid_Junkyard_Wreck_C.Name
@@ -110,21 +111,21 @@ msgstr "炉心"
 #: /Game/Asteroids/BP_Asteroid_Titanium.Default__BP_Asteroid_Titanium_C.Name
 msgctxt ",BD2D1B2142E567D123728F9DFF5FCE22"
 msgid "Titanium Asteroid"
-msgstr ""
+msgstr "チタン小惑星"
 
 #. Key:	4AD4EEED432A799A0F079B98DEB29C51
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_Tungsten.Default__BP_Asteroid_Tungsten_C.Name
 #: /Game/Asteroids/BP_Asteroid_Tungsten.Default__BP_Asteroid_Tungsten_C.Name
 msgctxt ",4AD4EEED432A799A0F079B98DEB29C51"
 msgid "Tungsten Asteroid"
-msgstr ""
+msgstr "タングステン小惑星"
 
 #. Key:	51B9C4304659E577519E0BADC4F1F49D
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_Uranium.Default__BP_Asteroid_Uranium_C.Name
 #: /Game/Asteroids/BP_Asteroid_Uranium.Default__BP_Asteroid_Uranium_C.Name
 msgctxt ",51B9C4304659E577519E0BADC4F1F49D"
 msgid "Uranium Asteroid"
-msgstr ""
+msgstr "ウラン小惑星"
 
 #. Key:	F6CEFB65498E1FE3DCC6F3822A3097C5
 #. SourceLocation:	/Game/Cloud_Miner/BP_CloudMiner.Default__BP_CloudMiner_C.Name
@@ -179,7 +180,7 @@ msgstr " と "
 #: Bytecode]
 msgctxt ",3CC1C5364D9D772DB6881C82EF7CF886"
 msgid "To start your station off,"
-msgstr ""
+msgstr "ステーションのスタートが"
 
 #. Key:	62050C0B46F53F77AB8BD3886254DC53
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
@@ -187,7 +188,7 @@ msgstr ""
 #: Bytecode]
 msgctxt ",62050C0B46F53F77AB8BD3886254DC53"
 msgid " + <Armed>[Armed]</>"
-msgstr ""
+msgstr " + <Armed><武装></>"
 
 #. Key:	820C8D654E5CDFF4CA4844A12C53D106
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
@@ -219,7 +220,7 @@ msgstr "{Current}{ThisItem}{End}"
 #: Bytecode]
 msgctxt ",ACCA5E8C447D667F6B2D17AFEBB7FCBE"
 msgid "In addition,"
-msgstr ""
+msgstr "さらに"
 
 #. Key:	B37EF8AA42FA08BBCFCF8E9F1848C3F5
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
@@ -259,7 +260,7 @@ msgstr "なし"
 #: Value).DisplayNameMap
 msgctxt ",17A6896C483805985D3BDFB7A043030F"
 msgid "Produce_Materials"
-msgstr ""
+msgstr "Produce_Materials"
 
 #. Key:	C437F0B34A6E3DFDDE1CA994FCCD5879
 #. SourceLocation:	/Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(2 - Value).DisplayNameMap
