@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
-"PO-Revision-Date: 2025-05-04 10:47+0000\n"
+"PO-Revision-Date: 2025-05-04 11:02+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/ja/>\n"
-"Language: JP\n"
+"Language: JA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -622,7 +622,7 @@ msgstr ""
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",D22DAB554EC348E37D845CB1B7CBD6AB"
 msgid "You can hide the upper level of your station by holding <Bold>[ ` ]</> or <Bold>[ CAPS ]</>"
-msgstr "<太字>[ ` ]</>または<太字>[ CAPS ]"
+msgstr "<Bold>[ ` ]</>または<Bold>[ CAPS ]"
 "</>を押すとステーションの上層を隠すことができます。"
 
 #. Key:	96B9D63946A6A6870939B7BB3A1FAB79
@@ -630,55 +630,54 @@ msgstr "<太字>[ ` ]</>または<太字>[ CAPS ]"
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",96B9D63946A6A6870939B7BB3A1FAB79"
 msgid "You can collect multiple asteroids easily by holding <Bold>SHIFT</> and dragging with <Bold>LMB</>"
-msgstr "<太>SHIFT</>を押しながら<太>LMB</>でドラッグすると、複数の小惑星を簡単に集め"
-"ることができます。"
+msgstr "<Bold>SHIFT</>を押しながら<Bold>LMB</>でドラッグすると、複数の小惑星を簡単に"
+"集めることができます。"
 
 #. Key:	E2ED8CDF44B9CEC7A021A1BDED73BF9C
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(10).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(10).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",E2ED8CDF44B9CEC7A021A1BDED73BF9C"
 msgid "Rotate the currently placing module using <Bold>Middle Mouse Button</>"
-msgstr "<太>マウス中ボタン</>を使用して、現在配置されているモジュールを回転させます。"
+msgstr "<Bold>マウス中ボタン</>を使用して、現在配置されているモジュールを回転させます"
 
 #. Key:	42BDE5CB44859C9A28F674BCA17FB925
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(11).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(11).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",42BDE5CB44859C9A28F674BCA17FB925"
 msgid "The <Bold>Codex</> contains a lot of useful information including all previously seen tutorial videos"
-msgstr "<Bold>Codex</> "
+msgstr "<Bold>コーデックス</> "
 "には、以前に見たすべてのチュートリアルビデオを含む、多くの有用な情報が含まれ"
-"ています。"
+"ています"
 
 #. Key:	0FDADAB6460A411DA6213DA9D2FF8903
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(12).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(12).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",0FDADAB6460A411DA6213DA9D2FF8903"
 msgid "Most recipes can be <Bold>synthesized</> directly from your drone's inventory (hotkey: <Bold>TAB</>)"
-msgstr "ほとんどのレシピはドローンのインベントリから直接<太字>合成</>できます（ホット"
-"キー：<太字>TAB</>）。"
+msgstr "ほとんどのレシピはドローンのインベントリから直接<Bold>合成</>できます（ホット"
+"キー：<Bold>TAB</>）"
 
 #. Key:	C5636670485A6FE47CFB5CB7FFA8F4F6
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(13).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(13).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",C5636670485A6FE47CFB5CB7FFA8F4F6"
 msgid "You can create a custom task by clicking the '+' button on the main toolbar"
-msgstr "メインツールバーの「+」ボタンをクリックすると、カスタムタスクを作成できます。"
+msgstr "メインツールバーの「+」ボタンをクリックすると、カスタムタスクを作成できます"
 
 #. Key:	60CCD4B947A8BCFD9C35168EB09EEBFD
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(14).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(14).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",60CCD4B947A8BCFD9C35168EB09EEBFD"
 msgid "You can align multiple <Bold>solar generators</> by using <Bold>Shift + LMB</>"
-msgstr "<太字>シフト+LMB</>で複数の<太字>ソーラー発電機</>を並べることができます。"
+msgstr "<Bold>シフト+LMB</>で複数の<Bold>ソーラー発電機</>を並べることができます"
 
 #. Key:	F5FCB9864BD8B54E48DEC18333B99E5B
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 msgctxt ",F5FCB9864BD8B54E48DEC18333B99E5B"
 msgid "Use the <Bold>Sensor View</> to locate nearby resources or enemies by holding the <Bold>[ \\ ]</> or <Bold>[ T ]</> keys"
-msgstr ""
-"<Bold>Sensor View</>を使い、<Bold>[ ︙ ]</>または<Bold>[ T ]"
-"</>キーを押しながら近くの資源や敵を探します。"
+msgstr "<Bold>センサービュー</>を使い、<Bold>[ ︙ ]</>または<Bold>[ T ]"
+"</>キーを押しながら近くの資源や敵を探します"
 
 #. Key:	3C003F514AB38F8866432D9B825E47DB
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
@@ -3894,7 +3893,7 @@ msgstr "<太字>{名前}</>は終了しました。"
 #: Bytecode]
 msgctxt ",EA2C6A4249F47E9ED9C011AB29049481"
 msgid "Particle Storm:"
-msgstr "パーティクルストーム"
+msgstr "パーティクルストーム："
 
 #. Key:	ED0B7DCB4715356B96E8F7B4DA900A78
 #. SourceLocation:	/Game/Events/BP_Event_DustStorm.BP_Event_DustStorm_C:GetInfoItemText [Script Bytecode]
@@ -4018,7 +4017,7 @@ msgstr "氷の彗星"
 #: Bytecode]
 msgctxt ",8417860741DD372135C5F7A1F1C85502"
 msgid "Ice Storm:"
-msgstr "氷の嵐"
+msgstr "氷の嵐："
 
 #. Key:	BE7E349D45A3FE573BA1DDA5248E3032
 #. SourceLocation:	/Game/Events/BP_Event_IceStorm.BP_Event_IceStorm_C:GetInfoItemText [Script Bytecode]
@@ -4057,7 +4056,7 @@ msgstr "氷の嵐"
 #: [Script Bytecode]
 msgctxt ",C630979140A8E7C549CAD5BBB6B69639"
 msgid "Meteor Storm:"
-msgstr "流星の嵐"
+msgstr "流星の嵐："
 
 #. Key:	F2F232284C6D454FC006A0AEF8A47FE3
 #. SourceLocation:	/Game/Events/BP_Event_MeteorStorm.BP_Event_MeteorStorm_C:GetInfoItemText [Script Bytecode]
@@ -4127,7 +4126,7 @@ msgstr "クリーチャーの群れがやってくる： "
 #: Bytecode]
 msgctxt ",B994D4CA41F4C08ABA77D3892367A740"
 msgid "Creature Swarm:"
-msgstr "クリーチャーの群れ"
+msgstr "クリーチャーの群れ："
 
 #. Key:	4CC2920A4D176D1F1477CBADF6EB1C30
 #. SourceLocation:	/Game/Events/BP_Event_Swarm.BP_Event_Swarm_C:GetMessageText [Script Bytecode]
@@ -5090,7 +5089,7 @@ msgstr "メインメニュー"
 #: /Game/MainMenu/UI_Dialog_EndOfDemo.UI_Dialog_EndOfDemo_C:WidgetTree.Text_Processing_5.Text
 msgctxt ",866FB7F24E05A794989F55AEC9AC64D4"
 msgid "WISHLIST NOW!"
-msgstr "今すぐウィッシュリストへ"
+msgstr "今すぐウィッシュリストへ！"
 
 #. Key:	2B5BD1A340C309BA9D5E2D9779FBA785
 #. SourceLocation:	/Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:ExecuteUbergraph_UI_InGameMenu [Script Bytecode]
@@ -5680,7 +5679,7 @@ msgstr "ハブでレスパン"
 #: /Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Processing_25.Text
 msgctxt ",DB205A4C4D52F6F94BDADF9AAB3788E0"
 msgid "GAME NAME:"
-msgstr "ゲーム名"
+msgstr "ゲーム名："
 
 #. Key:	D7808A3A4C4D4B056D9106ABCCC1A8FB
 #. SourceLocation:	/Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Processing_26.Text
@@ -5722,7 +5721,7 @@ msgstr "ゲームを保存"
 #: /Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Processing_6.Text
 msgctxt ",ECFC3B6C43D96E9DFC579BA7A8E12A88"
 msgid "CURRENT SESSION:"
-msgstr "現在のセッション"
+msgstr "現在のセッション："
 
 #. Key:	FCE4631742A5E89C209C90BCADD8F175
 #. SourceLocation:	/Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Processing_7.Text
@@ -5743,7 +5742,7 @@ msgstr "現在のセッション名"
 #: /Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Version_1.Text
 msgctxt ",17EFB441467D5564DFAC90BD7DD22E48"
 msgid "SESSION TIME:"
-msgstr "セッション時間"
+msgstr "セッション時間："
 
 #. Key:	110799954DFFC0C536C11D907E873F15
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:ExecuteUbergraph_UI_MainMenu [Script Bytecode]
@@ -5759,7 +5758,8 @@ msgstr "このゲームセッションをすべて削除してもよろしいで
 #: [Script Bytecode]
 msgctxt ",12DECF8C4EB8BA9D8389259414746D63"
 msgid "We found some save-games from the <Bold>Outworld Station Demo</> - would you like to <Bold>import</> these now?"
-msgstr "<太>Outworld Station Demo</> のセーブゲームをいくつか見つけました。"
+msgstr "<Bold>アウトワールド・ステーション・デモ</>のセーブゲームをいくつか見つけまし"
+"たので、今すぐ輸入したいですか？"
 
 #. Key:	1315028A4D801471354DD4AB9F9359C7
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:ExecuteUbergraph_UI_MainMenu [Script Bytecode]
@@ -6341,7 +6341,7 @@ msgstr "ゲーム開始"
 #: /Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_13.Text
 msgctxt ",D111C7E34449CFC6E61A3B9DDCA25794"
 msgid "GAME NAME:"
-msgstr "ゲーム名"
+msgstr "ゲーム名："
 
 #. Key:	D4547FDD423F2939406077980AE6A146
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_14.Text
@@ -6460,7 +6460,7 @@ msgstr "ゲームオプション："
 #: /Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_32.Text
 msgctxt ",BD93DAEB4E1D4636BDF0A39D4E957C32"
 msgid "IP ADDRESS:"
-msgstr "IPアドレス"
+msgstr "IPアドレス："
 
 #. Key:	B79BCD2C44F5847F5A518D8BA98FF34E
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_33.Text
@@ -6481,7 +6481,7 @@ msgstr "終了"
 #: /Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_5.Text
 msgctxt ",C740C5664E5E859950BC5594A4740679"
 msgid "WISHLIST NOW!"
-msgstr "今すぐウィッシュリストへ"
+msgstr "今すぐウィッシュリストへ！"
 
 #. Key:	CC71ADB54B6104CADC60419D8DACAA2E
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_6.Text
@@ -6602,7 +6602,7 @@ msgstr "ゲーム時間："
 #: /Game/MainMenu/UI_MainMenu_ContinueSession.UI_MainMenu_ContinueSession_C:WidgetTree.Text_GameTime_2.Text
 msgctxt ",E3F4961F44F48D41EC6E048D1683CB82"
 msgid "STATION LEVEL:"
-msgstr "ステーションのレベル"
+msgstr "ステーションのレベル："
 
 #. Key:	9EB4CAA745DCC78FC10145AA7FB128FE
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_ContinueSession.UI_MainMenu_ContinueSession_C:WidgetTree.Text_Session_1.Text
@@ -7830,7 +7830,7 @@ msgstr "インベントリ"
 #: /Game/MainMenu/UI_MainMenu_StartingLocation.UI_MainMenu_StartingLocation_C:WidgetTree.Text_Zone_Name.Text
 msgctxt ",AFD1052C401B7DAD66A45BB1A5539A1E"
 msgid "ENEMY STRENGTH:"
-msgstr "敵の強さ"
+msgstr "敵の強さ："
 
 #. Key:	35080BEA430F6B03CDD06FB978C1EC1C
 #. SourceLocation:	/Game/MainMenu/UI_Online_Session.UI_Online_Session_C:ExecuteUbergraph_UI_Online_Session [Script Bytecode]
@@ -7869,14 +7869,14 @@ msgstr "セッションに参加できません"
 #: /Game/MainMenu/UI_Online_Session.UI_Online_Session_C:WidgetTree.Text_Timestamp_1.Text
 msgctxt ",2AF264A44CA25D0E1FDFEB9E1ED01B71"
 msgid "Players:"
-msgstr "プレイヤー"
+msgstr "プレイヤー："
 
 #. Key:	4306ECFF4E5358C3E93449AE4623BAE3
 #. SourceLocation:	/Game/MainMenu/UI_Online_Session.UI_Online_Session_C:WidgetTree.Text_Timestamp_3.Text
 #: /Game/MainMenu/UI_Online_Session.UI_Online_Session_C:WidgetTree.Text_Timestamp_3.Text
 msgctxt ",4306ECFF4E5358C3E93449AE4623BAE3"
 msgid "Station Level:"
-msgstr "ステーションのレベル"
+msgstr "ステーションのレベル："
 
 #. Key:	0E0299994C09CABCB9E62F9502FA5CB0
 #. SourceLocation:	/Game/MainMenu/UI_Option_Cycler.UI_Option_Cycler_C:GetToolTipText [Script Bytecode]
@@ -7909,7 +7909,7 @@ msgstr "ゲーム時間："
 #: /Game/MainMenu/UI_Saved_Game.UI_Saved_Game_C:WidgetTree.Text_GameTime_2.Text
 msgctxt ",F8F3333F41517B7796588F94529F6686"
 msgid "STATION LEVEL:"
-msgstr "ステーションのレベル"
+msgstr "ステーションのレベル："
 
 #. Key:	0C5830084748280C4D612085E0A2511E
 #. SourceLocation:	/Game/MainMenu/UI_Saved_Game_Details.UI_Saved_Game_Details_C:Init [Script Bytecode]
@@ -7995,7 +7995,7 @@ msgstr "ゲーム時間："
 #: /Game/MainMenu/UI_Saved_Game_Details.UI_Saved_Game_Details_C:WidgetTree.Text_GameTime_2.Text
 msgctxt ",1F4A2D374346A2D6315C218CD7F66D14"
 msgid "STATION LEVEL:"
-msgstr "ステーションのレベル"
+msgstr "ステーションのレベル："
 
 #. Key:	18A64604481060B42F054385982B078C
 #. SourceLocation:	/Game/MainMenu/UI_Saved_Game_Details.UI_Saved_Game_Details_C:WidgetTree.Text_SessionType.Text
@@ -10391,9 +10391,8 @@ msgstr "<Bold>[ C ] キー</>で <Bold>Codex</> を開きます。"
 #: /Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(11).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(2).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
 msgctxt ",E94ACD774941AD5C7DEE8094771E215C"
 msgid "Activate the <Bold>Sensor View</> by holding <Bold>Backslash [ \\ ]</> or <Bold>T</>"
-msgstr ""
-"<Bold>Backslash [ ˶ˆ꒳ˆ˵ ]</> または <Bold>T</> を押して、<Bold>Sensor View</"
-"> を起動します。"
+msgstr "<Bold>Backslash</> または <Bold>T</> を押して、<Bold>センサービュー</> "
+"を起動します"
 
 #. Key:	A15C36E64CDBDF647759A9A58C88E762
 #. SourceLocation:	/Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(11).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(3).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
@@ -10890,7 +10889,7 @@ msgstr "ステーション拡張"
 #: /Game/UI/UI_ActiveContract.UI_ActiveContract_C:WidgetTree.Text_Reward.Text
 msgctxt ",509EAF9047EDC3A376FD909BE90A468E"
 msgid "On completion you will receive:"
-msgstr "完成すると"
+msgstr "完成すると："
 
 #. Key:	999C9C6F43C2E0FF2CD389AF41B21B60
 #. SourceLocation:	/Game/UI/UI_ActiveContract.UI_ActiveContract_C:WidgetTree.Text_Task.Text
@@ -11004,7 +11003,7 @@ msgstr "シビリアン"
 #: /Game/UI/UI_Codex.UI_Codex_C:WidgetTree.TextBlock_131.Text
 msgctxt ",4B2DC98F4CE91BDBD7866AB30E68075E"
 msgid "TUTORIAL:"
-msgstr "チュートリアル"
+msgstr "チュートリアル："
 
 #. Key:	65767F6F4F742EDFDF3309BAF79648B1
 #. SourceLocation:	/Game/UI/UI_Codex.UI_Codex_C:WidgetTree.TextBlock_2.Text
@@ -11068,7 +11067,7 @@ msgstr "ステーションレベル"
 #: /Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title_ExtraData.Text
 msgctxt ",F3BC10F84BFE75E5F1A21299062D1664"
 msgid "LOCATIONS UNLOCKED:"
-msgstr "アンロックされた場所"
+msgstr "アンロックされた場所："
 
 #. Key:	423A09414D1EB7F05C44B3A3C85952DD
 #. SourceLocation:	/Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title_ExtraData_1.Text
@@ -11082,7 +11081,7 @@ msgstr "トランスミッション："
 #: /Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title_ExtraData_2.Text
 msgctxt ",F8ADCB5E457A62BB58D4D381039362E5"
 msgid "MODULES UNLOCKED:"
-msgstr "モジュールのロックを解除"
+msgstr "モジュールのロックを解除："
 
 #. Key:	997A1365444484900FADB89240C5282E
 #. SourceLocation:	/Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title_ExtraData_3.Text
@@ -11124,7 +11123,7 @@ msgstr "ゾーン名"
 #: /Game/UI/UI_Codex_Entry_Zone.UI_Codex_Entry_Zone_C:WidgetTree.Title_ExtraData.Text
 msgctxt ",664238A14D33532126C505BE9FC1410A"
 msgid "RESOURCES:"
-msgstr "リソース"
+msgstr "リソース："
 
 #. Key:	13C5D8C546765508BD0659B7ED08B1BA
 #. SourceLocation:	/Game/UI/UI_Codex_Section.UI_Codex_Section_C:WidgetTree.Text_Section_Name.Text
@@ -11243,14 +11242,14 @@ msgstr "作成"
 #: /Game/UI/UI_CreateTodo.UI_CreateTodo_C:WidgetTree.Text_Description.Text
 msgctxt ",7FEE74D44AC97785C9A850A8B2C85523"
 msgid "COLOUR:"
-msgstr "色"
+msgstr "色："
 
 #. Key:	E05299684E4B6CCCC070F1936B10B7EA
 #. SourceLocation:	/Game/UI/UI_CreateTodo.UI_CreateTodo_C:WidgetTree.Text_Description_1.Text
 #: /Game/UI/UI_CreateTodo.UI_CreateTodo_C:WidgetTree.Text_Description_1.Text
 msgctxt ",E05299684E4B6CCCC070F1936B10B7EA"
 msgid "NAME:"
-msgstr "名前"
+msgstr "名前："
 
 #. Key:	CF313A6F48C9119A851688B18DE31414
 #. SourceLocation:	/Game/UI/UI_CreateTodo.UI_CreateTodo_C:WidgetTree.Text_Description_2.Text
@@ -11394,7 +11393,7 @@ msgstr "OK"
 #: /Game/UI/UI_Dialog_CreateStation.UI_Dialog_CreateStation_C:WidgetTree.TextBlock_3.Text
 msgctxt ",22CE8FFC44BC8276A28FB4BCA8E4A1D2"
 msgid "Parts required:"
-msgstr "必要なパーツ"
+msgstr "必要なパーツ："
 
 #. Key:	E23EC26549A91E86922E269E68F84C89
 #. SourceLocation:	/Game/UI/UI_Dialog_CreateStation.UI_Dialog_CreateStation_C:WidgetTree.TextBlock_61.Text
@@ -12250,7 +12249,7 @@ msgstr "MK"
 #: /Game/UI/UI_Hovered_Scavenger.UI_Hovered_Scavenger_C:WidgetTree.Text_Name_2.Text
 msgctxt ",19E835FC41F9DA497845F1B16EF43D26"
 msgid "CURRENT TARGET:"
-msgstr "現在の目標"
+msgstr "現在の目標："
 
 #. Key:	0B290B894821C03B06A572875E68CCD7
 #. SourceLocation:	/Game/UI/UI_Hovered_Ship.UI_Hovered_Ship_C:Init [Script Bytecode]
@@ -12376,7 +12375,7 @@ msgstr "シップタグ"
 #: /Game/UI/UI_Hovered_Waypoint.UI_Hovered_Waypoint_C:WidgetTree.Text_Name_1.Text
 msgctxt ",F4848F64461AE08DA846F3B006B0B58A"
 msgid "WAYPOINT:"
-msgstr "WAYPOINT"
+msgstr "ウェイポイント："
 
 #. Key:	2AFA152D43FB7717DF2804B8C7E71E4C
 #. SourceLocation:	/Game/UI/UI_Hovered_Zone.UI_Hovered_Zone_C:WidgetTree.Text_Description.Text
@@ -12425,7 +12424,7 @@ msgstr "サイクロンパワー："
 #: /Game/UI/UI_Hovered_Zone.UI_Hovered_Zone_C:WidgetTree.Text_Zone_Name_6.Text
 msgctxt ",562A3BBD4B653FDB9AD645810F71E2B3"
 msgid "ENEMY STRENGTH:"
-msgstr "敵の強さ"
+msgstr "敵の強さ："
 
 #. Key:	1CDD5B1946505C602682BEA14152D3E0
 #. SourceLocation:	/Game/UI/UI_HUD.UI_HUD_C:ExecuteUbergraph_UI_HUD [Script Bytecode]
@@ -12817,7 +12816,7 @@ msgstr "99"
 #: /Game/UI/UI_HUD.UI_HUD_C:WidgetTree.Text_Zone_Name_1.Text
 msgctxt ",1310312D456719FD99EB088168890E5F"
 msgid "RESOURCES:"
-msgstr "リソース"
+msgstr "リソース："
 
 #. Key:	696F3F724884DBAA1945499645B737E3
 #. SourceLocation:	/Game/UI/UI_HUD.UI_HUD_C:WidgetTree.Text_Zone_Name_2.Text
@@ -12852,7 +12851,7 @@ msgstr "サイクロンパワー："
 #: /Game/UI/UI_HUD.UI_HUD_C:WidgetTree.Text_Zone_Name_6.Text
 msgctxt ",B13AC37342C39A09BEE17CA2FB2753A8"
 msgid "ENEMY STRENGTH:"
-msgstr "敵の強さ"
+msgstr "敵の強さ："
 
 #. Key:	3558C71F46F2EADA3964CB98954A2C0A
 #. SourceLocation:	/Game/UI/UI_HUD.UI_HUD_C:WidgetTree.TextBlock.Text
@@ -13631,7 +13630,7 @@ msgstr "mw"
 #: /Game/UI/UI_Panel_ParticleAccelerator.UI_Panel_ParticleAccelerator_C:WidgetTree.Text_NumConnected.Text
 msgctxt ",9C9A3B124A3F2C8D91889BAB02BE6755"
 msgid "POWER NEEDED:"
-msgstr "必要なパワー"
+msgstr "必要なパワー："
 
 #. Key:	D03EA2CC44CDA480BBB891B675A4828A
 #. SourceLocation:	/Game/UI/UI_Panel_ParticleAccelerator.UI_Panel_ParticleAccelerator_C:WidgetTree.Text_NumConnected_1.Text
@@ -13645,7 +13644,7 @@ msgstr "効率："
 #: /Game/UI/UI_Panel_ParticleAccelerator.UI_Panel_ParticleAccelerator_C:WidgetTree.Text_NumConnected_2.Text
 msgctxt ",D26AB48D4C1C245CE25CC6B3139CD871"
 msgid "Loop length:"
-msgstr "ループの長さ"
+msgstr "ループの長さ："
 
 #. Key:	78B6AE024490631DD2A9DEB3F0975273
 #. SourceLocation:	/Game/UI/UI_Panel_ParticleAccelerator.UI_Panel_ParticleAccelerator_C:WidgetTree.Text_Timer.Text
@@ -15128,7 +15127,7 @@ msgstr "MK"
 #: /Game/UI/UI_Tooltip.UI_Tooltip_C:WidgetTree.TextBlock_80.Text
 msgctxt ",37FBC9BD43DF01BF732446B57CB25B72"
 msgid "HOTKEY:"
-msgstr "HOTKEY"
+msgstr "ホットキー："
 
 #. Key:	054EEB0F4848A0015F2ED59A52F48DDA
 #. SourceLocation:	/Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:Init [Script Bytecode]
@@ -15720,14 +15719,14 @@ msgstr "-テキスト"
 #: /Game/UI/UI_Tutorial.UI_Tutorial_C:WidgetTree.Text_Contract_Class.Text
 msgctxt ",569249A64370585AD6AD58B9ABF7F81B"
 msgid "TUTORIAL:"
-msgstr "チュートリアル"
+msgstr "チュートリアル："
 
 #. Key:	BD6AD72849FBEE1B0B315489F57F7526
 #. SourceLocation:	/Game/UI/UI_Tutorial.UI_Tutorial_C:WidgetTree.Text_Tips_Title.Text
 #: /Game/UI/UI_Tutorial.UI_Tutorial_C:WidgetTree.Text_Tips_Title.Text
 msgctxt ",BD6AD72849FBEE1B0B315489F57F7526"
 msgid "TIPS:"
-msgstr "TIPS"
+msgstr "ヒント："
 
 #. Key:	101532CB4CBD4EB1F1B42DB215AFA670
 #. SourceLocation:	/Game/UI/UI_Tutorial_PhaseChanged.UI_Tutorial_PhaseChanged_C:Init [Script Bytecode]
@@ -15836,7 +15835,7 @@ msgstr "チュートリアルのポップアップを表示する"
 #: /Game/UI/UI_Tutorial_Popup.UI_Tutorial_Popup_C:WidgetTree.TextBlock_131.Text
 msgctxt ",D649A9F643BCDE9A8B0C3EB3E4D8233F"
 msgid "TUTORIAL:"
-msgstr "チュートリアル"
+msgstr "チュートリアル："
 
 #. Key:	58D562D14EFC16D52BD8D289E02054F8
 #. SourceLocation:	/Game/UI/UI_Upgrade_Side.UI_Upgrade_Side_C:WidgetTree.Text_Mark_B.Text
