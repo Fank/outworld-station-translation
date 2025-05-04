@@ -512,9 +512,9 @@ msgid ""
 "\r\n"
 "<Items>..."
 msgstr ""
-"HUBにこれらのアイテムが必要です：\r\n"
-"\r\n"
-"<アイテム"
+"HUBにこれらのアイテムが必要です：\n"
+"\n"
+"<Items>など"
 
 #. Key:	7BCACC6F4E2E402C9E050E818DC72F43
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
