@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
-"PO-Revision-Date: 2025-05-05 23:32+0000\n"
+"PO-Revision-Date: 2025-05-06 00:15+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/ja/>\n"
@@ -17,10 +17,9 @@ msgstr ""
 #. Key:	D55687164B6B8C311B44319F2050C356
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid.Default__BP_Asteroid_C.Description
 #: /Game/Asteroids/BP_Asteroid.Default__BP_Asteroid_C.Description
-#, fuzzy
 msgctxt ",D55687164B6B8C311B44319F2050C356"
 msgid "Feed into an Atomizer to extract resources"
-msgstr "アトマイザーに投入して資源を抽出"
+msgstr "アトマイザーに投入して資源を取り出す"
 
 #. Key:	1B56D42C4340EA73926458B5C23F521C
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid.Default__BP_Asteroid_C.Name
@@ -68,7 +67,6 @@ msgstr "エキゾチック・マター"
 #. Key:	6F21ED7247C2676ECA9BA0A104599463
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_GasPlant.Default__BP_Asteroid_GasPlant_C.Name
 #: /Game/Asteroids/BP_Asteroid_GasPlant.Default__BP_Asteroid_GasPlant_C.Name
-#, fuzzy
 msgctxt ",6F21ED7247C2676ECA9BA0A104599463"
 msgid "Gasbag Plant"
 msgstr "ガス袋工場"
@@ -132,7 +130,6 @@ msgstr "ウラン小惑星"
 #. Key:	F6CEFB65498E1FE3DCC6F3822A3097C5
 #. SourceLocation:	/Game/Cloud_Miner/BP_CloudMiner.Default__BP_CloudMiner_C.Name
 #: /Game/Cloud_Miner/BP_CloudMiner.Default__BP_CloudMiner_C.Name
-#, fuzzy
 msgctxt ",F6CEFB65498E1FE3DCC6F3822A3097C5"
 msgid "Cloud Miner"
 msgstr "クラウドマイナー"
@@ -140,7 +137,6 @@ msgstr "クラウドマイナー"
 #. Key:	0221893D4198F63FE1D0D883DCA1E4E2
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",0221893D4198F63FE1D0D883DCA1E4E2"
 msgid " <Fuelled>[Fuelled]</>"
 msgstr " <Fuelled>[燃料供給]</>"
@@ -148,7 +144,6 @@ msgstr " <Fuelled>[燃料供給]</>"
 #. Key:	08FC7F784981D68CA7B81C8DD90D03CB
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",08FC7F784981D68CA7B81C8DD90D03CB"
 msgid "<Bold>{Amount} x {Name}</>"
 msgstr "<Bold>{Amount} x {Name}</>"
@@ -156,7 +151,6 @@ msgstr "<Bold>{Amount} x {Name}</>"
 #. Key:	091821DA4FB3BAFFDEF067B30A694F5B
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",091821DA4FB3BAFFDEF067B30A694F5B"
 msgid "{pree} {main}"
 msgstr "{pree} {main}"
@@ -164,7 +158,6 @@ msgstr "{pree} {main}"
 #. Key:	13C23141487EB3CDDE25A29DB1A06D57
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",13C23141487EB3CDDE25A29DB1A06D57"
 msgid "{Current}{ThisShip}{End}"
 msgstr "{Current}{ThisShip}{End}"
@@ -172,7 +165,6 @@ msgstr "{Current}{ThisShip}{End}"
 #. Key:	32AAFA4140805A103A8C83BB97A04A40
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",32AAFA4140805A103A8C83BB97A04A40"
 msgid " and "
 msgstr " と "
@@ -180,7 +172,6 @@ msgstr " と "
 #. Key:	3CC1C5364D9D772DB6881C82EF7CF886
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",3CC1C5364D9D772DB6881C82EF7CF886"
 msgid "To start your station off,"
 msgstr "ステーションのスタートが"
@@ -188,7 +179,6 @@ msgstr "ステーションのスタートが"
 #. Key:	62050C0B46F53F77AB8BD3886254DC53
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",62050C0B46F53F77AB8BD3886254DC53"
 msgid " + <Armed>[Armed]</>"
 msgstr " + <Armed><武装></>"
@@ -196,7 +186,6 @@ msgstr " + <Armed><武装></>"
 #. Key:	820C8D654E5CDFF4CA4844A12C53D106
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",820C8D654E5CDFF4CA4844A12C53D106"
 msgid ", "
 msgstr ", "
@@ -204,7 +193,6 @@ msgstr ", "
 #. Key:	8A0BC77442BE574BDCAC658FFED5787D
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",8A0BC77442BE574BDCAC658FFED5787D"
 msgid ", "
 msgstr ", "
@@ -212,7 +200,6 @@ msgstr ", "
 #. Key:	A845672543F2311BF8FBFFBBA47BA876
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",A845672543F2311BF8FBFFBBA47BA876"
 msgid "{Current}{ThisItem}{End}"
 msgstr "{Current}{ThisItem}{End}"
@@ -220,7 +207,6 @@ msgstr "{Current}{ThisItem}{End}"
 #. Key:	ACCA5E8C447D667F6B2D17AFEBB7FCBE
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",ACCA5E8C447D667F6B2D17AFEBB7FCBE"
 msgid "In addition,"
 msgstr "さらに"
@@ -228,7 +214,6 @@ msgstr "さらに"
 #. Key:	B37EF8AA42FA08BBCFCF8E9F1848C3F5
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",B37EF8AA42FA08BBCFCF8E9F1848C3F5"
 msgid "s"
 msgstr "秒"
@@ -236,7 +221,6 @@ msgstr "秒"
 #. Key:	CD1D8F334BFB8AB2723378BCAF0C2115
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",CD1D8F334BFB8AB2723378BCAF0C2115"
 msgid "<Bold>{Amount} x {Name}{plural}</>{Fuelled}{Armed}"
 msgstr "<Bold>{Amount} x {Name}{plural}</>{Fuelled}{Armed}"
@@ -244,7 +228,6 @@ msgstr "<Bold>{Amount} x {Name}{plural}</>{Fuelled}{Armed}"
 #. Key:	F6ED51B9424960E84465FC8A14A3EE27
 #. SourceLocation:	/Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
 #: /Game/Contracts/BP_Contract.BP_Contract_C:GenerateMessageText [Script Bytecode]
-#, fuzzy
 msgctxt ",F6ED51B9424960E84465FC8A14A3EE27"
 msgid " and "
 msgstr " と "
@@ -252,7 +235,6 @@ msgstr " と "
 #. Key:	5C0C1B14441F9AC29C039185C0B3F930
 #. SourceLocation:	/Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(0 - Value).DisplayNameMap
-#, fuzzy
 msgctxt ",5C0C1B14441F9AC29C039185C0B3F930"
 msgid "None"
 msgstr "なし"
@@ -260,7 +242,6 @@ msgstr "なし"
 #. Key:	17A6896C483805985D3BDFB7A043030F
 #. SourceLocation:	/Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(1 - Value).DisplayNameMap
 #: /Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(1 - Value).DisplayNameMap
-#, fuzzy
 msgctxt ",17A6896C483805985D3BDFB7A043030F"
 msgid "Produce_Materials"
 msgstr "Produce_Materials"
@@ -268,7 +249,6 @@ msgstr "Produce_Materials"
 #. Key:	C437F0B34A6E3DFDDE1CA994FCCD5879
 #. SourceLocation:	/Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(2 - Value).DisplayNameMap
 #: /Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(2 - Value).DisplayNameMap
-#, fuzzy
 msgctxt ",C437F0B34A6E3DFDDE1CA994FCCD5879"
 msgid "Build_Ships"
 msgstr "Build_Ships"
@@ -276,7 +256,6 @@ msgstr "Build_Ships"
 #. Key:	28137CEC44D8CE4AA090EAB067FEAFB8
 #. SourceLocation:	/Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(3 - Value).DisplayNameMap
 #: /Game/Contracts/E_ContractType.E_ContractType.DisplayNameMap(3 - Value).DisplayNameMap
-#, fuzzy
 msgctxt ",28137CEC44D8CE4AA090EAB067FEAFB8"
 msgid "Destroy_Enemies"
 msgstr "Destroy_Enemies"
@@ -284,7 +263,6 @@ msgstr "Destroy_Enemies"
 #. Key:	4BBD988D4FAD27D9AB546393DA6F9B76
 #. SourceLocation:	/Game/Data/DT_Build_Categories.DT_Build_Categories.BASIC.Name_2_1C4273CD4C76D495F080D799B2B17FE5
 #: /Game/Data/DT_Build_Categories.DT_Build_Categories.BASIC.Name_2_1C4273CD4C76D495F080D799B2B17FE5
-#, fuzzy
 msgctxt ",4BBD988D4FAD27D9AB546393DA6F9B76"
 msgid "General"
 msgstr "一般的な"
@@ -292,7 +270,6 @@ msgstr "一般的な"
 #. Key:	922EF7AE43DA44416D8CD3B649C96391
 #. SourceLocation:	/Game/Data/DT_Build_Categories.DT_Build_Categories.DEFENCE.Name_2_1C4273CD4C76D495F080D799B2B17FE5
 #: /Game/Data/DT_Build_Categories.DT_Build_Categories.DEFENCE.Name_2_1C4273CD4C76D495F080D799B2B17FE5
-#, fuzzy
 msgctxt ",922EF7AE43DA44416D8CD3B649C96391"
 msgid "Defence"
 msgstr "防衛"
@@ -300,7 +277,6 @@ msgstr "防衛"
 #. Key:	D9B504D140F52EC61CFB4D8A1E85D06D
 #. SourceLocation:	/Game/Data/DT_Build_Categories.DT_Build_Categories.POWER.Name_2_1C4273CD4C76D495F080D799B2B17FE5
 #: /Game/Data/DT_Build_Categories.DT_Build_Categories.POWER.Name_2_1C4273CD4C76D495F080D799B2B17FE5
-#, fuzzy
 msgctxt ",D9B504D140F52EC61CFB4D8A1E85D06D"
 msgid "Power"
 msgstr "パワー"
@@ -308,7 +284,6 @@ msgstr "パワー"
 #. Key:	5A9FC6C5461ED018EBFA9D9357CA141D
 #. SourceLocation:	/Game/Data/DT_Build_Categories.DT_Build_Categories.PRODUCTION.Name_2_1C4273CD4C76D495F080D799B2B17FE5
 #: /Game/Data/DT_Build_Categories.DT_Build_Categories.PRODUCTION.Name_2_1C4273CD4C76D495F080D799B2B17FE5
-#, fuzzy
 msgctxt ",5A9FC6C5461ED018EBFA9D9357CA141D"
 msgid "Production"
 msgstr "制作"
@@ -316,7 +291,6 @@ msgstr "制作"
 #. Key:	8331DD594FC8305B0334319579EE8F12
 #. SourceLocation:	/Game/Data/DT_Build_Categories.DT_Build_Categories.RESOURCES.Name_2_1C4273CD4C76D495F080D799B2B17FE5
 #: /Game/Data/DT_Build_Categories.DT_Build_Categories.RESOURCES.Name_2_1C4273CD4C76D495F080D799B2B17FE5
-#, fuzzy
 msgctxt ",8331DD594FC8305B0334319579EE8F12"
 msgid "Resources"
 msgstr "リソース"
@@ -324,7 +298,6 @@ msgstr "リソース"
 #. Key:	248E138A44770D036EA8F18ED17481EA
 #. SourceLocation:	/Game/Data/DT_Build_Categories.DT_Build_Categories.SCIENCE.Name_2_1C4273CD4C76D495F080D799B2B17FE5
 #: /Game/Data/DT_Build_Categories.DT_Build_Categories.SCIENCE.Name_2_1C4273CD4C76D495F080D799B2B17FE5
-#, fuzzy
 msgctxt ",248E138A44770D036EA8F18ED17481EA"
 msgid "Science"
 msgstr "サイエンス"
@@ -332,7 +305,6 @@ msgstr "サイエンス"
 #. Key:	CD1994D443C9C9647A03E6B42DF842D4
 #. SourceLocation:	/Game/Data/DT_Build_Categories.DT_Build_Categories.TRANSPORT.Name_2_1C4273CD4C76D495F080D799B2B17FE5
 #: /Game/Data/DT_Build_Categories.DT_Build_Categories.TRANSPORT.Name_2_1C4273CD4C76D495F080D799B2B17FE5
-#, fuzzy
 msgctxt ",CD1994D443C9C9647A03E6B42DF842D4"
 msgid "Transport"
 msgstr "輸送"
@@ -340,7 +312,6 @@ msgstr "輸送"
 #. Key:	DC7386F94C4DCA701AD16CB3EB9F3952
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_LEVEL_11.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_LEVEL_11.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",DC7386F94C4DCA701AD16CB3EB9F3952"
 msgid ""
 "You've done some truly amazing work in this sector, Commander.\r\n"
@@ -351,39 +322,35 @@ msgid ""
 msgstr ""
 "指揮官、あなたはこの分野で本当に素晴らしい仕事をした。\n"
 "\n"
-"<Bold>ステーション司令部</>はそれに注目し、あなたを<Bold>キャプテン</>に昇格"
-"させることにした！\n"
+"<太字>ステーション司令部</太字>はこれに注目し、君を<太字>船長</太字>に昇格さ"
+"せることにした！\n"
 "\n"
-"誇りに思うべきだ..."
+"君は自分を誇りに思うべきだ。"
 
 #. Key:	CEC8928A425930E61BAC76B0C7EB23E4
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",CEC8928A425930E61BAC76B0C7EB23E4"
 msgid "<Bold>My compliments</>, Station Commander."
-msgstr "<太>お褒めの言葉</>、ステーションコマンダー。"
+msgstr "<Bold>お褒めの言葉</>、ステーションコマンダー。"
 
 #. Key:	A6F3C954417695FC6225428383675217
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",A6F3C954417695FC6225428383675217"
 msgid "<Bold>Congratulations</> Commander."
-msgstr "<太>おめでとう</>司令官。"
+msgstr "<Bold>おめでとう</>司令官。"
 
 #. Key:	E4ECFC2D4056C1A294244A965637C4C3
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",E4ECFC2D4056C1A294244A965637C4C3"
 msgid "<Bold>New station level</> obtained Commander."
-msgstr "<Bold>新しいステーションレベル</>コマンダーを入手。"
+msgstr "<Bold>新しいステーション・レベル</>コマンダーを獲得した。"
 
 #. Key:	B23A054749DF7759D9F2C88448D3ABB8
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",B23A054749DF7759D9F2C88448D3ABB8"
 msgid "<Bold>Primary objective completed</>. well done, Station Commander."
 msgstr "<Bold>第一目標完了</>。よくやった、ステーションコマンダー。"
@@ -391,55 +358,48 @@ msgstr "<Bold>第一目標完了</>。よくやった、ステーションコマ
 #. Key:	C0C7251C4A8C6E3E543446941FA02BAA
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(4).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_A.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(4).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",C0C7251C4A8C6E3E543446941FA02BAA"
 msgid "You've achieved a new <Bold>Station Level</> - My Compliments."
-msgstr "あなたは新しい<Bold>ステーションレベル</>を達成しました。"
+msgstr "あなたは新しい<Bold>ステーションレベル</>を達成した。"
 
 #. Key:	58C54CCF43CC79ACD6FCCAAC563AB216
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_B.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_B.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",58C54CCF43CC79ACD6FCCAAC563AB216"
 msgid "New <Bold>modules, parts and items</> are now available for you to utilize..."
-msgstr "新しい<Bold>モジュール、パーツ、アイテム</>を利用できるようになりました。"
+msgstr "新しい<Bold>モジュール、パーツ、アイテム</>を利用できるようになった。"
 
 #. Key:	33762D6643A50C12568E99AACC248527
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_B.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_B.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",33762D6643A50C12568E99AACC248527"
 msgid "We've unlocked additional <Bold>modules, items and parts</> for you to employ..."
-msgstr "追加<Bold>モジュール、アイテム、パーツ</>がアンロックされました。"
+msgstr "追加<Bold>モジュール、アイテム、パーツ</>もアンロックされている。"
 
 #. Key:	37A10E974DC46A1C54CC2AA3ADCE46AA
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_B.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_B.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",37A10E974DC46A1C54CC2AA3ADCE46AA"
 msgid "<Bold>New technologies</> have become unlocked to aid you in your progress..."
-msgstr "<Bold>新しいテクノロジー</>がアンロックされ、あなたの進歩を助けてくれます。"
+msgstr "<Bold>新しいテクノロジー</>がアンロックされ、あなたの進歩を助けてくれる。"
 
 #. Key:	6C779A724331173E6271FD8DEA7FE1B1
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_B.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.COMPLETED_PART_B.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",6C779A724331173E6271FD8DEA7FE1B1"
 msgid "You'll find a new range of <Bold>modules, items and parts</> now available...."
-msgstr "新しい<Bold>モジュール、アイテム、パーツ</>が登場します。"
+msgstr "新しい<Bold>モジュール、アイテム、パーツ</>が登場する。"
 
 #. Key:	0A69C8F74AB9FFB91100108830A6B60A
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",0A69C8F74AB9FFB91100108830A6B60A"
 msgid "To continue developing your station,"
-msgstr "ステーションを発展させ続けるために"
+msgstr "ステーションを発展させ続ける、"
 
 #. Key:	440CAAD94AC751E07E17F9806AC35C2C
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",440CAAD94AC751E07E17F9806AC35C2C"
 msgid "To reach the next Station Level,"
 msgstr "次のステーション・レベルに到達する、"
@@ -447,15 +407,13 @@ msgstr "次のステーション・レベルに到達する、"
 #. Key:	49A4369A48ECA0989D667DB070A853F0
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",49A4369A48ECA0989D667DB070A853F0"
 msgid "To expand your station further,"
-msgstr "ステーションをさらに拡大するには"
+msgstr "ステーションをさらに拡大する、"
 
 #. Key:	EA29F5084EDF61E65B694ABAA96BD6E6
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_CONTINUE.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",EA29F5084EDF61E65B694ABAA96BD6E6"
 msgid "To fulfil your next objective,"
 msgstr "次の目標を達成するために、"
@@ -463,181 +421,166 @@ msgstr "次の目標を達成するために、"
 #. Key:	2495569B4B347C5C8DC87DA5F73528B7
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_FINISHER.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_FINISHER.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",2495569B4B347C5C8DC87DA5F73528B7"
 msgid "Let us know when you have all of the required items."
-msgstr "必要なアイテムが揃ったら教えてください。"
+msgstr "必要なアイテムが揃ったら教えてね。"
 
 #. Key:	CCD4CC6F4BE6FF889ACC47ABF7CF8D36
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_FINISHER.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_FINISHER.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",CCD4CC6F4BE6FF889ACC47ABF7CF8D36"
 msgid "We'll be in contact when you've fulfilled all of the objectives."
-msgstr "すべての目標を達成したら連絡します。"
+msgstr "すべての目標を達成したら、また連絡する。"
 
 #. Key:	A4F6465D45C5B5E429BE1C947DD986FD
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_FINISHER.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_FINISHER.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",A4F6465D45C5B5E429BE1C947DD986FD"
 msgid "Better get to work, Station Commander."
-msgstr "ステーションコマンダー、仕事に取り掛かろう。"
+msgstr "ステーション・コマンダー、仕事に取り掛かろう。"
 
 #. Key:	0A97C87D4D0F5157131C458F9D5000A4
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_FINISHER.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_FINISHER.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",0A97C87D4D0F5157131C458F9D5000A4"
 msgid "No time to waste, Commander."
-msgstr "時間を無駄にするな、コマンダー。"
+msgstr "指揮官、無駄な時間はない。"
 
 #. Key:	77380D534C8E1C84DA34BD9ABDE0CF11
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_ITEMS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_ITEMS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",77380D534C8E1C84DA34BD9ABDE0CF11"
 msgid ""
 "we'll need you to manufacture the following items:\r\n"
 "\r\n"
 "<Items>..."
 msgstr ""
-"以下のアイテムを製造してください：\r\n"
-"\r\n"
-"<アイテム＞..."
+"以下のアイテムを製造してほしい：\n"
+"\n"
+"<Items>..."
 
 #. Key:	0D4CF90B4A876C220FB67EB74F03EFDC
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_ITEMS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_ITEMS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",0D4CF90B4A876C220FB67EB74F03EFDC"
 msgid ""
 "the following items need to be constructed:\r\n"
 "\r\n"
 "<Items>..."
 msgstr ""
-"以下のアイテムを建設する必要があります：\r\n"
-"\r\n"
-"<アイテム＞..."
+"以下のアイテムを建設する必要がある：\n"
+"\n"
+"<Items>..."
 
 #. Key:	2ABC7BCD459A4DC50DA53B9590CB352B
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_ITEMS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_ITEMS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",2ABC7BCD459A4DC50DA53B9590CB352B"
 msgid ""
 "please fulfil these items:\r\n"
 "\r\n"
 "<Items>..."
 msgstr ""
-"これらの項目を満たしてください：\r\n"
-"\r\n"
-"<項目＞..."
+"これらの項目を満たすこと：\n"
+"\n"
+"<Items>..."
 
 #. Key:	9525081949830B4840FC3DA234A17CBB
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_ITEMS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_ITEMS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",9525081949830B4840FC3DA234A17CBB"
 msgid ""
 "we need these items to be in your HUB:\r\n"
 "\r\n"
 "<Items>..."
 msgstr ""
-"HUBにこれらのアイテムが必要です：\n"
+"HUBにこれらのアイテムが必要だ：\n"
 "\n"
-"<Items>など"
+"<Items>..."
 
 #. Key:	7BCACC6F4E2E402C9E050E818DC72F43
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",7BCACC6F4E2E402C9E050E818DC72F43"
 msgid ""
 "we'll need you to construct the following ships:\r\n"
 "\r\n"
 "<Ships>..."
 msgstr ""
-"以下の船を建造してください：\r\n"
-"\r\n"
-"<船>..."
+"以下の船を建造してほしい：\n"
+"\n"
+"<Ships>..."
 
 #. Key:	F567D3DB49F3DAA64987939EA07FBA79
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",F567D3DB49F3DAA64987939EA07FBA79"
 msgid ""
 "the following starships need to be constructed:\r\n"
 "\r\n"
 "<Ships>..."
 msgstr ""
-"以下の宇宙船を建造する必要があります：\r\n"
-"\r\n"
-"<船>..."
+"以下の宇宙船を建造する必要がある：\n"
+"\n"
+"<Ships>..."
 
 #. Key:	ADE11E494DF141A44DD8F58841635086
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",ADE11E494DF141A44DD8F58841635086"
 msgid ""
 "please make sure you construct these ships:\r\n"
 "\r\n"
 "<Ships>..."
 msgstr ""
-"これらの船を必ず建造してください：\r\n"
-"\r\n"
-"<船>..."
+"これらの船を必ず建造してほしい：\n"
+"\n"
+"<Ships>..."
 
 #. Key:	FB68FE044060239992FA279CB6893D05
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",FB68FE044060239992FA279CB6893D05"
 msgid ""
 "make sure you have the following starships:\r\n"
 "\r\n"
 "<Ships>..."
 msgstr ""
-"以下の宇宙船を持っていることを確認してください：\r\n"
-"\r\n"
-"<船>..."
+"以下の宇宙船があることを確認しよう：\n"
+"\n"
+"<Ships>..."
 
 #. Key:	50FECB844F9A5E396E161294DDAEE10B
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(4).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.CONTRACT_SHIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(4).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",50FECB844F9A5E396E161294DDAEE10B"
 msgid ""
 "please build these ships:\r\n"
 "\r\n"
 "<Ships>..."
 msgstr ""
-"これらの船を作ってください：\r\n"
-"\r\n"
-"<船>..."
+"これらの船を建造してほしい：\n"
+"\n"
+"<Ships>..."
 
 #. Key:	56B7DF3C4ADC43372AFB76A02AE7A5ED
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.INTRO.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.INTRO.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",56B7DF3C4ADC43372AFB76A02AE7A5ED"
 msgid "Welcome to the <Bold>TAU</> system, <Bold>Station Commander</>..."
-msgstr "<Bold>TAU</> システム、<Bold>Station Commander</> へようこそ..."
+msgstr "<Bold>TAU</>システム、<Bold>ステーション指揮官</>へようこそ..."
 
 #. Key:	1EF90A4F406A0E2123FE0EAF6DB251A2
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.INTRO.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.INTRO.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",1EF90A4F406A0E2123FE0EAF6DB251A2"
 msgid ""
 "Located on the fringes of the known galaxy, <Bold>Nova Corp</> has singled out this system for <Bold>exploitation and expansion</>.\r\n"
 "\r\n"
 "As one of our newest <Bold>Station Commanders</>, we expect <Bold>big things</> from you - but <Bold>don't worry</>, I'll be here to guide you along the way..."
 msgstr ""
-"既知の銀河系の端に位置するこの星系は、<太字>ノヴァ・コーポレーション</太字>が"
-"<太字>搾取と拡張のために選んだ星系である。\n"
+"既知の銀河系の端に位置するこの星系は、<Bold>ノヴァ・コーポレーション</>が<Bol"
+"d>搾取と拡張</>のために選んだ星系である。\n"
 "\n"
 "最も新しい<Bold>ステーション・コマンダーの一人</>として、私たちはあなたに<Bol"
 "d>大きな</>ことを期待している。"
@@ -645,167 +588,149 @@ msgstr ""
 #. Key:	4B430BEC41CD101DA6032BB8CE57D159
 #. SourceLocation:	/Game/Data/DT_ContractText.DT_ContractText.INTRO_LEVEL_12.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_ContractText.DT_ContractText.INTRO_LEVEL_12.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",4B430BEC41CD101DA6032BB8CE57D159"
 msgid ""
 "You've completed the <Bold>initial phase of development</> in this system.\r\n"
 "\r\n"
 "Please continue to expand your station and we'll be in touch very soon with <Bold>new technologies</> and <Bold>further orders</>..."
 msgstr ""
-"あなたはこのシステムで<Bold>開発の初期段階</>を完了しました。\n"
+"あなたはこのシステムで<Bold>開発の初期段階</>を完了した。\n"
 "\n"
-"引き続きステーションの拡張を続けてください。<Bold>新技術</>や<Bold>追加注文</"
-">については、すぐにご連絡します..."
+"あなたのステーションを拡大し続けてください。私たちはすぐに<Bold>新技術</>と<"
+"太字>追加注文</>を連絡します..."
 
 #. Key:	D22DAB554EC348E37D845CB1B7CBD6AB
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(0).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",D22DAB554EC348E37D845CB1B7CBD6AB"
 msgid "You can hide the upper level of your station by holding <Bold>[ ` ]</> or <Bold>[ CAPS ]</>"
 msgstr "<Bold>[ ` ]</>または<Bold>[ CAPS ]"
-"</>を押すとステーションの上層を隠すことができます。"
+"</>を押すとステーションの上層を隠すことができる"
 
 #. Key:	96B9D63946A6A6870939B7BB3A1FAB79
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(1).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",96B9D63946A6A6870939B7BB3A1FAB79"
 msgid "You can collect multiple asteroids easily by holding <Bold>SHIFT</> and dragging with <Bold>LMB</>"
 msgstr "<Bold>SHIFT</>を押しながら<Bold>LMB</>でドラッグすると、複数の小惑星を簡単に"
-"集めることができます。"
+"集めることができる"
 
 #. Key:	E2ED8CDF44B9CEC7A021A1BDED73BF9C
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(10).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(10).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",E2ED8CDF44B9CEC7A021A1BDED73BF9C"
 msgid "Rotate the currently placing module using <Bold>Middle Mouse Button</>"
-msgstr "<Bold>マウス中ボタン</>を使用して、現在配置されているモジュールを回転させます"
+msgstr "<Bold>マウス中ボタン</>を使って、現在配置しているモジュールを回転させる"
 
 #. Key:	42BDE5CB44859C9A28F674BCA17FB925
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(11).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(11).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",42BDE5CB44859C9A28F674BCA17FB925"
 msgid "The <Bold>Codex</> contains a lot of useful information including all previously seen tutorial videos"
 msgstr "<Bold>コーデックス</> "
 "には、以前に見たすべてのチュートリアルビデオを含む、多くの有用な情報が含まれ"
-"ています"
+"ている"
 
 #. Key:	0FDADAB6460A411DA6213DA9D2FF8903
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(12).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(12).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",0FDADAB6460A411DA6213DA9D2FF8903"
 msgid "Most recipes can be <Bold>synthesized</> directly from your drone's inventory (hotkey: <Bold>TAB</>)"
-msgstr "ほとんどのレシピはドローンのインベントリから直接<Bold>合成</>できます（ホット"
-"キー：<Bold>TAB</>）"
+msgstr "ほとんどのレシピはドローンのインベントリから直接<Bold>合成</>できる（ホットキ"
+"ー：<Bold>TAB</>）"
 
 #. Key:	C5636670485A6FE47CFB5CB7FFA8F4F6
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(13).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(13).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",C5636670485A6FE47CFB5CB7FFA8F4F6"
 msgid "You can create a custom task by clicking the '+' button on the main toolbar"
-msgstr "メインツールバーの「+」ボタンをクリックすると、カスタムタスクを作成できます"
+msgstr "メインツールバーの「+」ボタンをクリックすると、カスタムタスクを作成できる"
 
 #. Key:	60CCD4B947A8BCFD9C35168EB09EEBFD
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(14).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(14).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",60CCD4B947A8BCFD9C35168EB09EEBFD"
 msgid "You can align multiple <Bold>solar generators</> by using <Bold>Shift + LMB</>"
-msgstr "<Bold>シフト+LMB</>で複数の<Bold>ソーラー発電機</>を並べることができます"
+msgstr "<Bold>シフト+LMB</>で複数の<Bold>ソーラー発電機</>を並べることができる"
 
 #. Key:	F5FCB9864BD8B54E48DEC18333B99E5B
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(2).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",F5FCB9864BD8B54E48DEC18333B99E5B"
 msgid "Use the <Bold>Sensor View</> to locate nearby resources or enemies by holding the <Bold>[ \\ ]</> or <Bold>[ T ]</> keys"
 msgstr "<Bold>センサービュー</>を使い、<Bold>[ ︙ ]</>または<Bold>[ T ]"
-"</>キーを押しながら近くの資源や敵を探します"
+"</>キーを押しながら近くの資源や敵を探す"
 
 #. Key:	3C003F514AB38F8866432D9B825E47DB
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(3).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",3C003F514AB38F8866432D9B825E47DB"
 msgid "Pressing <Bold>X</> while in <Bold>Connect Mode</> will clear all connections from the selected module"
 msgstr "<Bold>接続モード</>で<Bold>X</>を押すと、選択したモジュールの接続がすべて解除"
-"されます"
+"される"
 
 #. Key:	D453014B4D008E81429FEE938B62E197
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(4).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(4).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",D453014B4D008E81429FEE938B62E197"
 msgid "You can move items from a hovered object into your drone's inventory using the <Bold>B</> hotkey"
 msgstr "<Bold>B</> "
 "ホットキーを使って、ホバリングしているオブジェクトのアイテムをドローンのイン"
-"ベントリに移動させることができます。"
+"ベントリに移動させることができる"
 
 #. Key:	BEE6A95B4C65088CF4FDAF84806FBEAE
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(5).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(5).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",BEE6A95B4C65088CF4FDAF84806FBEAE"
 msgid "You can teleport back to the Hub at any time by holding <Bold>HOME</>"
-msgstr "<Bold>HOME</>を長押しすることで、いつでもハブにテレポートすることができます。"
+msgstr "<Bold>HOME</>を長押しすることで、いつでもハブにテレポートすることができる"
 
 #. Key:	E8BA7A1A496A06B64F290FA640EA198A
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(6).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(6).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",E8BA7A1A496A06B64F290FA640EA198A"
 msgid "Use the <Bold>B</> and <Bold>V</> hotkeys to quickly move items to and from your drone and the currently hovered or selected object"
 msgstr ""
 "<Bold>B</> と <Bold>V</> "
-"ホットキーを使用して、ドローンと現在ホバリングしている、または選択しているオ"
-"ブジェクトとの間でアイテムを素早く移動させます。"
+"のホットキーを使って、ドローンと現在ホバリングしている、または選択しているオ"
+"ブジェクトとの間でアイテムを素早く移動させよう。"
 
 #. Key:	1C3E27D64C6A9CBD430CAC8752C46CA1
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(7).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(7).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",1C3E27D64C6A9CBD430CAC8752C46CA1"
 msgid "The <Bold>Station Overview</> lets you quickly see how your station is performing (Hold <Bold>LEFT CTRL</>)"
 msgstr ""
-"<Bold>ステーションの概要</>では、自分のステーションのパフォーマンスを素早く確"
-"認することができます（<Bold>左Ctrlを押したまま</>）"
+"<Bold>ステーションの概要</>では、自分のステーションがどのように機能しているか"
+"を素早く確認できる（<Bold>左Ctrl</>を押したまま）"
 
 #. Key:	00CDD15F4C75C188338574965539D6CD
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(8).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(8).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",00CDD15F4C75C188338574965539D6CD"
 msgid "Quickly switch hovered or selected modules on and off using the <Bold>Z</> hotkey"
 msgstr "<Bold>Z</> "
-"ホットキーを使用して、ホバリングまたは選択したモジュールのオンとオフをすばや"
-"く切り替えます。"
+"ホットキーを使って、ホバリングまたは選択したモジュールのオンとオフを素早く切"
+"り替えよう"
 
 #. Key:	ED2AABEA45AE4B1BB8AD22A363E06818
 #. SourceLocation:	/Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(9).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
 #: /Game/Data/DT_LoadingScreenTips.DT_LoadingScreenTips.TIPS.Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298(9).Possible_Text_3_DAEE9DEC49030DFB48F18DA31D121298
-#, fuzzy
 msgctxt ",ED2AABEA45AE4B1BB8AD22A363E06818"
 msgid "Add a waypoint using <Bold>Middle Mouse Button</> while in the <Bold>Map View</>"
-msgstr "<Bold>マップビュー</>で<Bold>マウス中ボタン</>を使ってウェイポイントを追加し"
-"ます。"
+msgstr "<Bold>マップビュー</>で<Bold>マウス中ボタン</>を使ってウェイポイントを追加す"
+"る"
 
 #. Key:	DFA8344B47ECA5B7F57111A9655240A7
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.ADVANCED_PLATING.Description
 #: /Game/Data/DT_Materials.DT_Materials.ADVANCED_PLATING.Description
-#, fuzzy
 msgctxt ",DFA8344B47ECA5B7F57111A9655240A7"
 msgid "Ultra-high-tech plating used in starship and station module construction"
-msgstr "宇宙船とステーション・モジュールの建造に使用される超ハイテク・メッキ"
+msgstr "宇宙船やステーション・モジュールの建造に超ハイテクなメッキが使われている"
 
 #. Key:	C03AEA06429AEC1E567E8A98E24C83E1
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.ADVANCED_PLATING.Name
 #: /Game/Data/DT_Materials.DT_Materials.ADVANCED_PLATING.Name
-#, fuzzy
 msgctxt ",C03AEA06429AEC1E567E8A98E24C83E1"
 msgid "Advanced Plating"
 msgstr "高度なメッキ"
@@ -813,7 +738,6 @@ msgstr "高度なメッキ"
 #. Key:	D4E93F384F5CCFE2912CC2B14829256C
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.ANTIMATTER.Description
 #: /Game/Data/DT_Materials.DT_Materials.ANTIMATTER.Description
-#, fuzzy
 msgctxt ",D4E93F384F5CCFE2912CC2B14829256C"
 msgid "This pinnacle of our engineering technology can be used to generate incredible amounts of power... or destruction."
 msgstr "この工学技術の最高峰は、信じられないほどのパワーを生み出すために...あるいは破"
@@ -822,7 +746,6 @@ msgstr "この工学技術の最高峰は、信じられないほどのパワー
 #. Key:	9ADE15624B1CCAB03EDCEDB160825A1A
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.ANTIMATTER.Name
 #: /Game/Data/DT_Materials.DT_Materials.ANTIMATTER.Name
-#, fuzzy
 msgctxt ",9ADE15624B1CCAB03EDCEDB160825A1A"
 msgid "Antimatter"
 msgstr "反物質"
@@ -830,7 +753,6 @@ msgstr "反物質"
 #. Key:	F347A4AF40930F2FF19E43BDCB51D955
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.ARTIFICIAL_DIAMONDS.Description
 #: /Game/Data/DT_Materials.DT_Materials.ARTIFICIAL_DIAMONDS.Description
-#, fuzzy
 msgctxt ",F347A4AF40930F2FF19E43BDCB51D955"
 msgid "Crystalline matrix used in superconductors and high-tensile structures"
 msgstr "超伝導体や高張力構造に使用される結晶マトリックス"
@@ -838,7 +760,6 @@ msgstr "超伝導体や高張力構造に使用される結晶マトリックス
 #. Key:	421A060C424581E817761780AA7D63B5
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.ARTIFICIAL_DIAMONDS.Name
 #: /Game/Data/DT_Materials.DT_Materials.ARTIFICIAL_DIAMONDS.Name
-#, fuzzy
 msgctxt ",421A060C424581E817761780AA7D63B5"
 msgid "Artificial Diamond"
 msgstr "人工ダイヤモンド"
@@ -846,7 +767,6 @@ msgstr "人工ダイヤモンド"
 #. Key:	5DEC0FC149778C2F3C78B8A987DBCD0B
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.BASIC_FRAMES.Description
 #: /Game/Data/DT_Materials.DT_Materials.BASIC_FRAMES.Description
-#, fuzzy
 msgctxt ",5DEC0FC149778C2F3C78B8A987DBCD0B"
 msgid "High-tensile framework used in more basic construction projects and simple starships"
 msgstr "より基本的な建設プロジェクトや簡単な宇宙船で使用される高張力フレームワーク"
@@ -854,7 +774,6 @@ msgstr "より基本的な建設プロジェクトや簡単な宇宙船で使用
 #. Key:	7A7F4FB14EDC8EA661A4E6AD3B7CEA2D
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.BASIC_FRAMES.Name
 #: /Game/Data/DT_Materials.DT_Materials.BASIC_FRAMES.Name
-#, fuzzy
 msgctxt ",7A7F4FB14EDC8EA661A4E6AD3B7CEA2D"
 msgid "Basic Frames"
 msgstr "基本フレーム"
@@ -862,15 +781,13 @@ msgstr "基本フレーム"
 #. Key:	6A7778A84C120973A588E8A5FE03E274
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.CARBON.Description
 #: /Game/Data/DT_Materials.DT_Materials.CARBON.Description
-#, fuzzy
 msgctxt ",6A7778A84C120973A588E8A5FE03E274"
 msgid "Carbon lattice material that can be further processed into useful composites"
-msgstr "有用な複合材料に加工できる炭素格子材料"
+msgstr "さらに加工して有用な複合材料にできる炭素格子材料"
 
 #. Key:	BE80129A4F8B4ED3007CEDAF5E7C464F
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.CARBON.Name
 #: /Game/Data/DT_Materials.DT_Materials.CARBON.Name
-#, fuzzy
 msgctxt ",BE80129A4F8B4ED3007CEDAF5E7C464F"
 msgid "Carbon"
 msgstr "カーボン"
@@ -878,7 +795,6 @@ msgstr "カーボン"
 #. Key:	BE02CF9F4380A5E71B3F5BB6480A008D
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.CARBON_NANOTUBE.Description
 #: /Game/Data/DT_Materials.DT_Materials.CARBON_NANOTUBE.Description
-#, fuzzy
 msgctxt ",BE02CF9F4380A5E71B3F5BB6480A008D"
 msgid "Ultra-strong carbon-based nano material used in pipes and cables"
 msgstr "パイプやケーブルに使われる超強力カーボン系ナノ素材"
@@ -886,7 +802,6 @@ msgstr "パイプやケーブルに使われる超強力カーボン系ナノ素
 #. Key:	B72B51354F5AFE19E7A0CE8906BD4403
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.CARBON_NANOTUBE.Name
 #: /Game/Data/DT_Materials.DT_Materials.CARBON_NANOTUBE.Name
-#, fuzzy
 msgctxt ",B72B51354F5AFE19E7A0CE8906BD4403"
 msgid "Carbon Nanotube"
 msgstr "カーボンナノチューブ"
@@ -894,7 +809,6 @@ msgstr "カーボンナノチューブ"
 #. Key:	D0B0C50F4A8ABDB3664CF3B42EA03AF7
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.CARBON_ORE.Description
 #: /Game/Data/DT_Materials.DT_Materials.CARBON_ORE.Description
-#, fuzzy
 msgctxt ",D0B0C50F4A8ABDB3664CF3B42EA03AF7"
 msgid "Carbon-based ore that can be smelted into stable carbon compounds"
 msgstr "安定した炭素化合物に製錬できる炭素系鉱石"
@@ -902,7 +816,6 @@ msgstr "安定した炭素化合物に製錬できる炭素系鉱石"
 #. Key:	D365F7ED4D92CDC16D17729A1BEF248A
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.CARBON_ORE.Name
 #: /Game/Data/DT_Materials.DT_Materials.CARBON_ORE.Name
-#, fuzzy
 msgctxt ",D365F7ED4D92CDC16D17729A1BEF248A"
 msgid "Carbon Ore"
 msgstr "炭素鉱石"
@@ -910,15 +823,13 @@ msgstr "炭素鉱石"
 #. Key:	817418C943F5CA9D113373A45FB3C090
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.CIRCUIT_BOARDS.Description
 #: /Game/Data/DT_Materials.DT_Materials.CIRCUIT_BOARDS.Description
-#, fuzzy
 msgctxt ",817418C943F5CA9D113373A45FB3C090"
 msgid "Basic nano-wafer circuitry used to build advanced computational matrixes"
-msgstr "高度な計算マトリックスを構築するために使用される基本的なナノウェハー回路"
+msgstr "基本的なナノウェハー回路を使用して、高度な計算マトリックスを構築する"
 
 #. Key:	A738653E4995E54A33C075838FF56538
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.CIRCUIT_BOARDS.Name
 #: /Game/Data/DT_Materials.DT_Materials.CIRCUIT_BOARDS.Name
-#, fuzzy
 msgctxt ",A738653E4995E54A33C075838FF56538"
 msgid "Circuit Boards"
 msgstr "回路基板"
@@ -926,15 +837,13 @@ msgstr "回路基板"
 #. Key:	577ACB87433211D47B57A5B11AB70C7A
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.COMPOSITE.Description
 #: /Game/Data/DT_Materials.DT_Materials.COMPOSITE.Description
-#, fuzzy
 msgctxt ",577ACB87433211D47B57A5B11AB70C7A"
 msgid "Flexible carbon nano-material which can be used as a basis for many other materials"
-msgstr "他の多くの材料の基礎として使用できる柔軟なカーボンナノ材料"
+msgstr "柔軟なカーボンナノ材料は、他の多くの材料の基礎として使用できる"
 
 #. Key:	CC14C8DC49312AA4D345A9AD96938F84
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.COMPOSITE.Name
 #: /Game/Data/DT_Materials.DT_Materials.COMPOSITE.Name
-#, fuzzy
 msgctxt ",CC14C8DC49312AA4D345A9AD96938F84"
 msgid "Composite"
 msgstr "コンポジット"
@@ -942,16 +851,14 @@ msgstr "コンポジット"
 #. Key:	6D99A2BE43BDC9CC3D129F953B915722
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.COMPUTERS.Description
 #: /Game/Data/DT_Materials.DT_Materials.COMPUTERS.Description
-#, fuzzy
 msgctxt ",6D99A2BE43BDC9CC3D129F953B915722"
 msgid "Quantum-based computing matrix used for advanced station modules and starships"
-msgstr "先進的なステーション・モジュールと宇宙船に使用される量子ベースのコンピューテ"
-"ィング・マトリックス"
+msgstr "量子ベースのコンピューティング・マトリックスを高度なステーション・モジュール"
+"と宇宙船に使用する"
 
 #. Key:	58366F7D4BE3DDD591B98B848C5E6A14
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.COMPUTERS.Name
 #: /Game/Data/DT_Materials.DT_Materials.COMPUTERS.Name
-#, fuzzy
 msgctxt ",58366F7D4BE3DDD591B98B848C5E6A14"
 msgid "Computers"
 msgstr "コンピューター"
@@ -959,15 +866,13 @@ msgstr "コンピューター"
 #. Key:	180F02C94F3EC4B83A5CE0A27302598B
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.DEPLETED_URANIUM.Description
 #: /Game/Data/DT_Materials.DT_Materials.DEPLETED_URANIUM.Description
-#, fuzzy
 msgctxt ",180F02C94F3EC4B83A5CE0A27302598B"
 msgid "Incredibly hard nuclear byproduct used in the production of railgun slugs"
-msgstr "レールガンのスラグ製造に使用される信じられないほど硬い核副産物"
+msgstr "レールガンのスラグ製造に使われる、信じられないほど硬い核副産物"
 
 #. Key:	D6FD58F7486F6ACE994E248378493D18
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.DEPLETED_URANIUM.Name
 #: /Game/Data/DT_Materials.DT_Materials.DEPLETED_URANIUM.Name
-#, fuzzy
 msgctxt ",D6FD58F7486F6ACE994E248378493D18"
 msgid "Depleted Uranium"
 msgstr "劣化ウラン"
@@ -983,7 +888,6 @@ msgstr "放射性が高く不安定な準物質"
 #. Key:	543048D649703D6C9D43DD9D87ADE9F5
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.EXOTIC_MATTER.Name
 #: /Game/Data/DT_Materials.DT_Materials.EXOTIC_MATTER.Name
-#, fuzzy
 msgctxt ",543048D649703D6C9D43DD9D87ADE9F5"
 msgid "Exotic Matter"
 msgstr "エキゾチック・マター"
@@ -991,15 +895,14 @@ msgstr "エキゾチック・マター"
 #. Key:	2A56A1DA4AB963515829D587D2751655
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.FIBRE_OPTICS.Description
 #: /Game/Data/DT_Materials.DT_Materials.FIBRE_OPTICS.Description
-#, fuzzy
 msgctxt ",2A56A1DA4AB963515829D587D2751655"
 msgid "High-capacity optical cabling used in computing and many other applications"
-msgstr "コンピュータやその他多くのアプリケーションで使用される大容量光ケーブル"
+msgstr "大容量光ケーブルは、コンピューターやその他多くのアプリケーションで使用されて"
+"いる"
 
 #. Key:	06F2383D4E7344155E5F7985686C787D
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.FIBRE_OPTICS.Name
 #: /Game/Data/DT_Materials.DT_Materials.FIBRE_OPTICS.Name
-#, fuzzy
 msgctxt ",06F2383D4E7344155E5F7985686C787D"
 msgid "Fibre Optics"
 msgstr "ファイバーオプティクス"
@@ -1007,23 +910,20 @@ msgstr "ファイバーオプティクス"
 #. Key:	C44F1CFA494D862103C67B9D18C6164A
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.GLASS_FIBRE.Description
 #: /Game/Data/DT_Materials.DT_Materials.GLASS_FIBRE.Description
-#, fuzzy
 msgctxt ",C44F1CFA494D862103C67B9D18C6164A"
 msgid "Basic fibrous polymer material used to create more advanced products"
-msgstr "より高度な製品を作るために使用される基本的な繊維状ポリマー材料"
+msgstr "基本的な繊維状ポリマー材料は、より高度な製品を作るために使用される"
 
 #. Key:	AB7358664B519B430411EA9B9D7555EA
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.GLASS_FIBRE.Name
 #: /Game/Data/DT_Materials.DT_Materials.GLASS_FIBRE.Name
-#, fuzzy
 msgctxt ",AB7358664B519B430411EA9B9D7555EA"
 msgid "Glass Fibre"
-msgstr "ガラス繊維"
+msgstr "グラスファイバー"
 
 #. Key:	2F0BE9644FAFE9B7CCC9A28CF841AF55
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.GOLD.Description
 #: /Game/Data/DT_Materials.DT_Materials.GOLD.Description
-#, fuzzy
 msgctxt ",2F0BE9644FAFE9B7CCC9A28CF841AF55"
 msgid "Rare metal used in all forms of electronics and circuitry"
 msgstr "あらゆる電子機器や回路に使われるレアメタル"
@@ -1031,7 +931,6 @@ msgstr "あらゆる電子機器や回路に使われるレアメタル"
 #. Key:	B3E3204B487283331F605189A0ACBEBC
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.GOLD.Name
 #: /Game/Data/DT_Materials.DT_Materials.GOLD.Name
-#, fuzzy
 msgctxt ",B3E3204B487283331F605189A0ACBEBC"
 msgid "Gold"
 msgstr "ゴールド"
@@ -1039,15 +938,13 @@ msgstr "ゴールド"
 #. Key:	9BD8E26244CFEF285D1F419BE5E84E73
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.GOLD_ORE.Description
 #: /Game/Data/DT_Materials.DT_Materials.GOLD_ORE.Description
-#, fuzzy
 msgctxt ",9BD8E26244CFEF285D1F419BE5E84E73"
 msgid "Raw ore that can be smelted into usable metal"
-msgstr "使用可能な金属に錬金できる未加工の鉱石"
+msgstr "使える金属に製錬できる原鉱石"
 
 #. Key:	794E2A0942371D18DA8D21BEC567D2CF
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.GOLD_ORE.Name
 #: /Game/Data/DT_Materials.DT_Materials.GOLD_ORE.Name
-#, fuzzy
 msgctxt ",794E2A0942371D18DA8D21BEC567D2CF"
 msgid "Gold Ore"
 msgstr "金鉱石"
@@ -1055,15 +952,13 @@ msgstr "金鉱石"
 #. Key:	F3BC815C406041542D5269AD570C104A
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.HEAVY_FRAMES.Description
 #: /Game/Data/DT_Materials.DT_Materials.HEAVY_FRAMES.Description
-#, fuzzy
 msgctxt ",F3BC815C406041542D5269AD570C104A"
 msgid "Heavy high-tensile framework used in larger starships"
-msgstr "大型宇宙船に使われる重いハイテン骨組み"
+msgstr "大型宇宙船に使用される重いハイテン骨組み"
 
 #. Key:	ACC3FAC14DEE48C7A7C4F2ACDFAA0FA7
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.HEAVY_FRAMES.Name
 #: /Game/Data/DT_Materials.DT_Materials.HEAVY_FRAMES.Name
-#, fuzzy
 msgctxt ",ACC3FAC14DEE48C7A7C4F2ACDFAA0FA7"
 msgid "Heavy Frames"
 msgstr "重いフレーム"
@@ -1071,7 +966,6 @@ msgstr "重いフレーム"
 #. Key:	D040F63441AB893E1F4C538F54C623D6
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.HULL_PLATING.Description
 #: /Game/Data/DT_Materials.DT_Materials.HULL_PLATING.Description
-#, fuzzy
 msgctxt ",D040F63441AB893E1F4C538F54C623D6"
 msgid "General-purpose outer-hull plates used in both station modules and starship construction"
 msgstr "ステーションモジュールと宇宙船建造の両方で使用される汎用外殻プレート"
@@ -1079,7 +973,6 @@ msgstr "ステーションモジュールと宇宙船建造の両方で使用さ
 #. Key:	A53648074F165CF4C32F18829F1005EE
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.HULL_PLATING.Name
 #: /Game/Data/DT_Materials.DT_Materials.HULL_PLATING.Name
-#, fuzzy
 msgctxt ",A53648074F165CF4C32F18829F1005EE"
 msgid "Hull Plating"
 msgstr "船体メッキ"
@@ -1087,7 +980,6 @@ msgstr "船体メッキ"
 #. Key:	71288EED485415D797B14C9A1FC38BE5
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.HYDROGEN.Description
 #: /Game/Data/DT_Materials.DT_Materials.HYDROGEN.Description
-#, fuzzy
 msgctxt ",71288EED485415D797B14C9A1FC38BE5"
 msgid "Base element used in fusion reactors and starship fuel"
 msgstr "核融合炉や宇宙船の燃料に使われる基本元素"
@@ -1095,7 +987,6 @@ msgstr "核融合炉や宇宙船の燃料に使われる基本元素"
 #. Key:	78C3606349F0D12800A070A917D4ED42
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.HYDROGEN.Name
 #: /Game/Data/DT_Materials.DT_Materials.HYDROGEN.Name
-#, fuzzy
 msgctxt ",78C3606349F0D12800A070A917D4ED42"
 msgid "Hydrogen"
 msgstr "水素"
@@ -1103,15 +994,13 @@ msgstr "水素"
 #. Key:	0DFF427E4E4D60D6EFFB118D91EA5806
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.LARGE_ENGINE.Description
 #: /Game/Data/DT_Materials.DT_Materials.LARGE_ENGINE.Description
-#, fuzzy
 msgctxt ",0DFF427E4E4D60D6EFFB118D91EA5806"
 msgid "Extremely powerful engine used advanced starships"
-msgstr "非常に強力なエンジンを使用した高度な宇宙船"
+msgstr "非常に強力なエンジンは、高度な宇宙船を使用する"
 
 #. Key:	380C94B64B1F39C24FE18AB9E8A4D804
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.LARGE_ENGINE.Name
 #: /Game/Data/DT_Materials.DT_Materials.LARGE_ENGINE.Name
-#, fuzzy
 msgctxt ",380C94B64B1F39C24FE18AB9E8A4D804"
 msgid "Large Engine"
 msgstr "大型エンジン"
@@ -1119,7 +1008,6 @@ msgstr "大型エンジン"
 #. Key:	9634E7C64FE8BD4410EB85A1F60DB8AE
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.LIGHT_MISSILE_AMMO.Description
 #: /Game/Data/DT_Materials.DT_Materials.LIGHT_MISSILE_AMMO.Description
-#, fuzzy
 msgctxt ",9634E7C64FE8BD4410EB85A1F60DB8AE"
 msgid "General purpose missile used by military starships"
 msgstr "軍用宇宙船が使用する汎用ミサイル"
@@ -1127,7 +1015,6 @@ msgstr "軍用宇宙船が使用する汎用ミサイル"
 #. Key:	856C1066453D1CC1D55D1E88432BC717
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.LIGHT_MISSILE_AMMO.Name
 #: /Game/Data/DT_Materials.DT_Materials.LIGHT_MISSILE_AMMO.Name
-#, fuzzy
 msgctxt ",856C1066453D1CC1D55D1E88432BC717"
 msgid "Light Missile Ammo"
 msgstr "軽ミサイル弾薬"
@@ -1135,7 +1022,6 @@ msgstr "軽ミサイル弾薬"
 #. Key:	409E9EFB426702878C2784B898286B73
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.MEDIUM_ENGINE.Description
 #: /Game/Data/DT_Materials.DT_Materials.MEDIUM_ENGINE.Description
-#, fuzzy
 msgctxt ",409E9EFB426702878C2784B898286B73"
 msgid "Powerful engine used by larger starships"
 msgstr "大型宇宙船が使用する強力なエンジン"
@@ -1143,23 +1029,20 @@ msgstr "大型宇宙船が使用する強力なエンジン"
 #. Key:	22FBA2E54434CEEBA429D39A96C3C333
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.MEDIUM_ENGINE.Name
 #: /Game/Data/DT_Materials.DT_Materials.MEDIUM_ENGINE.Name
-#, fuzzy
 msgctxt ",22FBA2E54434CEEBA429D39A96C3C333"
 msgid "Medium Engine"
-msgstr "中型エンジン"
+msgstr "ミディアムエンジン"
 
 #. Key:	24102A124C3C22F1DBB2C784FF87E5F6
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.MICRO_FUSION_REACTOR.Description
 #: /Game/Data/DT_Materials.DT_Materials.MICRO_FUSION_REACTOR.Description
-#, fuzzy
 msgctxt ",24102A124C3C22F1DBB2C784FF87E5F6"
 msgid "Powerful mini reactor capable of powering larger starships"
-msgstr "大型宇宙船の動力源となる強力なミニリアクター"
+msgstr "大型宇宙船に電力を供給できる強力なミニリアクター"
 
 #. Key:	7D96C3B84D446909624C968631CE5640
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.MICRO_FUSION_REACTOR.Name
 #: /Game/Data/DT_Materials.DT_Materials.MICRO_FUSION_REACTOR.Name
-#, fuzzy
 msgctxt ",7D96C3B84D446909624C968631CE5640"
 msgid "Micro-Fusion Reactor"
 msgstr "マイクロ核融合炉"
@@ -1167,7 +1050,6 @@ msgstr "マイクロ核融合炉"
 #. Key:	479DD0D44A1BBF32922346895C7D07E8
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.MISSILE_LAUNCHER.Description
 #: /Game/Data/DT_Materials.DT_Materials.MISSILE_LAUNCHER.Description
-#, fuzzy
 msgctxt ",479DD0D44A1BBF32922346895C7D07E8"
 msgid "Long-range missile launcher for military ships"
 msgstr "軍艦用長距離ミサイルランチャー"
@@ -1175,23 +1057,20 @@ msgstr "軍艦用長距離ミサイルランチャー"
 #. Key:	57CF4DCF49165339D0E15BB13A35330E
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.MISSILE_LAUNCHER.Name
 #: /Game/Data/DT_Materials.DT_Materials.MISSILE_LAUNCHER.Name
-#, fuzzy
 msgctxt ",57CF4DCF49165339D0E15BB13A35330E"
 msgid "Missile Launcher"
-msgstr "ミサイルランチャー"
+msgstr "ミサイル発射"
 
 #. Key:	F319FDA84766853FA25B25BED67E130A
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.MOLECULAR_BONDING.Description
 #: /Game/Data/DT_Materials.DT_Materials.MOLECULAR_BONDING.Description
-#, fuzzy
 msgctxt ",F319FDA84766853FA25B25BED67E130A"
 msgid "This super-strong epoxy is used to bond many materials and products together"
-msgstr "この超強力エポキシは、多くの材料や製品を接着するために使用されます。"
+msgstr "この超強力エポキシ樹脂は、多くの材料や製品の接着に使用されている"
 
 #. Key:	8DE1AD1D44A261BFFB00FA94DDFB1305
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.MOLECULAR_BONDING.Name
 #: /Game/Data/DT_Materials.DT_Materials.MOLECULAR_BONDING.Name
-#, fuzzy
 msgctxt ",8DE1AD1D44A261BFFB00FA94DDFB1305"
 msgid "Molecular Bonding"
 msgstr "分子結合"
@@ -1199,15 +1078,13 @@ msgstr "分子結合"
 #. Key:	CC08B6C24CD774DBB216AF872EBD8BE6
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NANO_PLATING.Description
 #: /Game/Data/DT_Materials.DT_Materials.NANO_PLATING.Description
-#, fuzzy
 msgctxt ",CC08B6C24CD774DBB216AF872EBD8BE6"
 msgid "An advanced hull plating which is both incredibly strong and flexible when required"
-msgstr "驚異的な強度と柔軟性を併せ持つ先進の船体メッキ"
+msgstr "驚異的な強度と柔軟性を併せ持つ先進的な船体メッキを採用"
 
 #. Key:	59C64BED431468731A1E5AB6D2F04CDA
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NANO_PLATING.Name
 #: /Game/Data/DT_Materials.DT_Materials.NANO_PLATING.Name
-#, fuzzy
 msgctxt ",59C64BED431468731A1E5AB6D2F04CDA"
 msgid "Nano Plating"
 msgstr "ナノメッキ"
@@ -1215,15 +1092,13 @@ msgstr "ナノメッキ"
 #. Key:	CD88B99B4E8D0246D8F8DA96A5DC71E2
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NEUTRON_INITIATOR.Description
 #: /Game/Data/DT_Materials.DT_Materials.NEUTRON_INITIATOR.Description
-#, fuzzy
 msgctxt ",CD88B99B4E8D0246D8F8DA96A5DC71E2"
 msgid "Radioactive consumable used in the Particle Accelerator to generate Antimatter"
-msgstr "反物質を生成する粒子加速器で使用される放射性消耗品"
+msgstr "反物質を生成するために粒子加速器で使用される放射性消耗品"
 
 #. Key:	570594D24DBB71BC23512DB89370C99C
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NEUTRON_INITIATOR.Name
 #: /Game/Data/DT_Materials.DT_Materials.NEUTRON_INITIATOR.Name
-#, fuzzy
 msgctxt ",570594D24DBB71BC23512DB89370C99C"
 msgid "Neutron Initiator"
 msgstr "中性子イニシエーター"
@@ -1231,7 +1106,6 @@ msgstr "中性子イニシエーター"
 #. Key:	0FAA8ED64728B88A8C6ACA89BB9294DF
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NITRATIUM.Description
 #: /Game/Data/DT_Materials.DT_Materials.NITRATIUM.Description
-#, fuzzy
 msgctxt ",0FAA8ED64728B88A8C6ACA89BB9294DF"
 msgid "Bio-compound that can be harvested from gas-giant fauna and processed into explosives"
 msgstr "ガス状巨大動物から採取し、爆薬に加工できるバイオ化合物"
@@ -1239,7 +1113,6 @@ msgstr "ガス状巨大動物から採取し、爆薬に加工できるバイオ
 #. Key:	31E6B35E4994BF6B610DD89F7FCBC139
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NITRATIUM.Name
 #: /Game/Data/DT_Materials.DT_Materials.NITRATIUM.Name
-#, fuzzy
 msgctxt ",31E6B35E4994BF6B610DD89F7FCBC139"
 msgid "Nitratium"
 msgstr "ニトラチウム"
@@ -1247,7 +1120,6 @@ msgstr "ニトラチウム"
 #. Key:	582B4BDD423422307F163FAE2B2F9902
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NITRONIC_ACID.Description
 #: /Game/Data/DT_Materials.DT_Materials.NITRONIC_ACID.Description
-#, fuzzy
 msgctxt ",582B4BDD423422307F163FAE2B2F9902"
 msgid "Highly corrosive substance used for scrubbing radioactive materials"
 msgstr "放射性物質の洗浄に使われる腐食性の高い物質"
@@ -1255,7 +1127,6 @@ msgstr "放射性物質の洗浄に使われる腐食性の高い物質"
 #. Key:	D599E7EA4266AE17B7EE9EAACAC1D930
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NITRONIC_ACID.Name
 #: /Game/Data/DT_Materials.DT_Materials.NITRONIC_ACID.Name
-#, fuzzy
 msgctxt ",D599E7EA4266AE17B7EE9EAACAC1D930"
 msgid "Nitronic Acid"
 msgstr "硝酸"
@@ -1263,7 +1134,6 @@ msgstr "硝酸"
 #. Key:	567658D149818C9008818DA4C93A2282
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NITROX.Description
 #: /Game/Data/DT_Materials.DT_Materials.NITROX.Description
-#, fuzzy
 msgctxt ",567658D149818C9008818DA4C93A2282"
 msgid "Highly concentrated explosive used in weapons production"
 msgstr "兵器製造に使われる高濃度爆薬"
@@ -1271,7 +1141,6 @@ msgstr "兵器製造に使われる高濃度爆薬"
 #. Key:	0CA6812A44A9451D4354F89003960326
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NITROX.Name
 #: /Game/Data/DT_Materials.DT_Materials.NITROX.Name
-#, fuzzy
 msgctxt ",0CA6812A44A9451D4354F89003960326"
 msgid "Nitrox"
 msgstr "ナイトロックス"
@@ -1279,15 +1148,13 @@ msgstr "ナイトロックス"
 #. Key:	47A9C4FC4D87688E6F73A7BA1C14E6CC
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NUCLEAR_WASTE.Description
 #: /Game/Data/DT_Materials.DT_Materials.NUCLEAR_WASTE.Description
-#, fuzzy
 msgctxt ",47A9C4FC4D87688E6F73A7BA1C14E6CC"
 msgid "Extremely radioactive nuclear by-product of certain products and reactions"
-msgstr "特定の製品や反応による極めて放射性の高い核副産物"
+msgstr "特定の製品や反応から生じる極めて放射性の高い核副産物"
 
 #. Key:	7DFDFE9D48CDDEDC071525AF9DD40A7B
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.NUCLEAR_WASTE.Name
 #: /Game/Data/DT_Materials.DT_Materials.NUCLEAR_WASTE.Name
-#, fuzzy
 msgctxt ",7DFDFE9D48CDDEDC071525AF9DD40A7B"
 msgid "Nuclear Waste"
 msgstr "核廃棄物"
@@ -1295,7 +1162,6 @@ msgstr "核廃棄物"
 #. Key:	26F8CA07487F9D21FFECE5A594026945
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.OXYGEN.Description
 #: /Game/Data/DT_Materials.DT_Materials.OXYGEN.Description
-#, fuzzy
 msgctxt ",26F8CA07487F9D21FFECE5A594026945"
 msgid "Reactive gaseous element used in explosive compounds"
 msgstr "爆発性化合物に使用される反応性気体元素"
@@ -1303,7 +1169,6 @@ msgstr "爆発性化合物に使用される反応性気体元素"
 #. Key:	5179AC9D4C2C28E56889F5842262DD53
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.OXYGEN.Name
 #: /Game/Data/DT_Materials.DT_Materials.OXYGEN.Name
-#, fuzzy
 msgctxt ",5179AC9D4C2C28E56889F5842262DD53"
 msgid "Oxygen"
 msgstr "酸素"
@@ -1311,7 +1176,6 @@ msgstr "酸素"
 #. Key:	F4B35993413D6D20C32EB083754E72BA
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.PURE_WATER.Description
 #: /Game/Data/DT_Materials.DT_Materials.PURE_WATER.Description
-#, fuzzy
 msgctxt ",F4B35993413D6D20C32EB083754E72BA"
 msgid "Pure water that can be converted into various gases"
 msgstr "さまざまなガスに変換できる純水"
@@ -1319,7 +1183,6 @@ msgstr "さまざまなガスに変換できる純水"
 #. Key:	F5C757254E65527D1A7EBFBC25E10B6E
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.PURE_WATER.Name
 #: /Game/Data/DT_Materials.DT_Materials.PURE_WATER.Name
-#, fuzzy
 msgctxt ",F5C757254E65527D1A7EBFBC25E10B6E"
 msgid "Pure Water"
 msgstr "純粋な水"
@@ -1327,7 +1190,6 @@ msgstr "純粋な水"
 #. Key:	3865DC4B47558A5B21AF38B142295C6D
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.RAILGUN_AMMO.Description
 #: /Game/Data/DT_Materials.DT_Materials.RAILGUN_AMMO.Description
-#, fuzzy
 msgctxt ",3865DC4B47558A5B21AF38B142295C6D"
 msgid "Depleted uranium slugs fired at relativistic speeds from a ship-mounted railgun launcher"
 msgstr "船に搭載されたレールガンランチャーから相対論的速度で発射される劣化ウラン弾"
@@ -1335,7 +1197,6 @@ msgstr "船に搭載されたレールガンランチャーから相対論的速
 #. Key:	88AF4C7A4946DFA6D8B75DBCAB1E83C3
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.RAILGUN_AMMO.Name
 #: /Game/Data/DT_Materials.DT_Materials.RAILGUN_AMMO.Name
-#, fuzzy
 msgctxt ",88AF4C7A4946DFA6D8B75DBCAB1E83C3"
 msgid "Railgun Ammo"
 msgstr "レールガン弾薬"
@@ -1343,15 +1204,13 @@ msgstr "レールガン弾薬"
 #. Key:	248BFF0447CC90D715CE6DBA53C4B0DD
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.RAILGUN_TURRET.Description
 #: /Game/Data/DT_Materials.DT_Materials.RAILGUN_TURRET.Description
-#, fuzzy
 msgctxt ",248BFF0447CC90D715CE6DBA53C4B0DD"
 msgid "Fires depleted uranium slugs at near-relativistic speeds"
-msgstr "相対論的速度に近い速度で劣化ウラン弾を発射する。"
+msgstr "ほぼ相対論的な速度で劣化ウラン弾を発射する"
 
 #. Key:	D80D986742AD0098C91F4A8B4BB2BD37
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.RAILGUN_TURRET.Name
 #: /Game/Data/DT_Materials.DT_Materials.RAILGUN_TURRET.Name
-#, fuzzy
 msgctxt ",D80D986742AD0098C91F4A8B4BB2BD37"
 msgid "Railgun Turret"
 msgstr "レールガン砲塔"
@@ -1359,7 +1218,6 @@ msgstr "レールガン砲塔"
 #. Key:	B820F7DE4CA7E62B5AC205844A718C76
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.REINFORCED_FRAMES.Description
 #: /Game/Data/DT_Materials.DT_Materials.REINFORCED_FRAMES.Description
-#, fuzzy
 msgctxt ",B820F7DE4CA7E62B5AC205844A718C76"
 msgid "Ultra-high-tensile framework used in more advanced construction projects and starships"
 msgstr "より高度な建設プロジェクトや宇宙船に使用される超高張力フレームワーク"
@@ -1367,7 +1225,6 @@ msgstr "より高度な建設プロジェクトや宇宙船に使用される超
 #. Key:	D6F9D8E049C69B6F2FEAFDB019614EB7
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.REINFORCED_FRAMES.Name
 #: /Game/Data/DT_Materials.DT_Materials.REINFORCED_FRAMES.Name
-#, fuzzy
 msgctxt ",D6F9D8E049C69B6F2FEAFDB019614EB7"
 msgid "Reinforced Frames"
 msgstr "強化フレーム"
@@ -1375,7 +1232,6 @@ msgstr "強化フレーム"
 #. Key:	80BEE6704928AEC5529AB0AABB3F940F
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.SHIELD_GENERATOR.Description
 #: /Game/Data/DT_Materials.DT_Materials.SHIELD_GENERATOR.Description
-#, fuzzy
 msgctxt ",80BEE6704928AEC5529AB0AABB3F940F"
 msgid "Protective forcefield generator for advanced starships"
 msgstr "高度な宇宙船のための保護力場ジェネレーター"
@@ -1383,7 +1239,6 @@ msgstr "高度な宇宙船のための保護力場ジェネレーター"
 #. Key:	A468F87B48868E09F77DEA8F3B2608CA
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.SHIELD_GENERATOR.Name
 #: /Game/Data/DT_Materials.DT_Materials.SHIELD_GENERATOR.Name
-#, fuzzy
 msgctxt ",A468F87B48868E09F77DEA8F3B2608CA"
 msgid "Shield Generator"
 msgstr "シールドジェネレーター"
@@ -1391,15 +1246,13 @@ msgstr "シールドジェネレーター"
 #. Key:	78B417B3435704C5CA857A9FAD508B4E
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.SILICA.Description
 #: /Game/Data/DT_Materials.DT_Materials.SILICA.Description
-#, fuzzy
 msgctxt ",78B417B3435704C5CA857A9FAD508B4E"
 msgid "Raw material used to produce glass-fibre and other materials"
-msgstr "ガラス繊維などを製造するための原料"
+msgstr "ガラス繊維やその他の素材を生産するために使用される原料"
 
 #. Key:	7965FD524D5B01D5729E5DAD65A06583
 #. SourceLocation:	/Game/Data/DT_Materials.DT_Materials.SILICA.Name
 #: /Game/Data/DT_Materials.DT_Materials.SILICA.Name
-#, fuzzy
 msgctxt ",7965FD524D5B01D5729E5DAD65A06583"
 msgid "Silica"
 msgstr "シリカ"
