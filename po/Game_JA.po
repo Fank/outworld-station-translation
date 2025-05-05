@@ -4,8 +4,7 @@ msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
 "PO-Revision-Date: 2025-05-05 23:32+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/ja/>\n"
 "Language: JA\n"
@@ -35,7 +34,8 @@ msgstr "小惑星"
 #: /Game/Asteroids/BP_Asteroid_Artifact.Default__BP_Asteroid_Artifact_C.Description
 msgctxt ",D3BEE3EE451C2F49DCB8CEACE0955E68"
 msgid "Place into an Artifact Analyzer to gain vital Tech Upgrades"
-msgstr "アーティファクト・アナライザーに設置して、重要な技術アップグレードを獲得しよう"
+msgstr "アーティファクト・アナライザーに設置して、重要な技術アップグレードを獲得しよ"
+"う"
 
 #. Key:	E5CFDDBE4A1C190E71FCE581652E9796
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_Artifact.Default__BP_Asteroid_Artifact_C.Name
@@ -68,6 +68,7 @@ msgstr "エキゾチック・マター"
 #. Key:	6F21ED7247C2676ECA9BA0A104599463
 #. SourceLocation:	/Game/Asteroids/BP_Asteroid_GasPlant.Default__BP_Asteroid_GasPlant_C.Name
 #: /Game/Asteroids/BP_Asteroid_GasPlant.Default__BP_Asteroid_GasPlant_C.Name
+#, fuzzy
 msgctxt ",6F21ED7247C2676ECA9BA0A104599463"
 msgid "Gasbag Plant"
 msgstr "ガス袋工場"
