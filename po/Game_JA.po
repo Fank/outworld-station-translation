@@ -4,7 +4,8 @@ msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
 "PO-Revision-Date: 2025-07-11 01:40+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/ja/>\n"
 "Language: JA\n"
@@ -1572,10 +1573,9 @@ msgstr "ファイバーオプティクス"
 #. Key:	1559CEB3441F0EEED1B35384CD3E2CD6
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.GLASS_FIBRE.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.GLASS_FIBRE.Name
-#, fuzzy
 msgctxt ",1559CEB3441F0EEED1B35384CD3E2CD6"
 msgid "Glass Fibre"
-msgstr "ガラス繊維"
+msgstr "グラスファイバー"
 
 #. Key:	1BD516E143F66E3CC2F75881331733B5
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.GOLD.Name
@@ -1620,10 +1620,9 @@ msgstr "軽ミサイル弾薬"
 #. Key:	845A2DCD4C8BCA8C88C872B8D50D6937
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MEDIUM_ENGINE.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MEDIUM_ENGINE.Name
-#, fuzzy
 msgctxt ",845A2DCD4C8BCA8C88C872B8D50D6937"
 msgid "Medium Engine"
-msgstr "中型エンジン"
+msgstr "ミディアムエンジン"
 
 #. Key:	4BC087D649548AD21241FCB8B71C12BE
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MICRO_FUSION_REACTOR.Name
@@ -1636,10 +1635,9 @@ msgstr "マイクロ核融合炉"
 #. Key:	D567C75946CE4612C5BE9A98C1B2DC2C
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MISSILE_LAUNCHER.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MISSILE_LAUNCHER.Name
-#, fuzzy
 msgctxt ",D567C75946CE4612C5BE9A98C1B2DC2C"
 msgid "Missile Launcher"
-msgstr "ミサイルランチャー"
+msgstr "ミサイル発射"
 
 #. Key:	6D90F59B4D50B7520C33969C338D612F
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MOLECULAR_BONDING.Name
@@ -1816,7 +1814,6 @@ msgstr "弾頭"
 #. Key:	CCB7696D4708B14D55917E830574B71D
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.10.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
 #: /Game/Data/DT_StationLevel.DT_StationLevel.10.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
-#, fuzzy
 msgctxt ",CCB7696D4708B14D55917E830574B71D"
 msgid ""
 "You may now receive orders for <Armed>Military Starships</> which need to be supplied with <Armed>ammunition</>.\r\n"
@@ -1832,7 +1829,6 @@ msgstr ""
 #. Key:	82781A4D42D9995B288A68A17EF7CE45
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.11.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
 #: /Game/Data/DT_StationLevel.DT_StationLevel.11.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(0).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
-#, fuzzy
 msgctxt ",82781A4D42D9995B288A68A17EF7CE45"
 msgid ""
 "The <Bold>Junkyard</> zone has been unlocked. \r\n"
@@ -1864,7 +1860,6 @@ msgstr ""
 #. Key:	57F0B54D4276452746C16EA0F30B8595
 #. SourceLocation:	/Game/Data/DT_StationLevel.DT_StationLevel.11.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(2).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
 #: /Game/Data/DT_StationLevel.DT_StationLevel.11.Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B(2).Intro_Messages_86_3A0F1916443DBB2BDF93A7A298BFE72B
-#, fuzzy
 msgctxt ",57F0B54D4276452746C16EA0F30B8595"
 msgid ""
 "Antimatter is generated inside the <Bold>Particle Accelerator</>. This is formed from a <Bold>Control Centre</> and a ring of <Bold>Conduit</> running through one or more <Bold>Towers</>.\r\n"
@@ -2868,10 +2863,9 @@ msgstr "<Bold><XXX></> ミサイルを<Bold><YYY></> 秒に一回発射する。
 #. Key:	1CE1F0F84E9D2291E83C5F93CF83D3E4
 #. SourceLocation:	/Game/Data/DT_TechUpgrades.DT_TechUpgrades.MISSILE_LAUNCHER.Name
 #: /Game/Data/DT_TechUpgrades.DT_TechUpgrades.MISSILE_LAUNCHER.Name
-#, fuzzy
 msgctxt ",1CE1F0F84E9D2291E83C5F93CF83D3E4"
 msgid "Missile Launcher"
-msgstr "ミサイルランチャー"
+msgstr "ミサイル発射"
 
 #. Key:	E09197734D47E314ADAE04B683F0B4B2
 #. SourceLocation:	/Game/Data/DT_TechUpgrades.DT_TechUpgrades.NEUTRON_LAZER.Description
@@ -3190,7 +3184,6 @@ msgstr "モジュールをリンクする"
 #. Key:	7129A58C4BC102AE77582AA499DBB23A
 #. SourceLocation:	/Game/Data/DT_Tutorials.DT_Tutorials.END_PREVIEW.Text_8_196851E54425F65F32042AA59CEEBD3A
 #: /Game/Data/DT_Tutorials.DT_Tutorials.END_PREVIEW.Text_8_196851E54425F65F32042AA59CEEBD3A
-#, fuzzy
 msgctxt ",7129A58C4BC102AE77582AA499DBB23A"
 msgid ""
 "Congratulations Station Commander, you've completed the <Bold>Nova Corp Onboarding Process</>.\r\n"
@@ -3901,7 +3894,6 @@ msgstr "<太字>{名前}</>は終了した"
 #. Key:	EA2C6A4249F47E9ED9C011AB29049481
 #. SourceLocation:	/Game/Events/BP_Event_DustStorm.BP_Event_DustStorm_C:GetInfoItemText [Script Bytecode]
 #: /Game/Events/BP_Event_DustStorm.BP_Event_DustStorm_C:GetInfoItemText [Script Bytecode]
-#, fuzzy
 msgctxt ",EA2C6A4249F47E9ED9C011AB29049481"
 msgid "Particle Storm:"
 msgstr "パーティクルストーム："
@@ -3930,10 +3922,9 @@ msgstr "警告：<太字>{名前}</>が始まった"
 #. Key:	2C98E7994E8834D0CA92DC9CBC65E717
 #. SourceLocation:	/Game/Events/BP_Event_DustStorm.Default__BP_Event_DustStorm_C.Name
 #: /Game/Events/BP_Event_DustStorm.Default__BP_Event_DustStorm_C.Name
-#, fuzzy
 msgctxt ",2C98E7994E8834D0CA92DC9CBC65E717"
 msgid "Particle Storm"
-msgstr "パーティクルストーム"
+msgstr "パーティクルストーム："
 
 #. Key:	AD664C874678F0E700C35D880BC981A3
 #. SourceLocation:	/Game/Events/BP_Event_ElectricalStorm.BP_Event_ElectricalStorm_C:GetInfoItemText [Script Bytecode]
@@ -4015,7 +4006,6 @@ msgstr "氷の彗星"
 #. Key:	8417860741DD372135C5F7A1F1C85502
 #. SourceLocation:	/Game/Events/BP_Event_IceStorm.BP_Event_IceStorm_C:GetInfoItemText [Script Bytecode]
 #: /Game/Events/BP_Event_IceStorm.BP_Event_IceStorm_C:GetInfoItemText [Script Bytecode]
-#, fuzzy
 msgctxt ",8417860741DD372135C5F7A1F1C85502"
 msgid "Ice Storm:"
 msgstr "氷の嵐："
@@ -4044,15 +4034,13 @@ msgstr "警告：<太字>{名前}</>がやってくる"
 #. Key:	F9C376774251FC2556375FBC71C23106
 #. SourceLocation:	/Game/Events/BP_Event_IceStorm.Default__BP_Event_IceStorm_C.Name
 #: /Game/Events/BP_Event_IceStorm.Default__BP_Event_IceStorm_C.Name
-#, fuzzy
 msgctxt ",F9C376774251FC2556375FBC71C23106"
 msgid "Ice Storm"
-msgstr "氷の嵐"
+msgstr "氷の嵐："
 
 #. Key:	C630979140A8E7C549CAD5BBB6B69639
 #. SourceLocation:	/Game/Events/BP_Event_MeteorStorm.BP_Event_MeteorStorm_C:GetInfoItemText [Script Bytecode]
 #: /Game/Events/BP_Event_MeteorStorm.BP_Event_MeteorStorm_C:GetInfoItemText [Script Bytecode]
-#, fuzzy
 msgctxt ",C630979140A8E7C549CAD5BBB6B69639"
 msgid "Meteor Storm:"
 msgstr "流星の嵐："
@@ -4081,10 +4069,9 @@ msgstr "警告：<太字>{名前}</>がやってくる"
 #. Key:	1FF78A1B4B8506F221C05CBBBDBC92C8
 #. SourceLocation:	/Game/Events/BP_Event_MeteorStorm.Default__BP_Event_MeteorStorm_C.Name
 #: /Game/Events/BP_Event_MeteorStorm.Default__BP_Event_MeteorStorm_C.Name
-#, fuzzy
 msgctxt ",1FF78A1B4B8506F221C05CBBBDBC92C8"
 msgid "Meteor Storm"
-msgstr "流星の嵐"
+msgstr "流星の嵐："
 
 #. Key:	7962B432445B00AE7756ACBE8759311E
 #. SourceLocation:	/Game/Events/BP_Event_MeteorStrike.BP_Event_MeteorStrike_C:GetInfoItemText [Script Bytecode]
@@ -4117,7 +4104,6 @@ msgstr "クリーチャーの群れがやってくる： "
 #. Key:	B994D4CA41F4C08ABA77D3892367A740
 #. SourceLocation:	/Game/Events/BP_Event_Swarm.BP_Event_Swarm_C:GetInfoItemText [Script Bytecode]
 #: /Game/Events/BP_Event_Swarm.BP_Event_Swarm_C:GetInfoItemText [Script Bytecode]
-#, fuzzy
 msgctxt ",B994D4CA41F4C08ABA77D3892367A740"
 msgid "Creature Swarm:"
 msgstr "クリーチャーの群れ："
@@ -4139,10 +4125,9 @@ msgstr "警告：<太字>{名前}</>が始まった"
 #. Key:	6AC18B78489489A027DB6595D7FFD73F
 #. SourceLocation:	/Game/Events/BP_Event_Swarm.Default__BP_Event_Swarm_C.Name
 #: /Game/Events/BP_Event_Swarm.Default__BP_Event_Swarm_C.Name
-#, fuzzy
 msgctxt ",6AC18B78489489A027DB6595D7FFD73F"
 msgid "Creature Swarm"
-msgstr "クリーチャーの群れ"
+msgstr "クリーチャーの群れ："
 
 #. Key:	4430955243B67FE57E484FBE6D1C1C2B
 #. SourceLocation:	/Game/Freighters/BP_Freighter.BP_Freighter_C:BP_OnIsExploded [Script Bytecode]
@@ -5050,7 +5035,6 @@ msgstr "メインメニュー"
 #. Key:	866FB7F24E05A794989F55AEC9AC64D4
 #. SourceLocation:	/Game/MainMenu/UI_Dialog_EndOfDemo.UI_Dialog_EndOfDemo_C:WidgetTree.Text_Processing_5.Text
 #: /Game/MainMenu/UI_Dialog_EndOfDemo.UI_Dialog_EndOfDemo_C:WidgetTree.Text_Processing_5.Text
-#, fuzzy
 msgctxt ",866FB7F24E05A794989F55AEC9AC64D4"
 msgid "WISHLIST NOW!"
 msgstr "今すぐウィッシュリストへ！"
@@ -5206,7 +5190,6 @@ msgstr "レベル} {時間} {レベル"
 #. Key:	C4001FC14F032BAFEF120B8099E4BC15
 #. SourceLocation:	/Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:GetNewSaveGameName [Script Bytecode]
 #: /Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:GetNewSaveGameName [Script Bytecode]
-#, fuzzy
 msgctxt ",C4001FC14F032BAFEF120B8099E4BC15"
 msgid "{Hours}-{Mins}-{Secs}"
 msgstr "{Hours}時{Mins}分{Secs}秒"
@@ -5235,7 +5218,6 @@ msgstr "受け入れる"
 #. Key:	3A21FA894B1E766F3160B285C2451A1F
 #. SourceLocation:	/Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:Update [Script Bytecode]
 #: /Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",3A21FA894B1E766F3160B285C2451A1F"
 msgid "{Hours}:{Mins}:{Secs}"
 msgstr "{Hours}時{Mins}分{Secs}秒"
@@ -5622,7 +5604,6 @@ msgstr "ハブでレスパン"
 #. Key:	DB205A4C4D52F6F94BDADF9AAB3788E0
 #. SourceLocation:	/Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Processing_25.Text
 #: /Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Processing_25.Text
-#, fuzzy
 msgctxt ",DB205A4C4D52F6F94BDADF9AAB3788E0"
 msgid "GAME NAME:"
 msgstr "ゲーム名："
@@ -5665,7 +5646,6 @@ msgstr "ゲームを保存する"
 #. Key:	ECFC3B6C43D96E9DFC579BA7A8E12A88
 #. SourceLocation:	/Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Processing_6.Text
 #: /Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Processing_6.Text
-#, fuzzy
 msgctxt ",ECFC3B6C43D96E9DFC579BA7A8E12A88"
 msgid "CURRENT SESSION:"
 msgstr "現在のセッション："
@@ -5687,7 +5667,6 @@ msgstr "現在のセッション名"
 #. Key:	17EFB441467D5564DFAC90BD7DD22E48
 #. SourceLocation:	/Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Version_1.Text
 #: /Game/MainMenu/UI_InGameMenu.UI_InGameMenu_C:WidgetTree.Text_Version_1.Text
-#, fuzzy
 msgctxt ",17EFB441467D5564DFAC90BD7DD22E48"
 msgid "SESSION TIME:"
 msgstr "セッション時間："
@@ -5702,7 +5681,6 @@ msgstr "このゲームセッションをすべて削除してもいいのか？
 #. Key:	12DECF8C4EB8BA9D8389259414746D63
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:ExecuteUbergraph_UI_MainMenu [Script Bytecode]
 #: /Game/MainMenu/UI_MainMenu.UI_MainMenu_C:ExecuteUbergraph_UI_MainMenu [Script Bytecode]
-#, fuzzy
 msgctxt ",12DECF8C4EB8BA9D8389259414746D63"
 msgid "We found some save-games from the <Bold>Outworld Station Demo</> - would you like to <Bold>import</> these now?"
 msgstr "<Bold>アウトワールド・ステーション・デモ</>のセーブゲームをいくつか見つけまし"
@@ -6271,7 +6249,6 @@ msgstr "ゲームを開始する"
 #. Key:	D111C7E34449CFC6E61A3B9DDCA25794
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_13.Text
 #: /Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_13.Text
-#, fuzzy
 msgctxt ",D111C7E34449CFC6E61A3B9DDCA25794"
 msgid "GAME NAME:"
 msgstr "ゲーム名："
@@ -6391,7 +6368,6 @@ msgstr "ゲームオプション："
 #. Key:	BD93DAEB4E1D4636BDF0A39D4E957C32
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_32.Text
 #: /Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_32.Text
-#, fuzzy
 msgctxt ",BD93DAEB4E1D4636BDF0A39D4E957C32"
 msgid "IP ADDRESS:"
 msgstr "IPアドレス："
@@ -6413,7 +6389,6 @@ msgstr "終了"
 #. Key:	C740C5664E5E859950BC5594A4740679
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_5.Text
 #: /Game/MainMenu/UI_MainMenu.UI_MainMenu_C:WidgetTree.Text_Processing_5.Text
-#, fuzzy
 msgctxt ",C740C5664E5E859950BC5594A4740679"
 msgid "WISHLIST NOW!"
 msgstr "今すぐウィッシュリストへ！"
@@ -6470,7 +6445,6 @@ msgstr "非対応"
 #. Key:	2B57FBBE44A70ACC6DECED81F10BF8E4
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_ContinueSession.UI_MainMenu_ContinueSession_C:Init [Script Bytecode]
 #: /Game/MainMenu/UI_MainMenu_ContinueSession.UI_MainMenu_ContinueSession_C:Init [Script Bytecode]
-#, fuzzy
 msgctxt ",2B57FBBE44A70ACC6DECED81F10BF8E4"
 msgid "{Hours}:{Mins}:{Secs}"
 msgstr "{Hours}時{Mins}分{Secs}秒"
@@ -6527,7 +6501,6 @@ msgstr "ゲーム時間："
 #. Key:	E3F4961F44F48D41EC6E048D1683CB82
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_ContinueSession.UI_MainMenu_ContinueSession_C:WidgetTree.Text_GameTime_2.Text
 #: /Game/MainMenu/UI_MainMenu_ContinueSession.UI_MainMenu_ContinueSession_C:WidgetTree.Text_GameTime_2.Text
-#, fuzzy
 msgctxt ",E3F4961F44F48D41EC6E048D1683CB82"
 msgid "STATION LEVEL:"
 msgstr "ステーションのレベル："
@@ -6570,7 +6543,6 @@ msgstr "グローバルイベント"
 #. Key:	4D912B3F4AB3360C01261388E592D0B8
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:Init [Script Bytecode]
 #: /Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:Init [Script Bytecode]
-#, fuzzy
 msgctxt ",4D912B3F4AB3360C01261388E592D0B8"
 msgid "{0} x {1}"
 msgstr "{0} x {1}"
@@ -6718,7 +6690,6 @@ msgstr "精製所"
 #. Key:	5FEAEA19442E81D92E644C8BA2493166
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_Gameplay_DefaultFactoryMaxInput_Smelters.Name
 #: /Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_Gameplay_DefaultFactoryMaxInput_Smelters.Name
-#, fuzzy
 msgctxt ",5FEAEA19442E81D92E644C8BA2493166"
 msgid "SMELTERS"
 msgstr "製錬業者"
@@ -6976,7 +6947,6 @@ msgstr "アンチエイリアスモード"
 #. Key:	9B8E947746663AA060CDB691192187C8
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_GFX_AA_Mode.Options(0).Options
 #: /Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_GFX_AA_Mode.Options(0).Options
-#, fuzzy
 msgctxt ",9B8E947746663AA060CDB691192187C8"
 msgid "None"
 msgstr "なし"
@@ -7082,7 +7052,6 @@ msgstr "LIMIT FPS"
 #. Key:	0777C3CE4199530D2B9A5491FB69D8DC
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_GFX_LimitFrameRate.Options(0).Options
 #: /Game/MainMenu/UI_MainMenu_Settings.UI_MainMenu_Settings_C:WidgetTree.Option_GFX_LimitFrameRate.Options(0).Options
-#, fuzzy
 msgctxt ",0777C3CE4199530D2B9A5491FB69D8DC"
 msgid "None"
 msgstr "なし"
@@ -7755,7 +7724,6 @@ msgstr "インベントリ"
 #. Key:	AFD1052C401B7DAD66A45BB1A5539A1E
 #. SourceLocation:	/Game/MainMenu/UI_MainMenu_StartingLocation.UI_MainMenu_StartingLocation_C:WidgetTree.Text_Zone_Name.Text
 #: /Game/MainMenu/UI_MainMenu_StartingLocation.UI_MainMenu_StartingLocation_C:WidgetTree.Text_Zone_Name.Text
-#, fuzzy
 msgctxt ",AFD1052C401B7DAD66A45BB1A5539A1E"
 msgid "ENEMY STRENGTH:"
 msgstr "敵の強さ："
@@ -7791,7 +7759,6 @@ msgstr "セッションに参加できない"
 #. Key:	2AF264A44CA25D0E1FDFEB9E1ED01B71
 #. SourceLocation:	/Game/MainMenu/UI_Online_Session.UI_Online_Session_C:WidgetTree.Text_Timestamp_1.Text
 #: /Game/MainMenu/UI_Online_Session.UI_Online_Session_C:WidgetTree.Text_Timestamp_1.Text
-#, fuzzy
 msgctxt ",2AF264A44CA25D0E1FDFEB9E1ED01B71"
 msgid "Players:"
 msgstr "プレイヤー："
@@ -7799,7 +7766,6 @@ msgstr "プレイヤー："
 #. Key:	4306ECFF4E5358C3E93449AE4623BAE3
 #. SourceLocation:	/Game/MainMenu/UI_Online_Session.UI_Online_Session_C:WidgetTree.Text_Timestamp_3.Text
 #: /Game/MainMenu/UI_Online_Session.UI_Online_Session_C:WidgetTree.Text_Timestamp_3.Text
-#, fuzzy
 msgctxt ",4306ECFF4E5358C3E93449AE4623BAE3"
 msgid "Station Level:"
 msgstr "ステーションのレベル："
@@ -7818,7 +7784,6 @@ msgstr ""
 #. Key:	1904974940AD8C4B3DC3479189FA4C27
 #. SourceLocation:	/Game/MainMenu/UI_Saved_Game.UI_Saved_Game_C:Init [Script Bytecode]
 #: /Game/MainMenu/UI_Saved_Game.UI_Saved_Game_C:Init [Script Bytecode]
-#, fuzzy
 msgctxt ",1904974940AD8C4B3DC3479189FA4C27"
 msgid "{Hours}:{Mins}:{Secs}"
 msgstr "{Hours}時{Mins}分{Secs}秒"
@@ -7833,7 +7798,6 @@ msgstr "ゲーム時間："
 #. Key:	F8F3333F41517B7796588F94529F6686
 #. SourceLocation:	/Game/MainMenu/UI_Saved_Game.UI_Saved_Game_C:WidgetTree.Text_GameTime_2.Text
 #: /Game/MainMenu/UI_Saved_Game.UI_Saved_Game_C:WidgetTree.Text_GameTime_2.Text
-#, fuzzy
 msgctxt ",F8F3333F41517B7796588F94529F6686"
 msgid "STATION LEVEL:"
 msgstr "ステーションのレベル："
@@ -7897,7 +7861,6 @@ msgstr "シングルプレイヤー"
 #. Key:	E8FF45FE4A2AE520D474D08D216C486B
 #. SourceLocation:	/Game/MainMenu/UI_Saved_Game_Details.UI_Saved_Game_Details_C:Init [Script Bytecode]
 #: /Game/MainMenu/UI_Saved_Game_Details.UI_Saved_Game_Details_C:Init [Script Bytecode]
-#, fuzzy
 msgctxt ",E8FF45FE4A2AE520D474D08D216C486B"
 msgid "{Hours}:{Mins}:{Secs}"
 msgstr "{Hours}時{Mins}分{Secs}秒"
@@ -7912,7 +7875,6 @@ msgstr "ゲーム時間："
 #. Key:	1F4A2D374346A2D6315C218CD7F66D14
 #. SourceLocation:	/Game/MainMenu/UI_Saved_Game_Details.UI_Saved_Game_Details_C:WidgetTree.Text_GameTime_2.Text
 #: /Game/MainMenu/UI_Saved_Game_Details.UI_Saved_Game_Details_C:WidgetTree.Text_GameTime_2.Text
-#, fuzzy
 msgctxt ",1F4A2D374346A2D6315C218CD7F66D14"
 msgid "STATION LEVEL:"
 msgstr "ステーションのレベル："
@@ -8039,10 +8001,9 @@ msgstr "宇宙船パート"
 #. Key:	EF6DC1C144CFE310D1EB88A92AF833B7
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Engine_Medium.Default__BP_Part_Ship_Engine_Medium_C.Name
 #: /Game/Parts/Ship/BP_Part_Ship_Engine_Medium.Default__BP_Part_Ship_Engine_Medium_C.Name
-#, fuzzy
 msgctxt ",EF6DC1C144CFE310D1EB88A92AF833B7"
 msgid "Medium Engine"
-msgstr "中型エンジン"
+msgstr "ミディアムエンジン"
 
 #. Key:	07F30A994018C53408C92499E9DDD010
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Engine_Medium_02.Default__BP_Part_Ship_Engine_Medium_02_C.Description
@@ -8054,10 +8015,9 @@ msgstr "宇宙船パート"
 #. Key:	B060017045DD3DC8762CF2B1DE093E80
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Engine_Medium_02.Default__BP_Part_Ship_Engine_Medium_02_C.Name
 #: /Game/Parts/Ship/BP_Part_Ship_Engine_Medium_02.Default__BP_Part_Ship_Engine_Medium_02_C.Name
-#, fuzzy
 msgctxt ",B060017045DD3DC8762CF2B1DE093E80"
 msgid "Medium Engine"
-msgstr "中型エンジン"
+msgstr "ミディアムエンジン"
 
 #. Key:	089B31F945402461C582989B74E04721
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Engine_Small.Default__BP_Part_Ship_Engine_Small_C.Description
@@ -8134,18 +8094,16 @@ msgstr "シールドジェネレーター"
 #. Key:	47A460BC436D5D00B19129B55CB3B12A
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Turret.Default__BP_Part_Ship_Turret_C.Description
 #: /Game/Parts/Ship/BP_Part_Ship_Turret.Default__BP_Part_Ship_Turret_C.Description
-#, fuzzy
 msgctxt ",47A460BC436D5D00B19129B55CB3B12A"
 msgid "Missile Launcher"
-msgstr "ミサイルランチャー"
+msgstr "ミサイル発射"
 
 #. Key:	1D0E70AD4D7534FE87C979A27E73AF25
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Turret.Default__BP_Part_Ship_Turret_C.Name
 #: /Game/Parts/Ship/BP_Part_Ship_Turret.Default__BP_Part_Ship_Turret_C.Name
-#, fuzzy
 msgctxt ",1D0E70AD4D7534FE87C979A27E73AF25"
 msgid "Missile Launcher"
-msgstr "ミサイルランチャー"
+msgstr "ミサイル発射"
 
 #. Key:	99411FBF449C23AB26A056B068D2129F
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Turret_Railgun.Default__BP_Part_Ship_Turret_Railgun_C.Description
@@ -8719,7 +8677,6 @@ msgstr "トラップドア"
 #. Key:	F314F4A943BFCB5A5F8DBC956966BA1F
 #. SourceLocation:	/Game/Save/E_AntiAliasingMethod.E_AntiAliasingMethod.DisplayNameMap(0 - Value).DisplayNameMap
 #: /Game/Save/E_AntiAliasingMethod.E_AntiAliasingMethod.DisplayNameMap(0 - Value).DisplayNameMap
-#, fuzzy
 msgctxt ",F314F4A943BFCB5A5F8DBC956966BA1F"
 msgid "None"
 msgstr "なし"
@@ -9421,7 +9378,6 @@ msgstr "巨大ガスの上層大気から水素ガスを採掘できる収穫機
 #. Key:	C77C79944575ACA7744DDA8D64068027
 #. SourceLocation:	/Game/Station/Modules/BP_Module_CloudMinerStation.Default__BP_Module_CloudMinerStation_C.Name
 #: /Game/Station/Modules/BP_Module_CloudMinerStation.Default__BP_Module_CloudMinerStation_C.Name
-#, fuzzy
 msgctxt ",C77C79944575ACA7744DDA8D64068027"
 msgid "Cloud Miner"
 msgstr "クラウドマイナー"
@@ -10279,7 +10235,6 @@ msgstr "<太>[ C ]キー</>で<太>コーデックス</>を開く。"
 #. Key:	E94ACD774941AD5C7DEE8094771E215C
 #. SourceLocation:	/Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(11).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(2).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
 #: /Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(11).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(2).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
-#, fuzzy
 msgctxt ",E94ACD774941AD5C7DEE8094771E215C"
 msgid "Activate the <Bold>Sensor View</> by holding <Bold>Backslash [ \\ ]</> or <Bold>T</>"
 msgstr "<Bold>Backslash</> または <Bold>T</> を押して、<Bold>センサービュー</> "
@@ -10547,7 +10502,6 @@ msgstr "<太>モジュールの連結を解除する"
 #. Key:	EF2B372048CBA26FE8A729A7D8EAD0BC
 #. SourceLocation:	/Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(8).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(0).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
 #: /Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(8).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(0).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
-#, fuzzy
 msgctxt ",EF2B372048CBA26FE8A729A7D8EAD0BC"
 msgid "Construct <Bold>2 additional Smelters</>"
 msgstr "<Bold>２つの追加製錬業者</>を建設する"
@@ -10584,7 +10538,6 @@ msgstr "続<太>ステーション拡張</太>1/2"
 #. Key:	177D581F4FB7600442D4A38AB464E00F
 #. SourceLocation:	/Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(9).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(0).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
 #: /Game/Tutorials/BP_Tutorial_StartingStation.Default__BP_Tutorial_StartingStation_C.Phases(9).Phases.Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5(0).Steps_6_14E4EA9B42BB4A5105E7ED8D20D0C1C5.Text_3_A513ABCD4C9E2C1E20E8B88234EDBAD3
-#, fuzzy
 msgctxt ",177D581F4FB7600442D4A38AB464E00F"
 msgid "<Bold>Link</> the <Bold>Atomizer</> to the new <Bold>Smelters</>"
 msgstr "<Bold>アトマイザー</>を新しい<Bold>製錬業者</>にリンク</>します"
@@ -10676,7 +10629,6 @@ msgstr "<太字>{ゾーン名}{インデックス}</>ゾーンにある以下の
 #. Key:	82FE1E624CAD6121A3D391BAACA8F2C5
 #. SourceLocation:	/Game/UI/UI_ActiveContract.UI_ActiveContract_C:Update [Script Bytecode]
 #: /Game/UI/UI_ActiveContract.UI_ActiveContract_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",82FE1E624CAD6121A3D391BAACA8F2C5"
 msgid "{Mins}:{Secs}"
 msgstr "{Mins}分{Secs}秒"
@@ -10777,7 +10729,6 @@ msgstr "ステーション拡張"
 #. Key:	509EAF9047EDC3A376FD909BE90A468E
 #. SourceLocation:	/Game/UI/UI_ActiveContract.UI_ActiveContract_C:WidgetTree.Text_Reward.Text
 #: /Game/UI/UI_ActiveContract.UI_ActiveContract_C:WidgetTree.Text_Reward.Text
-#, fuzzy
 msgctxt ",509EAF9047EDC3A376FD909BE90A468E"
 msgid "On completion you will receive:"
 msgstr "完成すると："
@@ -10890,7 +10841,6 @@ msgstr "シビリアン"
 #. Key:	4B2DC98F4CE91BDBD7866AB30E68075E
 #. SourceLocation:	/Game/UI/UI_Codex.UI_Codex_C:WidgetTree.TextBlock_131.Text
 #: /Game/UI/UI_Codex.UI_Codex_C:WidgetTree.TextBlock_131.Text
-#, fuzzy
 msgctxt ",4B2DC98F4CE91BDBD7866AB30E68075E"
 msgid "TUTORIAL:"
 msgstr "チュートリアル："
@@ -10947,15 +10897,13 @@ msgstr "素材"
 #. Key:	CE67DFD449601516ECCBB59BD7444800
 #. SourceLocation:	/Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title.Text
 #: /Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title.Text
-#, fuzzy
 msgctxt ",CE67DFD449601516ECCBB59BD7444800"
 msgid "STATION LEVEL"
-msgstr "ステーションレベル"
+msgstr "ステーションのレベル："
 
 #. Key:	F3BC10F84BFE75E5F1A21299062D1664
 #. SourceLocation:	/Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title_ExtraData.Text
 #: /Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title_ExtraData.Text
-#, fuzzy
 msgctxt ",F3BC10F84BFE75E5F1A21299062D1664"
 msgid "LOCATIONS UNLOCKED:"
 msgstr "アンロックされた場所："
@@ -10970,7 +10918,6 @@ msgstr "トランスミッション："
 #. Key:	F8ADCB5E457A62BB58D4D381039362E5
 #. SourceLocation:	/Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title_ExtraData_2.Text
 #: /Game/UI/UI_Codex_Entry_StationLevel.UI_Codex_Entry_StationLevel_C:WidgetTree.Title_ExtraData_2.Text
-#, fuzzy
 msgctxt ",F8ADCB5E457A62BB58D4D381039362E5"
 msgid "MODULES UNLOCKED:"
 msgstr "モジュールのロックを解除："
@@ -11013,7 +10960,6 @@ msgstr "ゾーン名"
 #. Key:	664238A14D33532126C505BE9FC1410A
 #. SourceLocation:	/Game/UI/UI_Codex_Entry_Zone.UI_Codex_Entry_Zone_C:WidgetTree.Title_ExtraData.Text
 #: /Game/UI/UI_Codex_Entry_Zone.UI_Codex_Entry_Zone_C:WidgetTree.Title_ExtraData.Text
-#, fuzzy
 msgctxt ",664238A14D33532126C505BE9FC1410A"
 msgid "RESOURCES:"
 msgstr "リソース："
@@ -11133,7 +11079,6 @@ msgstr "作成する"
 #. Key:	7FEE74D44AC97785C9A850A8B2C85523
 #. SourceLocation:	/Game/UI/UI_CreateTodo.UI_CreateTodo_C:WidgetTree.Text_Description.Text
 #: /Game/UI/UI_CreateTodo.UI_CreateTodo_C:WidgetTree.Text_Description.Text
-#, fuzzy
 msgctxt ",7FEE74D44AC97785C9A850A8B2C85523"
 msgid "COLOUR:"
 msgstr "色："
@@ -11141,7 +11086,6 @@ msgstr "色："
 #. Key:	E05299684E4B6CCCC070F1936B10B7EA
 #. SourceLocation:	/Game/UI/UI_CreateTodo.UI_CreateTodo_C:WidgetTree.Text_Description_1.Text
 #: /Game/UI/UI_CreateTodo.UI_CreateTodo_C:WidgetTree.Text_Description_1.Text
-#, fuzzy
 msgctxt ",E05299684E4B6CCCC070F1936B10B7EA"
 msgid "NAME:"
 msgstr "名前："
@@ -11283,7 +11227,6 @@ msgstr "OK"
 #. Key:	22CE8FFC44BC8276A28FB4BCA8E4A1D2
 #. SourceLocation:	/Game/UI/UI_Dialog_CreateStation.UI_Dialog_CreateStation_C:WidgetTree.TextBlock_3.Text
 #: /Game/UI/UI_Dialog_CreateStation.UI_Dialog_CreateStation_C:WidgetTree.TextBlock_3.Text
-#, fuzzy
 msgctxt ",22CE8FFC44BC8276A28FB4BCA8E4A1D2"
 msgid "Parts required:"
 msgstr "必要なパーツ："
@@ -11610,7 +11553,6 @@ msgstr "5"
 #. Key:	30FBCF7448406EA275181DB143CD9CA0
 #. SourceLocation:	/Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",30FBCF7448406EA275181DB143CD9CA0"
 msgid "+{Amount}"
 msgstr "+{Amount}"
@@ -11618,7 +11560,6 @@ msgstr "+{Amount}"
 #. Key:	6E1423AA42A886A88EB8C5A88CE3A0FC
 #. SourceLocation:	/Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",6E1423AA42A886A88EB8C5A88CE3A0FC"
 msgid "-{Amount}"
 msgstr "-{Amount}"
@@ -11654,7 +11595,6 @@ msgstr "{HP}%である。"
 #. Key:	D1CCF6414AF90B6CCC6509A5DC71A2E6
 #. SourceLocation:	/Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Hovered_Module.UI_Hovered_Module_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",D1CCF6414AF90B6CCC6509A5DC71A2E6"
 msgid "{Stored}/{Total}"
 msgstr "{Stored}/{Total}"
@@ -12128,7 +12068,6 @@ msgstr "MK"
 #. Key:	19E835FC41F9DA497845F1B16EF43D26
 #. SourceLocation:	/Game/UI/UI_Hovered_Scavenger.UI_Hovered_Scavenger_C:WidgetTree.Text_Name_2.Text
 #: /Game/UI/UI_Hovered_Scavenger.UI_Hovered_Scavenger_C:WidgetTree.Text_Name_2.Text
-#, fuzzy
 msgctxt ",19E835FC41F9DA497845F1B16EF43D26"
 msgid "CURRENT TARGET:"
 msgstr "現在の目標："
@@ -12255,7 +12194,6 @@ msgstr "シップタグ"
 #. Key:	F4848F64461AE08DA846F3B006B0B58A
 #. SourceLocation:	/Game/UI/UI_Hovered_Waypoint.UI_Hovered_Waypoint_C:WidgetTree.Text_Name_1.Text
 #: /Game/UI/UI_Hovered_Waypoint.UI_Hovered_Waypoint_C:WidgetTree.Text_Name_1.Text
-#, fuzzy
 msgctxt ",F4848F64461AE08DA846F3B006B0B58A"
 msgid "WAYPOINT:"
 msgstr "ウェイポイント："
@@ -12305,7 +12243,6 @@ msgstr "サイクロンパワー："
 #. Key:	562A3BBD4B653FDB9AD645810F71E2B3
 #. SourceLocation:	/Game/UI/UI_Hovered_Zone.UI_Hovered_Zone_C:WidgetTree.Text_Zone_Name_6.Text
 #: /Game/UI/UI_Hovered_Zone.UI_Hovered_Zone_C:WidgetTree.Text_Zone_Name_6.Text
-#, fuzzy
 msgctxt ",562A3BBD4B653FDB9AD645810F71E2B3"
 msgid "ENEMY STRENGTH:"
 msgstr "敵の強さ："
@@ -12422,7 +12359,6 @@ msgstr "{発見}/{最大｝"
 #. Key:	E67E26704BA935ACD503B982D5B3E96D
 #. SourceLocation:	/Game/UI/UI_HUD.UI_HUD_C:Update [Script Bytecode]
 #: /Game/UI/UI_HUD.UI_HUD_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",E67E26704BA935ACD503B982D5B3E96D"
 msgid "{Hours}:{Mins}:{Secs}"
 msgstr "{Hours}時{Mins}分{Secs}秒"
@@ -12696,7 +12632,6 @@ msgstr "99"
 #. Key:	1310312D456719FD99EB088168890E5F
 #. SourceLocation:	/Game/UI/UI_HUD.UI_HUD_C:WidgetTree.Text_Zone_Name_1.Text
 #: /Game/UI/UI_HUD.UI_HUD_C:WidgetTree.Text_Zone_Name_1.Text
-#, fuzzy
 msgctxt ",1310312D456719FD99EB088168890E5F"
 msgid "RESOURCES:"
 msgstr "リソース："
@@ -12732,7 +12667,6 @@ msgstr "サイクロンパワー："
 #. Key:	B13AC37342C39A09BEE17CA2FB2753A8
 #. SourceLocation:	/Game/UI/UI_HUD.UI_HUD_C:WidgetTree.Text_Zone_Name_6.Text
 #: /Game/UI/UI_HUD.UI_HUD_C:WidgetTree.Text_Zone_Name_6.Text
-#, fuzzy
 msgctxt ",B13AC37342C39A09BEE17CA2FB2753A8"
 msgid "ENEMY STRENGTH:"
 msgstr "敵の強さ："
@@ -12761,7 +12695,6 @@ msgstr "上層隠し"
 #. Key:	9BA636BE4B61A17CE58F17902409F4F9
 #. SourceLocation:	/Game/UI/UI_InfoItem.UI_InfoItem_C:UpdateTimer [Script Bytecode]
 #: /Game/UI/UI_InfoItem.UI_InfoItem_C:UpdateTimer [Script Bytecode]
-#, fuzzy
 msgctxt ",9BA636BE4B61A17CE58F17902409F4F9"
 msgid "{Mins}:{Secs}"
 msgstr "{Mins}分{Secs}秒"
@@ -13028,7 +12961,6 @@ msgstr "このスロットは<太字>無効</>である。"
 #. Key:	0D1509BC482AF9CA5DC990B0ED5DCBC0
 #. SourceLocation:	/Game/UI/UI_MapView_Label.UI_MapView_Label_C:UpdateTimer [Script Bytecode]
 #: /Game/UI/UI_MapView_Label.UI_MapView_Label_C:UpdateTimer [Script Bytecode]
-#, fuzzy
 msgctxt ",0D1509BC482AF9CA5DC990B0ED5DCBC0"
 msgid "{Mins}:{Secs}"
 msgstr "{Mins}分{Secs}秒"
@@ -13036,7 +12968,6 @@ msgstr "{Mins}分{Secs}秒"
 #. Key:	AF32990642479A669307BEBEEAC5543B
 #. SourceLocation:	/Game/UI/UI_Message.UI_Message_C:UpdateTimer [Script Bytecode]
 #: /Game/UI/UI_Message.UI_Message_C:UpdateTimer [Script Bytecode]
-#, fuzzy
 msgctxt ",AF32990642479A669307BEBEEAC5543B"
 msgid "{Mins}:{Secs}"
 msgstr "{Mins}分{Secs}秒"
@@ -13247,7 +13178,6 @@ msgstr "モジュール"
 #. Key:	F59342644D17E6BE8B668A9470C31AAB
 #. SourceLocation:	/Game/UI/UI_Module_Widget.UI_Module_Widget_C:Update [Script Bytecode]
 #: /Game/UI/UI_Module_Widget.UI_Module_Widget_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",F59342644D17E6BE8B668A9470C31AAB"
 msgid "{Mins}:{Secs}"
 msgstr "{Mins}分{Secs}秒"
@@ -13255,7 +13185,6 @@ msgstr "{Mins}分{Secs}秒"
 #. Key:	96C317244CACB1798F18A9A0D170695C
 #. SourceLocation:	/Game/UI/UI_Panel_ArtifactAnalyzer.UI_Panel_ArtifactAnalyzer_C:Update [Script Bytecode]
 #: /Game/UI/UI_Panel_ArtifactAnalyzer.UI_Panel_ArtifactAnalyzer_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",96C317244CACB1798F18A9A0D170695C"
 msgid "{Mins}:{Secs}"
 msgstr "{Mins}分{Secs}秒"
@@ -13498,7 +13427,6 @@ msgstr "mw"
 #. Key:	9C9A3B124A3F2C8D91889BAB02BE6755
 #. SourceLocation:	/Game/UI/UI_Panel_ParticleAccelerator.UI_Panel_ParticleAccelerator_C:WidgetTree.Text_NumConnected.Text
 #: /Game/UI/UI_Panel_ParticleAccelerator.UI_Panel_ParticleAccelerator_C:WidgetTree.Text_NumConnected.Text
-#, fuzzy
 msgctxt ",9C9A3B124A3F2C8D91889BAB02BE6755"
 msgid "POWER NEEDED:"
 msgstr "必要なパワー："
@@ -13513,7 +13441,6 @@ msgstr "効率："
 #. Key:	D26AB48D4C1C245CE25CC6B3139CD871
 #. SourceLocation:	/Game/UI/UI_Panel_ParticleAccelerator.UI_Panel_ParticleAccelerator_C:WidgetTree.Text_NumConnected_2.Text
 #: /Game/UI/UI_Panel_ParticleAccelerator.UI_Panel_ParticleAccelerator_C:WidgetTree.Text_NumConnected_2.Text
-#, fuzzy
 msgctxt ",D26AB48D4C1C245CE25CC6B3139CD871"
 msgid "Loop length:"
 msgstr "ループの長さ："
@@ -13656,7 +13583,6 @@ msgstr ""
 #. Key:	89E50E7E48376D4B8E19BC901586024A
 #. SourceLocation:	/Game/UI/UI_Panel_SolarGenerator.UI_Panel_SolarGenerator_C:Update [Script Bytecode]
 #: /Game/UI/UI_Panel_SolarGenerator.UI_Panel_SolarGenerator_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",89E50E7E48376D4B8E19BC901586024A"
 msgid "{Amount}%"
 msgstr "{Amount}%"
@@ -13804,7 +13730,6 @@ msgstr "レシピを選ぶ"
 #. Key:	5A809CA4470F933023232CAF38C25396
 #. SourceLocation:	/Game/UI/UI_Process_Recipe.UI_Process_Recipe_C:WidgetTree.Text_RecipeName_3.Text
 #: /Game/UI/UI_Process_Recipe.UI_Process_Recipe_C:WidgetTree.Text_RecipeName_3.Text
-#, fuzzy
 msgctxt ",5A809CA4470F933023232CAF38C25396"
 msgid "s"
 msgstr "秒"
@@ -14292,7 +14217,6 @@ msgstr "30"
 #. Key:	1FC9786D4BA63DD3090CA6ADB27DDA9D
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",1FC9786D4BA63DD3090CA6ADB27DDA9D"
 msgid "-{Amount}"
 msgstr "-{Amount}"
@@ -14300,7 +14224,6 @@ msgstr "-{Amount}"
 #. Key:	293B2E9040963B96C937B2858A98164A
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",293B2E9040963B96C937B2858A98164A"
 msgid "+{Amount}"
 msgstr "+{Amount}"
@@ -14308,7 +14231,6 @@ msgstr "+{Amount}"
 #. Key:	39620E1A4B989FD1B4CB81B56E74B75F
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",39620E1A4B989FD1B4CB81B56E74B75F"
 msgid "{Stored}/{Total}"
 msgstr "{Stored}/{Total}"
@@ -14323,7 +14245,6 @@ msgstr "{HP}%である。"
 #. Key:	E7AB8DF14FACB11CE2CDDB93F3753BB9
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",E7AB8DF14FACB11CE2CDDB93F3753BB9"
 msgid "-{Amount}"
 msgstr "-{Amount}"
@@ -14331,7 +14252,6 @@ msgstr "-{Amount}"
 #. Key:	F09BAE064B9040822BF32E94DF138243
 #. SourceLocation:	/Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module.UI_Selected_Module_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",F09BAE064B9040822BF32E94DF138243"
 msgid "+{Amount}"
 msgstr "+{Amount}"
@@ -14705,7 +14625,6 @@ msgstr "出力"
 #. Key:	0B05316D478B495F7AF1AEB33396CB23
 #. SourceLocation:	/Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",0B05316D478B495F7AF1AEB33396CB23"
 msgid "{Amount}"
 msgstr "{Amount}"
@@ -14713,7 +14632,6 @@ msgstr "{Amount}"
 #. Key:	6970046044E026DE1B4273B8C81D104E
 #. SourceLocation:	/Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",6970046044E026DE1B4273B8C81D104E"
 msgid "{Amount}"
 msgstr "{Amount}"
@@ -14721,7 +14639,6 @@ msgstr "{Amount}"
 #. Key:	790D081746DFBBB448649089ED8AA07C
 #. SourceLocation:	/Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",790D081746DFBBB448649089ED8AA07C"
 msgid "{Amount}"
 msgstr "{Amount}"
@@ -14729,7 +14646,6 @@ msgstr "{Amount}"
 #. Key:	8D457A9B430D391DB65158AD46FD559F
 #. SourceLocation:	/Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",8D457A9B430D391DB65158AD46FD559F"
 msgid "{Stored}/{Total}"
 msgstr "{Stored}/{Total}"
@@ -14737,7 +14653,6 @@ msgstr "{Stored}/{Total}"
 #. Key:	F6E0D7EC4A9F455C61A3EF9C4D7757A8
 #. SourceLocation:	/Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
 #: /Game/UI/UI_Selected_Module_PowerDetails.UI_Selected_Module_PowerDetails_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",F6E0D7EC4A9F455C61A3EF9C4D7757A8"
 msgid "{Amount}"
 msgstr "{Amount}"
@@ -14892,15 +14807,13 @@ msgstr "並べ替え"
 #. Key:	60E70EE94A4DDD9ECB4671A6EB331866
 #. SourceLocation:	/Game/UI/UI_Selected_Waypoint.UI_Selected_Waypoint_C:WidgetTree.Text_Description.Text
 #: /Game/UI/UI_Selected_Waypoint.UI_Selected_Waypoint_C:WidgetTree.Text_Description.Text
-#, fuzzy
 msgctxt ",60E70EE94A4DDD9ECB4671A6EB331866"
 msgid "WAYPOINT"
-msgstr "ウェイポイント"
+msgstr "ウェイポイント："
 
 #. Key:	E7CC1AA54BCCF22665BEE2A21FC70589
 #. SourceLocation:	/Game/UI/UI_Ship_Widget.UI_Ship_Widget_C:Update [Script Bytecode]
 #: /Game/UI/UI_Ship_Widget.UI_Ship_Widget_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",E7CC1AA54BCCF22665BEE2A21FC70589"
 msgid "{Mins}:{Secs}"
 msgstr "{Mins}分{Secs}秒"
@@ -14908,7 +14821,6 @@ msgstr "{Mins}分{Secs}秒"
 #. Key:	5EDA938F4170C1DFC9744BAE204A7993
 #. SourceLocation:	/Game/UI/UI_SolarAlignDisplay.UI_SolarAlignDisplay_C:Update [Script Bytecode]
 #: /Game/UI/UI_SolarAlignDisplay.UI_SolarAlignDisplay_C:Update [Script Bytecode]
-#, fuzzy
 msgctxt ",5EDA938F4170C1DFC9744BAE204A7993"
 msgid "{Amount}%"
 msgstr "{Amount}%"
@@ -14958,7 +14870,6 @@ msgstr "MK"
 #. Key:	37FBC9BD43DF01BF732446B57CB25B72
 #. SourceLocation:	/Game/UI/UI_Tooltip.UI_Tooltip_C:WidgetTree.TextBlock_80.Text
 #: /Game/UI/UI_Tooltip.UI_Tooltip_C:WidgetTree.TextBlock_80.Text
-#, fuzzy
 msgctxt ",37FBC9BD43DF01BF732446B57CB25B72"
 msgid "HOTKEY:"
 msgstr "ホットキー："
@@ -14966,7 +14877,6 @@ msgstr "ホットキー："
 #. Key:	054EEB0F4848A0015F2ED59A52F48DDA
 #. SourceLocation:	/Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:Init [Script Bytecode]
 #: /Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:Init [Script Bytecode]
-#, fuzzy
 msgctxt ",054EEB0F4848A0015F2ED59A52F48DDA"
 msgid "+{Amount}"
 msgstr "+{Amount}"
@@ -14974,7 +14884,6 @@ msgstr "+{Amount}"
 #. Key:	73F00CBE4A1803399B19CD8FD6BA02FE
 #. SourceLocation:	/Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:Init [Script Bytecode]
 #: /Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:Init [Script Bytecode]
-#, fuzzy
 msgctxt ",73F00CBE4A1803399B19CD8FD6BA02FE"
 msgid "-{Amount}"
 msgstr "-{Amount}"
@@ -15003,7 +14912,6 @@ msgstr "ToDo リストに追加する"
 #. Key:	F97C8B4E41CDF377CD7AA4BF85C67993
 #. SourceLocation:	/Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:WidgetTree.Text_Description_4.Text
 #: /Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:WidgetTree.Text_Description_4.Text
-#, fuzzy
 msgctxt ",F97C8B4E41CDF377CD7AA4BF85C67993"
 msgid "+"
 msgstr "+"
@@ -15011,7 +14919,6 @@ msgstr "+"
 #. Key:	9A3FB71A44684DB58CA8DBA96938B7DF
 #. SourceLocation:	/Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:WidgetTree.Text_Description_5.Text
 #: /Game/UI/UI_Tooltip_BuildItem.UI_Tooltip_BuildItem_C:WidgetTree.Text_Description_5.Text
-#, fuzzy
 msgctxt ",9A3FB71A44684DB58CA8DBA96938B7DF"
 msgid "-"
 msgstr "-"
@@ -15264,7 +15171,6 @@ msgstr "電源が切れると爆発する"
 #. Key:	BC4E8F6A45A32207945F788FFBE93965
 #. SourceLocation:	/Game/UI/UI_Tooltip_ObjectUpgrade.UI_Tooltip_ObjectUpgrade_C:Init [Script Bytecode]
 #: /Game/UI/UI_Tooltip_ObjectUpgrade.UI_Tooltip_ObjectUpgrade_C:Init [Script Bytecode]
-#, fuzzy
 msgctxt ",BC4E8F6A45A32207945F788FFBE93965"
 msgid "{Current}{NewLine}•{This}"
 msgstr "{Current}{NewLine}•{This}"
@@ -15300,7 +15206,6 @@ msgstr "制作"
 #. Key:	43B619D0448CD2E82D558D93791C7007
 #. SourceLocation:	/Game/UI/UI_Tooltip_Recipe.UI_Tooltip_Recipe_C:WidgetTree.Text_Time_1.Text
 #: /Game/UI/UI_Tooltip_Recipe.UI_Tooltip_Recipe_C:WidgetTree.Text_Time_1.Text
-#, fuzzy
 msgctxt ",43B619D0448CD2E82D558D93791C7007"
 msgid "s"
 msgstr "秒"
@@ -15539,7 +15444,6 @@ msgstr "-テキスト"
 #. Key:	569249A64370585AD6AD58B9ABF7F81B
 #. SourceLocation:	/Game/UI/UI_Tutorial.UI_Tutorial_C:WidgetTree.Text_Contract_Class.Text
 #: /Game/UI/UI_Tutorial.UI_Tutorial_C:WidgetTree.Text_Contract_Class.Text
-#, fuzzy
 msgctxt ",569249A64370585AD6AD58B9ABF7F81B"
 msgid "TUTORIAL:"
 msgstr "チュートリアル："
@@ -15547,7 +15451,6 @@ msgstr "チュートリアル："
 #. Key:	BD6AD72849FBEE1B0B315489F57F7526
 #. SourceLocation:	/Game/UI/UI_Tutorial.UI_Tutorial_C:WidgetTree.Text_Tips_Title.Text
 #: /Game/UI/UI_Tutorial.UI_Tutorial_C:WidgetTree.Text_Tips_Title.Text
-#, fuzzy
 msgctxt ",BD6AD72849FBEE1B0B315489F57F7526"
 msgid "TIPS:"
 msgstr "ヒント："
@@ -15569,10 +15472,9 @@ msgstr "スタート"
 #. Key:	A070BC154D985AFF6388F4A3266B84E0
 #. SourceLocation:	/Game/UI/UI_Tutorial_PhaseChanged.UI_Tutorial_PhaseChanged_C:WidgetTree.Text_Tutorial.Text
 #: /Game/UI/UI_Tutorial_PhaseChanged.UI_Tutorial_PhaseChanged_C:WidgetTree.Text_Tutorial.Text
-#, fuzzy
 msgctxt ",A070BC154D985AFF6388F4A3266B84E0"
 msgid "TUTORIAL"
-msgstr "チュートリアル"
+msgstr "チュートリアル："
 
 #. Key:	3C5B02814127C4ACC56D008EFFC42305
 #. SourceLocation:	/Game/UI/UI_Tutorial_Popup.UI_Tutorial_Popup_C:ExecuteUbergraph_UI_Tutorial_Popup [Script Bytecode]
@@ -15655,7 +15557,6 @@ msgstr "チュートリアルのポップアップを表示する"
 #. Key:	D649A9F643BCDE9A8B0C3EB3E4D8233F
 #. SourceLocation:	/Game/UI/UI_Tutorial_Popup.UI_Tutorial_Popup_C:WidgetTree.TextBlock_131.Text
 #: /Game/UI/UI_Tutorial_Popup.UI_Tutorial_Popup_C:WidgetTree.TextBlock_131.Text
-#, fuzzy
 msgctxt ",D649A9F643BCDE9A8B0C3EB3E4D8233F"
 msgid "TUTORIAL:"
 msgstr "チュートリアル："
