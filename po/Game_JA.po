@@ -4,8 +4,7 @@ msgstr ""
 "Project-Id-Version: Game_Japanese\n"
 "POT-Creation-Date: 2025-05-02 10:32\n"
 "PO-Revision-Date: 2025-07-11 01:40+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/"
 "outworld-station/game/ja/>\n"
 "Language: JA\n"
@@ -1485,7 +1484,6 @@ msgstr "水の氷"
 #. Key:	299C42494B4CB22B26051AB0C7508EA4
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.ADVANCED_PLATING.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.ADVANCED_PLATING.Name
-#, fuzzy
 msgctxt ",299C42494B4CB22B26051AB0C7508EA4"
 msgid "Advanced Plating"
 msgstr "高度なメッキ"
@@ -1493,7 +1491,6 @@ msgstr "高度なメッキ"
 #. Key:	F4F78B1A420A83E5E27BCBAED1E799B9
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.ANTIMATTER.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.ANTIMATTER.Name
-#, fuzzy
 msgctxt ",F4F78B1A420A83E5E27BCBAED1E799B9"
 msgid "Antimatter"
 msgstr "反物質"
@@ -1501,7 +1498,6 @@ msgstr "反物質"
 #. Key:	AB8F95484E508EFEDD0266BAB3960DC7
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.ARTIFICIAL_DIAMOND.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.ARTIFICIAL_DIAMOND.Name
-#, fuzzy
 msgctxt ",AB8F95484E508EFEDD0266BAB3960DC7"
 msgid "Artificial Diamond"
 msgstr "人工ダイヤモンド"
@@ -1509,7 +1505,6 @@ msgstr "人工ダイヤモンド"
 #. Key:	39CE2BA343279F97D43B07817B1D802D
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.BASIC_FRAMES.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.BASIC_FRAMES.Name
-#, fuzzy
 msgctxt ",39CE2BA343279F97D43B07817B1D802D"
 msgid "Basic Frames"
 msgstr "基本フレーム"
@@ -1517,7 +1512,6 @@ msgstr "基本フレーム"
 #. Key:	476A520947744855FF69EE9E4C220ABA
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.CARBON.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.CARBON.Name
-#, fuzzy
 msgctxt ",476A520947744855FF69EE9E4C220ABA"
 msgid "Carbon"
 msgstr "カーボン"
@@ -1525,7 +1519,6 @@ msgstr "カーボン"
 #. Key:	D8FBDF774E309C3B44AD99A6DF3B64E5
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.CARBON_NANOTUBE.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.CARBON_NANOTUBE.Name
-#, fuzzy
 msgctxt ",D8FBDF774E309C3B44AD99A6DF3B64E5"
 msgid "Carbon Nanotube"
 msgstr "カーボンナノチューブ"
@@ -1533,7 +1526,6 @@ msgstr "カーボンナノチューブ"
 #. Key:	02D276504C7EEF984FD795ACC1314BB5
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.CIRCUIT_BOARDS.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.CIRCUIT_BOARDS.Name
-#, fuzzy
 msgctxt ",02D276504C7EEF984FD795ACC1314BB5"
 msgid "Circuit Boards"
 msgstr "回路基板"
@@ -1541,7 +1533,6 @@ msgstr "回路基板"
 #. Key:	55E8695A4E07BF6BA9EC2FB9E76340EB
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.COMPOSITE.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.COMPOSITE.Name
-#, fuzzy
 msgctxt ",55E8695A4E07BF6BA9EC2FB9E76340EB"
 msgid "Composite"
 msgstr "コンポジット"
@@ -1549,7 +1540,6 @@ msgstr "コンポジット"
 #. Key:	734364ED40EDB28E3D1FE8B797A6E172
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.COMPUTERS.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.COMPUTERS.Name
-#, fuzzy
 msgctxt ",734364ED40EDB28E3D1FE8B797A6E172"
 msgid "Computers"
 msgstr "コンピューター"
@@ -1557,7 +1547,6 @@ msgstr "コンピューター"
 #. Key:	FC44FD4842B4FB494C8F3F9515C1932D
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.DEPLETED_URANIUM.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.DEPLETED_URANIUM.Name
-#, fuzzy
 msgctxt ",FC44FD4842B4FB494C8F3F9515C1932D"
 msgid "Depleted Uranium"
 msgstr "劣化ウラン"
@@ -1565,7 +1554,6 @@ msgstr "劣化ウラン"
 #. Key:	DC9E502E4F25E34452CDD79BDB7A99AE
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.FIBRE_OPTICS.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.FIBRE_OPTICS.Name
-#, fuzzy
 msgctxt ",DC9E502E4F25E34452CDD79BDB7A99AE"
 msgid "Fibre Optics"
 msgstr "ファイバーオプティクス"
@@ -1580,7 +1568,6 @@ msgstr "グラスファイバー"
 #. Key:	1BD516E143F66E3CC2F75881331733B5
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.GOLD.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.GOLD.Name
-#, fuzzy
 msgctxt ",1BD516E143F66E3CC2F75881331733B5"
 msgid "Gold"
 msgstr "ゴールド"
@@ -1588,7 +1575,6 @@ msgstr "ゴールド"
 #. Key:	EBFF052E4D3B44584E99B193AABB4ED1
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.HEAVY_FRAMES.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.HEAVY_FRAMES.Name
-#, fuzzy
 msgctxt ",EBFF052E4D3B44584E99B193AABB4ED1"
 msgid "Heavy Frames"
 msgstr "重いフレーム"
@@ -1596,7 +1582,6 @@ msgstr "重いフレーム"
 #. Key:	D76EE6CE486F62400887958B62485B10
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.HULL_PLATING.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.HULL_PLATING.Name
-#, fuzzy
 msgctxt ",D76EE6CE486F62400887958B62485B10"
 msgid "Hull Plating"
 msgstr "船体メッキ"
@@ -1604,7 +1589,6 @@ msgstr "船体メッキ"
 #. Key:	EEC0041B460DD5E70417B0A68A4388C1
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.HYDROGEN.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.HYDROGEN.Name
-#, fuzzy
 msgctxt ",EEC0041B460DD5E70417B0A68A4388C1"
 msgid "Hydrogen"
 msgstr "水素"
@@ -1612,7 +1596,6 @@ msgstr "水素"
 #. Key:	177E33D9478984A7F6DBC0915FE70A16
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.LIGHT_MISSILE_AMMO.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.LIGHT_MISSILE_AMMO.Name
-#, fuzzy
 msgctxt ",177E33D9478984A7F6DBC0915FE70A16"
 msgid "Light Missile Ammo"
 msgstr "軽ミサイル弾薬"
@@ -1627,7 +1610,6 @@ msgstr "ミディアムエンジン"
 #. Key:	4BC087D649548AD21241FCB8B71C12BE
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MICRO_FUSION_REACTOR.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MICRO_FUSION_REACTOR.Name
-#, fuzzy
 msgctxt ",4BC087D649548AD21241FCB8B71C12BE"
 msgid "Micro-Fusion Reactor"
 msgstr "マイクロ核融合炉"
@@ -1642,7 +1624,6 @@ msgstr "ミサイル発射"
 #. Key:	6D90F59B4D50B7520C33969C338D612F
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MOLECULAR_BONDING.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.MOLECULAR_BONDING.Name
-#, fuzzy
 msgctxt ",6D90F59B4D50B7520C33969C338D612F"
 msgid "Molecular Bonding"
 msgstr "分子結合"
@@ -1650,7 +1631,6 @@ msgstr "分子結合"
 #. Key:	2EC80BA3424C413978C58F8D001D7904
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.NANO_PLATING.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.NANO_PLATING.Name
-#, fuzzy
 msgctxt ",2EC80BA3424C413978C58F8D001D7904"
 msgid "Nano Plating"
 msgstr "ナノメッキ"
@@ -1658,7 +1638,6 @@ msgstr "ナノメッキ"
 #. Key:	F57146D5481CD3B28089C383A5B02AB1
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.NEUTRON_INITIATOR.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.NEUTRON_INITIATOR.Name
-#, fuzzy
 msgctxt ",F57146D5481CD3B28089C383A5B02AB1"
 msgid "Neutron Initiator"
 msgstr "中性子イニシエーター"
@@ -1666,7 +1645,6 @@ msgstr "中性子イニシエーター"
 #. Key:	6C9D27314577F15DE52AC4AE761C63A2
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.NITRONIC_ACID.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.NITRONIC_ACID.Name
-#, fuzzy
 msgctxt ",6C9D27314577F15DE52AC4AE761C63A2"
 msgid "Nitronic Acid"
 msgstr "硝酸"
@@ -1674,7 +1652,6 @@ msgstr "硝酸"
 #. Key:	155320C34BB61BD3E72DABBAA5787228
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.NITROX.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.NITROX.Name
-#, fuzzy
 msgctxt ",155320C34BB61BD3E72DABBAA5787228"
 msgid "Nitrox"
 msgstr "ナイトロックス"
@@ -1682,7 +1659,6 @@ msgstr "ナイトロックス"
 #. Key:	06E5FCDB40EA16952003238B9113BBEC
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.OXYGEN.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.OXYGEN.Name
-#, fuzzy
 msgctxt ",06E5FCDB40EA16952003238B9113BBEC"
 msgid "Oxygen"
 msgstr "酸素"
@@ -1690,7 +1666,6 @@ msgstr "酸素"
 #. Key:	5A0707CB47412E128F0BED9B0D9723B5
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.PURE_WATER.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.PURE_WATER.Name
-#, fuzzy
 msgctxt ",5A0707CB47412E128F0BED9B0D9723B5"
 msgid "Pure Water"
 msgstr "純粋な水"
@@ -1698,7 +1673,6 @@ msgstr "純粋な水"
 #. Key:	D8BA5CE54204D81AB6E40E9458EEC652
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.RAILGUN_AMMO.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.RAILGUN_AMMO.Name
-#, fuzzy
 msgctxt ",D8BA5CE54204D81AB6E40E9458EEC652"
 msgid "Railgun Ammo"
 msgstr "レールガン弾薬"
@@ -1706,7 +1680,6 @@ msgstr "レールガン弾薬"
 #. Key:	E14D81FD4AB5C08BFB1652873B842256
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.RAILGUN_TURRET.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.RAILGUN_TURRET.Name
-#, fuzzy
 msgctxt ",E14D81FD4AB5C08BFB1652873B842256"
 msgid "Railgun Turret"
 msgstr "レールガン砲塔"
@@ -1714,7 +1687,6 @@ msgstr "レールガン砲塔"
 #. Key:	F281E72847B6A7D8A463E596239364C5
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.REINFORCED_FRAMES.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.REINFORCED_FRAMES.Name
-#, fuzzy
 msgctxt ",F281E72847B6A7D8A463E596239364C5"
 msgid "Reinforced Frames"
 msgstr "強化フレーム"
@@ -1722,7 +1694,6 @@ msgstr "強化フレーム"
 #. Key:	D3C875044B81ACB71B9323B1DFC2D2D4
 #. SourceLocation:	/Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.SHIELD_GENERATOR.Name
 #: /Game/Data/DT_ProcessRecipes.DT_ProcessRecipes.SHIELD_GENERATOR.Name
-#, fuzzy
 msgctxt ",D3C875044B81ACB71B9323B1DFC2D2D4"
 msgid "Shield Generator"
 msgstr "シールドジェネレーター"
@@ -3524,7 +3495,6 @@ msgstr ""
 #. Key:	6D12886146196EC7F23E6A82FD1C06D5
 #. SourceLocation:	/Game/Data/DT_Tutorials.DT_Tutorials.SELECT_RECIPE.Title_6_801546C2420332EC11E924A11921447D
 #: /Game/Data/DT_Tutorials.DT_Tutorials.SELECT_RECIPE.Title_6_801546C2420332EC11E924A11921447D
-#, fuzzy
 msgctxt ",6D12886146196EC7F23E6A82FD1C06D5"
 msgid "Production"
 msgstr "制作"
@@ -4538,7 +4508,6 @@ msgstr "金額を選ぶ"
 #. Key:	8D2757014E636B2718697EBB0CA1EDBB
 #. SourceLocation:	/Game/Input/IA_Codex.IA_Codex.ActionDescription
 #: /Game/Input/IA_Codex.IA_Codex.ActionDescription
-#, fuzzy
 msgctxt ",8D2757014E636B2718697EBB0CA1EDBB"
 msgid "Codex"
 msgstr "コーデックス"
@@ -8078,7 +8047,6 @@ msgstr "小型エンジン"
 #. Key:	9BD5FDFB44610E35AC48399C30D714CD
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_ShieldGenerator.Default__BP_Part_Ship_ShieldGenerator_C.Description
 #: /Game/Parts/Ship/BP_Part_Ship_ShieldGenerator.Default__BP_Part_Ship_ShieldGenerator_C.Description
-#, fuzzy
 msgctxt ",9BD5FDFB44610E35AC48399C30D714CD"
 msgid "Shield Generator"
 msgstr "シールドジェネレーター"
@@ -8086,7 +8054,6 @@ msgstr "シールドジェネレーター"
 #. Key:	89D483454C59C731D1E0AFA08E1BE381
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_ShieldGenerator.Default__BP_Part_Ship_ShieldGenerator_C.Name
 #: /Game/Parts/Ship/BP_Part_Ship_ShieldGenerator.Default__BP_Part_Ship_ShieldGenerator_C.Name
-#, fuzzy
 msgctxt ",89D483454C59C731D1E0AFA08E1BE381"
 msgid "Shield Generator"
 msgstr "シールドジェネレーター"
@@ -8108,7 +8075,6 @@ msgstr "ミサイル発射"
 #. Key:	99411FBF449C23AB26A056B068D2129F
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Turret_Railgun.Default__BP_Part_Ship_Turret_Railgun_C.Description
 #: /Game/Parts/Ship/BP_Part_Ship_Turret_Railgun.Default__BP_Part_Ship_Turret_Railgun_C.Description
-#, fuzzy
 msgctxt ",99411FBF449C23AB26A056B068D2129F"
 msgid "Railgun Turret"
 msgstr "レールガン砲塔"
@@ -8116,7 +8082,6 @@ msgstr "レールガン砲塔"
 #. Key:	5EA6F03F4C77509CE9EDB89F2003BC4E
 #. SourceLocation:	/Game/Parts/Ship/BP_Part_Ship_Turret_Railgun.Default__BP_Part_Ship_Turret_Railgun_C.Name
 #: /Game/Parts/Ship/BP_Part_Ship_Turret_Railgun.Default__BP_Part_Ship_Turret_Railgun_C.Name
-#, fuzzy
 msgctxt ",5EA6F03F4C77509CE9EDB89F2003BC4E"
 msgid "Railgun Turret"
 msgstr "レールガン砲塔"
